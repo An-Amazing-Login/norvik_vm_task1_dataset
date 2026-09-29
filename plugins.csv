@@ -1,0 +1,334 @@
+plugin_id,plugin_name,severity,cvss_v3_max,cve_count
+210001,Windows Server 2016 Security Update (2024-06),Critical,9.8,26
+210002,Windows Server 2016 Security Update (2024-07),Critical,9.8,74
+210003,Windows Server 2016 Security Update (2024-08),Critical,9.8,51
+210004,Windows Server 2016 Security Update (2024-09),High,8.8,37
+210005,Windows Server 2016 Security Update (2024-10),Critical,9.0,58
+210006,Windows Server 2016 Security Update (2024-11),Critical,9.8,25
+210007,Windows Server 2016 Security Update (2024-12),Critical,9.8,34
+210008,Windows Server 2016 Security Update (2025-01),Critical,9.8,109
+210009,Windows Server 2016 Security Update (2025-02),High,8.8,32
+210010,Windows Server 2016 Security Update (2025-03),High,8.8,33
+210011,Windows Server 2016 Security Update (2025-04),High,8.8,60
+210012,Windows Server 2016 Security Update (2025-05),High,8.8,35
+210013,Windows Server 2016 Security Update (2025-06),High,8.8,37
+210014,Windows Server 2016 Security Update (2025-07),Critical,9.8,82
+210015,Windows Server 2016 Security Update (2025-08),Critical,9.8,54
+210017,Windows Server 2016 Security Update (2025-10),Critical,9.8,70
+210018,Windows Server 2016 Security Update (2025-11),Critical,9.8,25
+210019,Windows Server 2016 Security Update (2025-12),High,8.8,18
+210020,Windows Server 2016 Security Update (2026-01),High,8.8,50
+210021,Windows Server 2016 Security Update (2026-02),High,8.8,21
+210022,Windows Server 2016 Security Update (2026-03),High,8.8,34
+210023,Windows Server 2016 Security Update (2026-04),Critical,9.8,85
+210024,Windows Server 2016 Security Update (2026-05),Critical,9.8,46
+210025,Windows Server 2016 Security Update (2026-06),Critical,9.8,75
+210026,Windows Server 2016 Security Update (2026-07),Critical,9.9,248
+210027,Windows Server 2016 Security Update (2026-08),Critical,9.8,165
+210028,Windows Server 2016 Security Update (2026-09),Critical,9.8,554
+210029,Windows Server 2019 Security Update (2024-06),Critical,9.8,30
+210030,Windows Server 2019 Security Update (2024-07),Critical,9.8,76
+210031,Windows Server 2019 Security Update (2024-08),Critical,9.8,53
+210032,Windows Server 2019 Security Update (2024-09),High,8.8,36
+210033,Windows Server 2019 Security Update (2024-10),Critical,9.0,80
+210034,Windows Server 2019 Security Update (2024-11),Critical,9.8,28
+210035,Windows Server 2019 Security Update (2024-12),Critical,9.8,57
+210036,Windows Server 2019 Security Update (2025-01),Critical,9.8,116
+210037,Windows Server 2019 Security Update (2025-02),High,8.8,33
+210038,Windows Server 2019 Security Update (2025-03),High,8.8,32
+210039,Windows Server 2019 Security Update (2025-04),High,8.8,74
+210040,Windows Server 2019 Security Update (2025-05),High,8.8,39
+210041,Windows Server 2019 Security Update (2025-06),High,8.8,39
+210042,Windows Server 2019 Security Update (2025-07),Critical,9.8,88
+210043,Windows Server 2019 Security Update (2025-08),Critical,9.8,60
+210044,Windows Server 2019 Security Update (2025-09),High,8.8,50
+210045,Windows Server 2019 Security Update (2025-10),Critical,9.9,92
+210046,Windows Server 2019 Security Update (2025-11),Critical,9.8,33
+210047,Windows Server 2019 Security Update (2025-12),High,8.8,29
+210048,Windows Server 2019 Security Update (2026-01),High,8.8,69
+210049,Windows Server 2019 Security Update (2026-02),High,8.8,24
+210050,Windows Server 2019 Security Update (2026-03),High,8.8,38
+210051,Windows Server 2019 Security Update (2026-04),Critical,9.8,104
+210052,Windows Server 2019 Security Update (2026-05),Critical,9.8,54
+210053,Windows Server 2019 Security Update (2026-06),Critical,9.8,88
+210054,Windows Server 2019 Security Update (2026-07),Critical,9.9,311
+210055,Windows Server 2019 Security Update (2026-08),Critical,9.8,181
+210056,Windows Server 2019 Security Update (2026-09),Critical,9.8,616
+210057,Windows Server 2022 Security Update (2024-06),Critical,9.8,30
+210058,Windows Server 2022 Security Update (2024-07),Critical,9.8,80
+210059,Windows Server 2022 Security Update (2024-08),Critical,9.8,58
+210060,Windows Server 2022 Security Update (2024-09),High,8.8,39
+210061,Windows Server 2022 Security Update (2024-10),Critical,9.0,89
+210062,Windows Server 2022 Security Update (2024-11),Critical,9.8,35
+210063,Windows Server 2022 Security Update (2024-12),Critical,9.8,57
+210064,Windows Server 2022 Security Update (2025-01),Critical,9.8,128
+210065,Windows Server 2022 Security Update (2025-02),High,8.8,33
+210066,Windows Server 2022 Security Update (2025-03),High,8.8,35
+210067,Windows Server 2022 Security Update (2025-04),High,8.8,81
+210068,Windows Server 2022 Security Update (2025-05),High,8.8,41
+210069,Windows Server 2022 Security Update (2025-06),High,8.8,40
+210070,Windows Server 2022 Security Update (2025-07),Critical,9.8,94
+210071,Windows Server 2022 Security Update (2025-08),Critical,9.8,65
+210072,Windows Server 2022 Security Update (2025-09),High,8.8,57
+210073,Windows Server 2022 Security Update (2025-10),Critical,9.9,110
+210074,Windows Server 2022 Security Update (2025-11),Critical,9.8,33
+210075,Windows Server 2022 Security Update (2025-12),High,8.8,34
+210076,Windows Server 2022 Security Update (2026-01),High,8.8,78
+210077,Windows Server 2022 Security Update (2026-02),High,8.8,29
+210078,Windows Server 2022 Security Update (2026-03),High,8.8,42
+210079,Windows Server 2022 Security Update (2026-04),Critical,9.8,120
+210080,Windows Server 2022 Security Update (2026-05),Critical,9.8,58
+210081,Windows Server 2022 Security Update (2026-06),Critical,9.8,104
+210082,Windows Server 2022 Security Update (2026-07),Critical,9.9,325
+210083,Windows Server 2022 Security Update (2026-08),Critical,9.8,193
+210084,Windows Server 2022 Security Update (2026-09),Critical,9.8,641
+210085,Windows Server 2012 R2 Security Update (2024-06),Critical,9.8,20
+210086,Windows Server 2012 R2 Security Update (2024-07),Critical,9.8,65
+210087,Windows Server 2012 R2 Security Update (2024-08),Critical,9.8,40
+210088,Windows Server 2012 R2 Security Update (2024-09),High,8.8,22
+210089,Windows Server 2012 R2 Security Update (2024-10),Critical,9.0,50
+210090,Windows Server 2012 R2 Security Update (2024-11),Critical,9.8,22
+210091,Windows Server 2012 R2 Security Update (2024-12),Critical,9.8,28
+210092,Windows Server 2012 R2 Security Update (2025-01),Critical,9.8,94
+210093,Windows Server 2012 R2 Security Update (2025-02),High,8.8,23
+210094,Windows Server 2012 R2 Security Update (2025-03),High,8.8,24
+210095,Windows Server 2012 R2 Security Update (2025-04),High,8.8,55
+210096,Windows Server 2012 R2 Security Update (2025-05),High,8.8,31
+210097,Windows Server 2012 R2 Security Update (2025-06),High,8.8,23
+210098,Windows Server 2012 R2 Security Update (2025-07),Critical,9.8,61
+210099,Windows Server 2012 R2 Security Update (2025-08),Critical,9.8,50
+210100,Windows Server 2012 R2 Security Update (2025-09),High,8.8,35
+210101,Windows Server 2012 R2 Security Update (2025-10),Critical,9.8,49
+210102,Windows Server 2012 R2 Security Update (2025-11),Critical,9.8,17
+210103,Windows Server 2012 R2 Security Update (2025-12),High,8.8,12
+210104,Windows Server 2012 R2 Security Update (2026-01),High,8.8,35
+210105,Windows Server 2012 R2 Security Update (2026-02),High,8.8,15
+210106,Windows Server 2012 R2 Security Update (2026-03),High,8.8,32
+210107,Windows Server 2012 R2 Security Update (2026-04),High,8.8,59
+210108,Windows Server 2012 R2 Security Update (2026-05),Critical,9.8,42
+210109,Windows Server 2012 R2 Security Update (2026-06),Critical,9.8,64
+210110,Windows Server 2012 R2 Security Update (2026-07),Critical,9.9,186
+210111,Windows Server 2012 R2 Security Update (2026-08),Critical,9.8,144
+210112,Windows Server 2012 R2 Security Update (2026-09),Critical,9.8,418
+210113,Windows 11 Version 24H2 Security Update (2024-06),High,8.0,1
+210114,Windows 11 Version 24H2 Security Update (2024-07),High,7.5,1
+210115,Windows 11 Version 24H2 Security Update (2024-08),Critical,9.8,44
+210116,Windows 11 Version 24H2 Security Update (2024-09),High,8.8,28
+210117,Windows 11 Version 24H2 Security Update (2024-10),High,8.8,66
+210118,Windows 11 Version 24H2 Security Update (2024-11),High,8.8,30
+210119,Windows 11 Version 24H2 Security Update (2024-12),Critical,9.8,46
+210120,Windows 11 Version 24H2 Security Update (2025-01),Critical,9.8,121
+210121,Windows 11 Version 24H2 Security Update (2025-02),High,8.8,35
+210122,Windows 11 Version 24H2 Security Update (2025-03),High,8.8,33
+210123,Windows 11 Version 24H2 Security Update (2025-04),High,8.8,66
+210124,Windows 11 Version 24H2 Security Update (2025-05),High,8.8,36
+210125,Windows 11 Version 24H2 Security Update (2025-06),High,8.8,36
+210126,Windows 11 Version 24H2 Security Update (2025-07),Critical,9.8,78
+210127,Windows 11 Version 24H2 Security Update (2025-08),Critical,9.8,53
+210128,Windows 11 Version 24H2 Security Update (2025-09),High,8.8,49
+210129,Windows 11 Version 24H2 Security Update (2025-10),Critical,9.9,120
+210130,Windows 11 Version 24H2 Security Update (2025-11),Critical,9.8,36
+210131,Windows 11 Version 24H2 Security Update (2025-12),High,8.8,36
+210132,Windows 11 Version 24H2 Security Update (2026-01),High,8.8,83
+210133,Windows 11 Version 24H2 Security Update (2026-02),High,8.8,27
+210134,Windows 11 Version 24H2 Security Update (2026-03),High,8.8,41
+210135,Windows 11 Version 24H2 Security Update (2026-04),Critical,9.8,118
+210136,Windows 11 Version 24H2 Security Update (2026-05),Critical,9.8,60
+210137,Windows 11 Version 24H2 Security Update (2026-06),Critical,9.8,105
+210138,Windows 11 Version 24H2 Security Update (2026-07),Critical,9.9,379
+210139,Windows 11 Version 24H2 Security Update (2026-08),Critical,9.8,193
+210140,Windows 11 Version 24H2 Security Update (2026-09),Critical,9.8,628
+210141,Microsoft 365 Apps Security Update (2024-06),High,8.8,4
+210142,Microsoft 365 Apps Security Update (2024-07),High,8.8,2
+210143,Microsoft 365 Apps Security Update (2024-08),High,8.8,7
+210144,Microsoft 365 Apps Security Update (2024-09),High,7.8,3
+210145,Microsoft 365 Apps Security Update (2024-10),High,7.8,5
+210146,Microsoft 365 Apps Security Update (2024-11),High,7.8,8
+210147,Microsoft 365 Apps Security Update (2024-12),High,7.8,4
+210148,Microsoft 365 Apps Security Update (2025-01),High,8.4,12
+210149,Microsoft 365 Apps Security Update (2025-02),High,7.8,8
+210150,Microsoft 365 Apps Security Update (2025-03),High,7.8,11
+210151,Microsoft 365 Apps Security Update (2025-04),High,7.8,15
+210152,Microsoft 365 Apps Security Update (2025-05),High,8.4,13
+210153,Microsoft 365 Apps Security Update (2025-06),High,8.4,15
+210154,Microsoft 365 Apps Security Update (2025-07),High,8.4,13
+210155,Microsoft 365 Apps Security Update (2025-08),High,8.4,14
+210156,Microsoft 365 Apps Security Update (2025-09),High,8.4,13
+210157,Microsoft 365 Apps Security Update (2025-10),High,8.4,16
+210158,Microsoft 365 Apps Security Update (2025-11),High,7.8,11
+210159,Microsoft 365 Apps Security Update (2025-12),High,8.4,13
+210160,Microsoft 365 Apps Security Update (2026-01),High,8.4,11
+210161,Microsoft 365 Apps Security Update (2026-02),High,7.8,6
+210162,Microsoft 365 Apps Security Update (2026-03),High,8.4,7
+210163,Microsoft 365 Apps Security Update (2026-04),High,8.4,12
+210164,Microsoft 365 Apps Security Update (2026-05),High,8.8,16
+210165,Microsoft 365 Apps Security Update (2026-06),High,8.4,27
+210166,Microsoft 365 Apps Security Update (2026-07),High,8.4,77
+210167,Microsoft 365 Apps Security Update (2026-08),High,8.8,91
+210168,Microsoft 365 Apps Security Update (2026-09),Critical,9.8,106
+210185,Google Chrome Security Update (2025-11),High,8.8,66
+210186,Google Chrome Security Update (2025-12),High,8.8,19
+210187,Google Chrome Security Update (2026-01),Critical,9.8,12
+210188,Google Chrome Security Update (2026-02),High,8.8,20
+210189,Google Chrome Security Update (2026-03),Critical,9.6,74
+210190,Google Chrome Security Update (2026-04),Critical,9.8,144
+210191,Google Chrome Security Update (2026-05),Critical,9.6,370
+210192,Google Chrome Security Update (2026-06),Critical,9.8,965
+210193,Google Chrome Security Update (2026-07),Critical,9.6,487
+210194,Google Chrome Security Update (2026-08),Critical,9.8,396
+210195,Google Chrome Security Update (2026-09),Critical,9.8,326
+210196,Adobe Acrobat Reader Security Update (2024-08),High,7.8,14
+210197,Adobe Acrobat Reader Security Update (2024-09),High,7.8,3
+210198,Adobe Acrobat Reader Security Update (2024-12),High,7.8,16
+210199,Adobe Acrobat Reader Security Update (2025-03),High,7.8,9
+210200,Adobe Acrobat Reader Security Update (2025-06),High,7.8,10
+210201,Adobe Acrobat Reader Security Update (2025-09),High,7.8,2
+210202,Adobe Acrobat Reader Security Update (2025-12),High,7.8,4
+210203,Adobe Acrobat Reader Security Update (2026-03),High,7.8,3
+210204,Adobe Acrobat Reader Security Update (2026-04),High,8.6,3
+210205,Adobe Acrobat Reader Security Update (2026-06),High,7.8,24
+210206,Adobe Acrobat Reader Security Update (2026-07),High,7.8,1
+210207,Adobe Acrobat Reader Security Update (2026-09),High,8.8,32
+210208,Oracle Java SE Critical Patch Update (2024-07),High,7.4,6
+210209,Oracle Java SE Critical Patch Update (2024-10),Medium,4.8,5
+210210,Oracle Java SE Critical Patch Update (2025-01),Medium,4.8,1
+210211,Oracle Java SE Critical Patch Update (2025-04),High,7.4,3
+210212,Oracle Java SE Critical Patch Update (2025-07),High,8.6,7
+210213,Oracle Java SE Critical Patch Update (2025-10),High,7.5,3
+210214,Oracle Java SE Critical Patch Update (2026-01),High,7.5,5
+210215,Oracle Java SE Critical Patch Update (2026-04),High,7.5,9
+210216,Oracle Java SE Critical Patch Update (2026-07),High,7.8,18
+210217,Oracle Java SE Critical Patch Update (2026-08),High,7.5,5
+210218,7-Zip Multiple Vulnerabilities (2024-11),High,7.8,2
+210219,7-Zip Multiple Vulnerabilities (2025-01),High,7.0,1
+210220,7-Zip Multiple Vulnerabilities (2025-04),Low,2.5,2
+210221,7-Zip Multiple Vulnerabilities (2025-08),Low,3.6,1
+210222,7-Zip Multiple Vulnerabilities (2025-11),High,7.0,1
+210223,7-Zip Multiple Vulnerabilities (2026-01),High,7.0,1
+210224,7-Zip Multiple Vulnerabilities (2026-06),High,8.8,9
+210225,7-Zip Multiple Vulnerabilities (2026-07),High,7.0,1
+210226,Notepad++ Multiple Vulnerabilities (2026-04),Medium,6.6,3
+210227,OpenSSL Vulnerabilities (2024-06),Critical,9.1,1
+210228,OpenSSL Vulnerabilities (2024-09),High,7.5,1
+210229,OpenSSL Vulnerabilities (2024-10),Medium,4.3,1
+210230,OpenSSL Vulnerabilities (2024-11),High,7.5,1
+210231,OpenSSL Vulnerabilities (2025-01),Medium,4.1,1
+210233,OpenSSL Vulnerabilities (2025-05),Medium,6.5,1
+210234,OpenSSL Vulnerabilities (2025-09),High,7.5,3
+210235,OpenSSL Vulnerabilities (2026-01),High,8.8,12
+210236,OpenSSL Vulnerabilities (2026-03),Medium,6.5,1
+210237,OpenSSL Vulnerabilities (2026-04),Critical,9.1,7
+210238,OpenSSL Vulnerabilities (2026-06),Critical,9.1,18
+210239,OpenSSL Vulnerabilities (2026-08),Critical,9.8,11
+210240,OpenSSH Vulnerabilities (2025-04),Medium,4.3,1
+210241,OpenSSH Vulnerabilities (2025-10),Low,3.6,2
+210242,OpenSSH Vulnerabilities (2026-04),High,7.5,5
+210243,OpenSSH Vulnerabilities (2026-07),High,7.7,8
+210244,OpenSSH Vulnerabilities (2026-08),Medium,4.8,3
+210256,curl Vulnerabilities (2026-03),High,7.5,4
+210257,curl Vulnerabilities (2026-05),High,7.5,8
+210258,curl Vulnerabilities (2026-07),Critical,9.8,18
+210259,curl Vulnerabilities (2026-09),Critical,9.8,9
+210263,Linux Kernel Vulnerabilities (2024-09),Critical,9.8,25
+210264,Linux Kernel Vulnerabilities (2024-10),Critical,9.8,25
+210265,Linux Kernel Vulnerabilities (2024-11),Critical,9.8,25
+210266,Linux Kernel Vulnerabilities (2024-12),High,8.8,25
+210269,Linux Kernel Vulnerabilities (2025-03),High,7.8,25
+210270,Linux Kernel Vulnerabilities (2025-04),High,8.8,25
+210271,Linux Kernel Vulnerabilities (2025-05),Critical,9.8,25
+210272,Linux Kernel Vulnerabilities (2025-06),High,8.8,25
+210274,Linux Kernel Vulnerabilities (2025-08),Critical,9.8,25
+210275,Linux Kernel Vulnerabilities (2025-09),Critical,9.8,25
+210276,Linux Kernel Vulnerabilities (2025-10),Critical,9.8,25
+210277,Linux Kernel Vulnerabilities (2025-11),Critical,9.8,25
+210278,Linux Kernel Vulnerabilities (2025-12),Critical,9.8,25
+210279,Linux Kernel Vulnerabilities (2026-01),Critical,9.8,25
+210280,Linux Kernel Vulnerabilities (2026-02),High,8.8,25
+210281,Linux Kernel Vulnerabilities (2026-03),Critical,9.8,25
+210282,Linux Kernel Vulnerabilities (2026-04),Critical,9.8,25
+210283,Linux Kernel Vulnerabilities (2026-05),Critical,9.1,25
+210284,Linux Kernel Vulnerabilities (2026-06),Critical,9.8,25
+210285,Linux Kernel Vulnerabilities (2026-07),Critical,9.8,25
+210286,Linux Kernel Vulnerabilities (2026-08),Critical,9.8,25
+210287,Linux Kernel Vulnerabilities (2026-09),Critical,9.8,25
+210288,RHEL 9 Security Updates (2024-06),High,8.8,8
+210290,RHEL 9 Security Updates (2024-08),High,7.7,7
+210291,RHEL 9 Security Updates (2024-09),High,7.5,15
+210292,RHEL 9 Security Updates (2024-10),High,7.8,10
+210293,RHEL 9 Security Updates (2024-11),High,7.8,10
+210294,RHEL 9 Security Updates (2024-12),High,7.4,1
+210295,RHEL 9 Security Updates (2025-01),Critical,9.8,12
+210296,RHEL 9 Security Updates (2025-02),High,8.8,25
+210297,RHEL 9 Security Updates (2025-03),High,7.8,13
+210298,RHEL 9 Security Updates (2025-04),Critical,9.0,25
+210301,RHEL 9 Security Updates (2025-07),High,8.1,19
+210303,RHEL 9 Security Updates (2025-09),Critical,9.1,13
+210304,RHEL 9 Security Updates (2025-10),High,8.8,10
+210305,RHEL 9 Security Updates (2025-11),Critical,10.0,14
+210306,RHEL 9 Security Updates (2025-12),High,8.8,7
+210307,RHEL 9 Security Updates (2026-01),Critical,9.6,18
+210308,RHEL 9 Security Updates (2026-02),Critical,9.4,13
+210309,RHEL 9 Security Updates (2026-03),High,8.7,25
+210310,RHEL 9 Security Updates (2026-04),Critical,9.8,25
+210311,RHEL 9 Security Updates (2026-05),Critical,9.0,24
+210312,RHEL 9 Security Updates (2026-06),High,8.8,25
+210313,RHEL 9 Security Updates (2026-07),High,8.8,25
+210314,RHEL 9 Security Updates (2026-08),High,8.8,25
+210315,RHEL 9 Security Updates (2026-09),High,8.4,25
+210316,RHEL 8 Security Updates (2024-06),High,8.8,8
+210317,RHEL 8 Security Updates (2024-07),High,8.1,11
+210321,RHEL 8 Security Updates (2024-11),High,7.8,10
+210322,RHEL 8 Security Updates (2024-12),High,7.4,1
+210324,RHEL 8 Security Updates (2025-02),High,8.8,25
+210326,RHEL 8 Security Updates (2025-04),Critical,9.0,25
+210329,RHEL 8 Security Updates (2025-07),High,8.1,19
+210330,RHEL 8 Security Updates (2025-08),High,8.5,6
+210331,RHEL 8 Security Updates (2025-09),Critical,9.1,12
+210332,RHEL 8 Security Updates (2025-10),High,8.8,10
+210333,RHEL 8 Security Updates (2025-11),Critical,10.0,13
+210334,RHEL 8 Security Updates (2025-12),High,8.8,7
+210335,RHEL 8 Security Updates (2026-01),Critical,9.6,18
+210336,RHEL 8 Security Updates (2026-02),High,8.6,12
+210337,RHEL 8 Security Updates (2026-03),High,8.7,25
+210338,RHEL 8 Security Updates (2026-04),Critical,9.8,25
+210339,RHEL 8 Security Updates (2026-05),Critical,9.0,23
+210340,RHEL 8 Security Updates (2026-06),High,8.8,25
+210341,RHEL 8 Security Updates (2026-07),High,8.8,25
+210342,RHEL 8 Security Updates (2026-08),High,8.8,25
+210343,RHEL 8 Security Updates (2026-09),High,8.8,25
+210355,Apache Tomcat Multiple Vulnerabilities (2025-05),High,7.3,1
+210357,Apache Tomcat Multiple Vulnerabilities (2025-07),High,7.5,3
+210358,Apache Tomcat Multiple Vulnerabilities (2025-08),High,7.5,2
+210359,Apache Tomcat Multiple Vulnerabilities (2025-10),Critical,9.6,3
+210360,Apache Tomcat Multiple Vulnerabilities (2026-02),High,7.6,3
+210361,Apache Tomcat Multiple Vulnerabilities (2026-04),Critical,9.1,10
+210362,Apache Tomcat Multiple Vulnerabilities (2026-05),Critical,9.8,7
+210363,Apache Tomcat Multiple Vulnerabilities (2026-06),Critical,9.1,7
+210364,Apache Tomcat Multiple Vulnerabilities (2026-07),Critical,9.1,3
+210365,Apache Tomcat Multiple Vulnerabilities (2026-08),Critical,9.8,10
+210381,Fortinet FortiOS Security Update (2025-12),Critical,9.1,4
+210382,Fortinet FortiOS Security Update (2026-01),Critical,9.4,2
+210383,Fortinet FortiOS Security Update (2026-02),High,7.5,6
+210384,Fortinet FortiOS Security Update (2026-04),Medium,6.2,2
+210385,Fortinet FortiOS Security Update (2026-05),High,8.3,1
+210386,Fortinet FortiOS Security Update (2026-06),Medium,6.0,1
+210387,Fortinet FortiOS Security Update (2026-07),Medium,6.1,7
+210388,Fortinet FortiOS Security Update (2026-08),Medium,5.1,3
+210389,Fortinet FortiOS Security Update (2026-09),High,7.3,2
+210394,Cisco IOS XE Software Vulnerabilities (2025-08),High,8.6,2
+210395,Cisco IOS XE Software Vulnerabilities (2025-09),Critical,9.0,16
+210396,Cisco IOS XE Software Vulnerabilities (2026-03),High,8.6,12
+210397,Cisco IOS XE Software Vulnerabilities (2026-08),Critical,9.8,12
+210398,VMware ESXi Security Update (2024-06),Medium,6.8,2
+210399,VMware ESXi Security Update (2025-03),Critical,9.3,3
+210400,VMware ESXi Security Update (2025-05),Medium,6.8,3
+210401,VMware ESXi Security Update (2025-07),Critical,9.3,4
+210408,VMware vCenter Server Security Update (2026-07),Critical,9.8,2
+900001,SMB Signing not required,Medium,5.3,0
+900002,TLS Version 1.0 Protocol Detection,Medium,6.5,0
+900003,SSL Certificate Cannot Be Trusted,Medium,6.5,0
+900004,SSL Certificate Expired,Medium,5.3,0
+900005,Microsoft Windows Server 2012 R2 Unsupported Version Detection,Critical,10.0,0
+900006,SSH Weak Algorithms Supported,Medium,4.3,0
+910001,Apache HTTP Server Multiple Vulnerabilities (remote version check),Critical,9.8,49
+910002,OpenSSH Multiple Vulnerabilities (remote version check),High,7.7,19

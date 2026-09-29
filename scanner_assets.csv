@@ -1,0 +1,1749 @@
+asset_id,hostname,ip,os,scan_source,first_seen,last_seen,last_credentialed_scan,auth_status
+A-100034,dk001-srv01.store.norvik.local,10.101.0.10,Windows Server 2019,network,2025-01-25,2026-09-15,2026-09-15,Success
+A-100065,dk001-fw01.store.norvik.local,10.101.0.1,FortiOS,network,2025-01-11,2026-09-19,2026-09-19,Success
+A-100102,dk002-srv01.store.norvik.local,10.101.1.10,Windows Server 2019,network,2025-01-07,2026-09-18,2026-09-18,Success
+A-100106,dk002-bo01,10.101.1.20,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-100136,dk002-fw01.store.norvik.local,10.101.1.1,FortiOS,network,2025-01-11,2026-09-18,2026-09-18,Success
+A-100167,dk003-srv01.store.norvik.local,10.101.2.10,Windows Server 2019,network,2025-01-09,2026-09-21,2026-09-21,Success
+A-100196,dk003-bo01,10.101.2.20,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-100232,dk003-bo02,10.101.2.21,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-100264,dk003-fw01.store.norvik.local,10.101.2.1,FortiOS,network,2025-01-15,2026-09-21,2026-09-21,Success
+A-100277,dk004-srv01.store.norvik.local,10.101.3.10,Windows Server 2019,network,2025-01-24,2026-09-15,2026-09-15,Success
+A-100305,dk004-bo01,10.101.3.20,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-100318,dk004-fw01.store.norvik.local,10.101.3.1,FortiOS,network,2025-01-23,2026-09-19,2026-09-19,Success
+A-100330,dk005-srv01.store.norvik.local,10.101.4.10,Windows Server 2019,network,2025-01-11,2026-09-18,2026-09-18,Success
+A-100361,dk005-fw01.store.norvik.local,10.101.4.1,FortiOS,network,2025-01-25,2026-09-16,2026-09-16,Success
+A-100379,dk006-srv01.store.norvik.local,10.101.5.10,Windows Server 2019,network,2025-01-18,2026-09-18,2026-09-18,Success
+A-100404,dk006-bo02,10.101.5.21,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-100426,dk006-fw01.store.norvik.local,10.101.5.1,FortiOS,network,2025-01-06,2026-09-15,2026-09-15,Success
+A-100444,dk007-srv01.store.norvik.local,10.101.6.10,Windows Server 2019,network,2025-01-15,2026-09-19,2026-09-19,Success
+A-100477,dk007-bo01,10.101.6.20,Windows 11 24H2,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-100482,dk007-bo02,10.101.6.21,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-100521,dk007-fw01.store.norvik.local,10.101.6.1,FortiOS,network,2025-01-10,2026-09-16,2026-09-16,Success
+A-100534,dk008-srv01.store.norvik.local,10.101.7.10,Windows Server 2019,network,2025-01-10,2026-09-16,2026-09-16,Success
+A-100570,dk008-fw01.store.norvik.local,10.101.7.1,FortiOS,network,2025-01-20,2026-09-16,2026-09-16,Success
+A-100590,dk009-srv01.store.norvik.local,10.101.8.10,Windows Server 2019,network,2025-01-20,2026-09-17,2026-09-17,Success
+A-100605,dk009-bo01,10.101.8.20,Windows 11 24H2,agent,2025-01-16,2026-09-19,,n/a (agent)
+A-100609,dk009-fw01.store.norvik.local,10.101.8.1,FortiOS,network,2025-01-14,2026-09-18,2026-09-18,Success
+A-100637,dk010-srv01.store.norvik.local,10.101.9.10,Windows Server 2019,network,2025-01-17,2026-09-17,2026-09-17,Success
+A-100668,dk010-bo01,10.101.9.20,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-100672,dk010-fw01.store.norvik.local,10.101.9.1,FortiOS,network,2025-01-13,2026-09-19,2026-09-19,Success
+A-100700,dk011-srv01.store.norvik.local,10.101.10.10,Windows Server 2019,network,2025-01-21,2026-09-21,2026-09-21,Success
+A-100734,dk011-bo01,10.101.10.20,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-100764,dk011-fw01.store.norvik.local,10.101.10.1,FortiOS,network,2025-01-11,2026-09-20,2026-09-20,Success
+A-100787,dk012-srv01.store.norvik.local,10.101.11.10,Windows Server 2019,network,2025-01-24,2026-09-16,2026-09-16,Success
+A-100807,dk012-fw01.store.norvik.local,10.101.11.1,FortiOS,network,2025-01-14,2026-09-16,2026-09-16,Success
+A-100830,dk013-srv01.store.norvik.local,10.101.12.10,Windows Server 2019,network,2025-01-22,2026-09-21,2026-09-21,Success
+A-100854,dk013-bo01,10.101.12.20,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-100885,dk013-fw01.store.norvik.local,10.101.12.1,FortiOS,network,2025-01-11,2026-09-16,2026-09-16,Success
+A-100922,dk014-srv01.store.norvik.local,10.101.13.10,Windows Server 2019,network,2025-01-17,2026-09-19,2026-09-19,Success
+A-100944,dk014-bo01,10.101.13.20,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-100956,dk014-fw01.store.norvik.local,10.101.13.1,FortiOS,network,2025-01-11,2026-09-17,2026-09-17,Success
+A-100978,dk015-srv01.store.norvik.local,10.101.14.10,Windows Server 2019,network,2025-01-06,2026-09-18,2026-09-18,Success
+A-100989,dk015-bo01,10.101.14.20,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-101015,dk015-fw01.store.norvik.local,10.101.14.1,FortiOS,network,2025-01-13,2026-09-15,2026-09-15,Success
+A-101051,dk016-srv01.store.norvik.local,10.101.15.10,Windows Server 2019,network,2025-01-14,2026-09-18,2026-09-18,Success
+A-101089,dk016-bo02,10.101.15.21,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-101101,dk016-fw01.store.norvik.local,10.101.15.1,FortiOS,network,2025-01-15,2026-09-21,2026-09-21,Success
+A-101108,dk017-srv01.store.norvik.local,10.101.16.10,Windows Server 2019,network,2025-01-14,2026-09-17,2026-09-17,Success
+A-101112,dk017-bo01,10.101.16.20,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-101131,dk017-bo02,10.101.16.21,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-101145,dk017-fw01.store.norvik.local,10.101.16.1,FortiOS,network,2025-01-09,2026-09-18,2026-09-18,Success
+A-101174,dk018-srv01.store.norvik.local,10.101.17.10,Windows Server 2019,network,2025-01-11,2026-09-20,2026-09-20,Success
+A-101179,dk018-bo01,10.101.17.20,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-101203,dk018-bo02,10.101.17.21,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-101238,dk018-fw01.store.norvik.local,10.101.17.1,FortiOS,network,2025-01-20,2026-09-16,2026-09-16,Success
+A-101276,dk019-srv01.store.norvik.local,10.101.18.10,Windows Server 2019,network,2025-01-07,2026-09-15,2026-09-15,Success
+A-101282,dk019-fw01.store.norvik.local,10.101.18.1,FortiOS,network,2025-01-17,2026-09-16,2026-09-16,Success
+A-101310,dk020-srv01.store.norvik.local,10.101.19.10,Windows Server 2019,network,2025-01-14,2026-09-20,2026-09-20,Success
+A-101347,dk020-bo02,10.101.19.21,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-101363,dk020-fw01.store.norvik.local,10.101.19.1,FortiOS,network,2025-01-23,2026-09-21,2026-09-21,Success
+A-101401,dk021-srv01.store.norvik.local,10.101.20.10,Windows Server 2019,network,2025-01-18,2026-09-20,2026-09-20,Success
+A-101407,dk021-bo01,10.101.20.20,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-101445,dk021-fw01.store.norvik.local,10.101.20.1,FortiOS,network,2025-01-14,2026-09-17,2026-09-17,Success
+A-101464,dk022-srv01.store.norvik.local,10.101.21.10,Windows Server 2019,network,2025-01-21,2026-09-15,2026-09-15,Success
+A-101488,dk022-bo02,10.101.21.21,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-101522,dk022-fw01.store.norvik.local,10.101.21.1,FortiOS,network,2025-01-08,2026-09-19,2026-09-19,Success
+A-101539,dk023-srv01.store.norvik.local,10.101.22.10,Windows Server 2019,network,2025-01-15,2026-09-19,2026-09-19,Success
+A-101550,dk023-bo01,10.101.22.20,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-101583,dk023-fw01.store.norvik.local,10.101.22.1,FortiOS,network,2025-01-22,2026-09-16,2026-09-16,Success
+A-101602,dk024-srv01.store.norvik.local,10.101.23.10,Windows Server 2019,network,2025-01-14,2026-09-17,2026-09-17,Success
+A-101625,dk024-bo02,10.101.23.21,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-101647,dk024-fw01.store.norvik.local,10.101.23.1,FortiOS,network,2025-01-22,2026-09-15,2026-09-15,Success
+A-101680,dk025-srv01.store.norvik.local,10.101.24.10,Windows Server 2019,network,2025-01-07,2026-09-16,2026-09-16,Success
+A-101693,dk025-bo01,10.101.24.20,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-101713,dk025-fw01.store.norvik.local,10.101.24.1,FortiOS,network,2025-01-24,2026-09-16,2026-09-16,Success
+A-101721,dk026-srv01.store.norvik.local,10.101.25.10,Windows Server 2019,network,2025-01-11,2026-09-21,2026-09-21,Success
+A-101726,dk026-fw01.store.norvik.local,10.101.25.1,FortiOS,network,2025-01-22,2026-09-19,2026-09-19,Success
+A-101759,dk027-srv01.store.norvik.local,10.101.26.10,Windows Server 2019,network,2025-01-23,2026-09-19,2026-09-19,Success
+A-101790,dk027-bo01,10.101.26.20,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-101811,dk027-bo02,10.101.26.21,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-101832,dk027-fw01.store.norvik.local,10.101.26.1,FortiOS,network,2025-01-06,2026-09-15,2026-09-15,Success
+A-101857,dk028-srv01.store.norvik.local,10.101.27.10,Windows Server 2019,network,2025-01-17,2026-09-20,2026-09-20,Success
+A-101867,dk028-fw01.store.norvik.local,10.101.27.1,FortiOS,network,2025-01-20,2026-09-17,2026-09-17,Success
+A-101882,dk029-srv01.store.norvik.local,10.101.28.10,Windows Server 2019,network,2025-01-14,2026-09-19,2026-09-19,Success
+A-101916,dk029-bo01,10.101.28.20,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-101934,dk029-fw01.store.norvik.local,10.101.28.1,FortiOS,network,2025-01-07,2026-09-18,2026-09-18,Success
+A-101942,dk030-srv01.store.norvik.local,10.101.29.10,Windows Server 2019,network,2025-01-08,2026-09-19,2026-09-19,Success
+A-101971,dk030-bo01,10.101.29.20,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-101996,dk030-fw01.store.norvik.local,10.101.29.1,FortiOS,network,2025-01-09,2026-09-19,2026-09-19,Success
+A-102017,dk031-srv01.store.norvik.local,10.101.30.10,Windows Server 2019,network,2025-01-24,2026-09-15,2026-09-15,Success
+A-102021,dk031-bo02,10.101.30.21,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-102023,dk031-fw01.store.norvik.local,10.101.30.1,FortiOS,network,2025-01-16,2026-09-19,2026-09-19,Success
+A-102029,dk032-srv01.store.norvik.local,10.101.31.10,Windows Server 2019,network,2025-01-12,2026-09-18,2026-09-18,Success
+A-102059,dk032-bo01,10.101.31.20,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-102096,dk032-bo02,10.101.31.21,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-102101,dk032-fw01.store.norvik.local,10.101.31.1,FortiOS,network,2025-01-18,2026-09-17,2026-09-17,Success
+A-102118,dk033-srv01.store.norvik.local,10.101.32.10,Windows Server 2019,network,2025-01-09,2026-09-19,2026-09-19,Success
+A-102150,dk033-bo01,10.101.32.20,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-102163,dk033-bo02,10.101.32.21,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-102167,dk033-fw01.store.norvik.local,10.101.32.1,FortiOS,network,2025-01-18,2026-09-17,2026-09-17,Success
+A-102172,dk034-srv01.store.norvik.local,10.101.33.10,Windows Server 2019,network,2025-01-25,2026-09-15,2026-09-15,Success
+A-102191,dk034-bo01,10.101.33.20,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-102229,dk034-bo02,10.101.33.21,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-102234,dk034-fw01.store.norvik.local,10.101.33.1,FortiOS,network,2025-01-06,2026-09-19,2026-09-19,Success
+A-102257,dk035-srv01.store.norvik.local,10.101.34.10,Windows Server 2019,network,2025-01-18,2026-09-18,2026-09-18,Success
+A-102269,dk035-fw01.store.norvik.local,10.101.34.1,FortiOS,network,2025-01-15,2026-09-16,2026-09-16,Success
+A-102305,dk036-srv01.store.norvik.local,10.101.35.10,Windows Server 2019,network,2025-01-17,2026-09-15,2026-09-15,Success
+A-102344,dk036-bo02,10.101.35.21,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-102370,dk036-fw01.store.norvik.local,10.101.35.1,FortiOS,network,2025-01-14,2026-09-21,2026-09-21,Success
+A-102372,dk037-srv01.store.norvik.local,10.101.36.10,Windows Server 2019,network,2025-01-12,2026-09-21,2026-09-21,Success
+A-102408,dk037-fw01.store.norvik.local,10.101.36.1,FortiOS,network,2025-01-15,2026-09-17,2026-09-17,Success
+A-102411,dk038-srv01.store.norvik.local,10.101.37.10,Windows Server 2019,network,2025-01-21,2026-09-15,2026-09-15,Success
+A-102421,dk038-bo01,10.101.37.20,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-102454,dk038-bo02,10.101.37.21,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-102472,dk038-fw01.store.norvik.local,10.101.37.1,FortiOS,network,2025-01-17,2026-09-20,2026-09-20,Success
+A-102500,dk039-srv01.store.norvik.local,10.101.38.10,Windows Server 2019,network,2025-01-14,2026-09-15,2026-09-15,Success
+A-102507,dk039-bo01,10.101.38.20,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-102535,dk039-bo02,10.101.38.21,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-102574,dk039-fw01.store.norvik.local,10.101.38.1,FortiOS,network,2025-01-23,2026-09-18,2026-09-18,Success
+A-102576,dk040-srv01.store.norvik.local,10.101.39.10,Windows Server 2019,network,2025-01-06,2026-09-16,2026-09-16,Success
+A-102607,dk040-bo01,10.101.39.20,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-102631,dk040-fw01.store.norvik.local,10.101.39.1,FortiOS,network,2025-01-25,2026-09-15,2026-09-15,Success
+A-102666,dk041-srv01.store.norvik.local,10.101.40.10,Windows Server 2019,network,2025-01-16,2026-09-18,2026-09-18,Success
+A-102673,dk041-bo02,10.101.40.21,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-102700,dk041-fw01.store.norvik.local,10.101.40.1,FortiOS,network,2025-01-15,2026-09-18,2026-09-18,Success
+A-102738,dk042-srv01.store.norvik.local,10.101.41.10,Windows Server 2019,network,2025-01-17,2026-09-19,2026-09-19,Success
+A-102762,dk042-bo01,10.101.41.20,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-102787,dk042-fw01.store.norvik.local,10.101.41.1,FortiOS,network,2025-01-16,2026-09-18,2026-09-18,Success
+A-102810,dk043-srv01.store.norvik.local,10.101.42.10,Windows Server 2019,network,2025-01-17,2026-09-19,2026-09-19,Success
+A-102833,dk043-fw01.store.norvik.local,10.101.42.1,FortiOS,network,2025-01-10,2026-09-21,2026-09-21,Success
+A-102847,dk044-srv01.store.norvik.local,10.101.43.10,Windows Server 2019,network,2025-01-10,2026-09-16,2026-09-16,Success
+A-102867,dk044-bo01,10.101.43.20,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-102887,dk044-bo02,10.101.43.21,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-102908,dk044-fw01.store.norvik.local,10.101.43.1,FortiOS,network,2025-01-09,2026-09-20,2026-09-20,Success
+A-102928,dk045-srv01.store.norvik.local,10.101.44.10,Windows Server 2019,network,2025-01-19,2026-09-15,2026-09-15,Success
+A-102939,dk045-fw01.store.norvik.local,10.101.44.1,FortiOS,network,2025-01-23,2026-09-16,2026-09-16,Success
+A-102968,dk046-srv01.store.norvik.local,10.101.45.10,Windows Server 2019,network,2025-01-22,2026-09-16,2026-09-16,Success
+A-102996,dk046-bo01,10.101.45.20,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-103016,dk046-bo02,10.101.45.21,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-103034,dk046-fw01.store.norvik.local,10.101.45.1,FortiOS,network,2025-01-13,2026-09-21,2026-09-21,Success
+A-103040,dk047-srv01.store.norvik.local,10.101.46.10,Windows Server 2019,network,2025-01-18,2026-09-17,2026-09-17,Success
+A-103049,dk047-bo01,10.101.46.20,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-103082,dk047-bo02,10.101.46.21,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-103121,dk047-fw01.store.norvik.local,10.101.46.1,FortiOS,network,2025-01-09,2026-09-15,2026-09-15,Success
+A-103127,dk048-srv01.store.norvik.local,10.101.47.10,Windows Server 2019,network,2025-01-22,2026-09-21,2026-09-21,Success
+A-103129,dk048-bo01,10.101.47.20,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-103139,dk048-bo02,10.101.47.21,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-103164,dk048-fw01.store.norvik.local,10.101.47.1,FortiOS,network,2025-01-19,2026-09-16,2026-09-16,Success
+A-103203,dk049-srv01.store.norvik.local,10.101.48.10,Windows Server 2019,network,2025-01-22,2026-09-18,2026-09-18,Success
+A-103236,dk049-bo01,10.101.48.20,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-103266,dk049-bo02,10.101.48.21,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-103269,dk049-fw01.store.norvik.local,10.101.48.1,FortiOS,network,2025-01-09,2026-09-18,2026-09-18,Success
+A-103302,dk050-srv01.store.norvik.local,10.101.49.10,Windows Server 2019,network,2025-01-16,2026-09-19,2026-09-19,Success
+A-103319,dk050-bo01,10.101.49.20,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-103324,dk050-fw01.store.norvik.local,10.101.49.1,FortiOS,network,2025-01-14,2026-09-16,2026-09-16,Success
+A-103358,dk051-srv01.store.norvik.local,10.101.50.10,Windows Server 2019,network,2025-01-25,2026-09-19,2026-09-19,Success
+A-103359,dk051-fw01.store.norvik.local,10.101.50.1,FortiOS,network,2025-01-20,2026-09-20,2026-09-20,Success
+A-103383,dk052-srv01.store.norvik.local,10.101.51.10,Windows Server 2019,network,2025-01-06,2026-09-17,2026-09-17,Success
+A-103411,dk052-bo01,10.101.51.20,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-103437,dk052-bo02,10.101.51.21,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-103449,dk052-fw01.store.norvik.local,10.101.51.1,FortiOS,network,2025-01-06,2026-09-20,2026-09-20,Success
+A-103452,dk053-srv01.store.norvik.local,10.101.52.10,Windows Server 2019,network,2025-01-23,2026-09-15,2026-09-15,Success
+A-103478,dk053-bo01,10.101.52.20,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-103516,dk053-fw01.store.norvik.local,10.101.52.1,FortiOS,network,2025-01-12,2026-09-18,2026-09-18,Success
+A-103546,dk054-srv01.store.norvik.local,10.101.53.10,Windows Server 2019,network,2025-01-11,2026-09-19,2026-09-19,Success
+A-103585,dk054-bo02,10.101.53.21,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-103602,dk054-fw01.store.norvik.local,10.101.53.1,FortiOS,network,2025-01-06,2026-09-17,2026-09-17,Success
+A-103634,dk055-srv01.store.norvik.local,10.101.54.10,Windows Server 2019,network,2025-01-18,2026-09-20,2026-09-20,Success
+A-103672,dk055-bo01,10.101.54.20,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-103709,dk055-fw01.store.norvik.local,10.101.54.1,FortiOS,network,2025-01-15,2026-09-21,2026-09-21,Success
+A-103710,dk056-srv01.store.norvik.local,10.101.55.10,Windows Server 2019,network,2025-01-07,2026-09-17,2026-09-17,Success
+A-103720,dk056-bo01,10.101.55.20,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-103741,dk056-bo02,10.101.55.21,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-103768,dk056-fw01.store.norvik.local,10.101.55.1,FortiOS,network,2025-01-11,2026-09-17,2026-09-17,Success
+A-103795,dk057-srv01.store.norvik.local,10.101.56.10,Windows Server 2019,network,2025-01-10,2026-09-20,2026-09-20,Success
+A-103831,dk057-bo01,10.101.56.20,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-103849,dk057-fw01.store.norvik.local,10.101.56.1,FortiOS,network,2025-01-19,2026-09-20,2026-09-20,Success
+A-103883,dk058-srv01.store.norvik.local,10.101.57.10,Windows Server 2019,network,2025-01-24,2026-09-15,2026-09-15,Success
+A-103908,dk058-fw01.store.norvik.local,10.101.57.1,FortiOS,network,2025-01-19,2026-09-15,2026-09-15,Success
+A-103913,dk059-srv01.store.norvik.local,10.101.58.10,Windows Server 2019,network,2025-01-08,2026-09-21,2026-09-21,Success
+A-103929,dk059-bo01,10.101.58.20,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-103944,dk059-bo02,10.101.58.21,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-103947,dk059-fw01.store.norvik.local,10.101.58.1,FortiOS,network,2025-01-18,2026-09-19,2026-09-19,Success
+A-103972,dk060-srv01.store.norvik.local,10.101.59.10,Windows Server 2019,network,2025-01-21,2026-09-19,2026-09-19,Success
+A-103992,dk060-bo01,10.101.59.20,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-104014,dk060-bo02,10.101.59.21,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-104026,dk060-fw01.store.norvik.local,10.101.59.1,FortiOS,network,2025-01-23,2026-09-15,2026-09-15,Success
+A-104051,se101-srv01.store.norvik.local,10.102.0.10,Windows Server 2019,network,2025-01-10,2026-09-18,2026-09-18,Success
+A-104058,se101-bo01,10.102.0.20,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-104089,se101-bo02,10.102.0.21,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-104120,se101-fw01.store.norvik.local,10.102.0.1,FortiOS,network,2025-01-21,2026-09-18,2026-09-18,Success
+A-104147,se102-srv01.store.norvik.local,10.102.1.10,Windows Server 2019,network,2025-01-10,2026-09-19,2026-09-19,Success
+A-104154,se102-bo01,10.102.1.20,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-104171,se102-fw01.store.norvik.local,10.102.1.1,FortiOS,network,2025-01-06,2026-09-17,2026-09-17,Success
+A-104208,se103-srv01.store.norvik.local,10.102.2.10,Windows Server 2019,network,2025-01-24,2026-09-20,2026-09-20,Success
+A-104231,se103-fw01.store.norvik.local,10.102.2.1,FortiOS,network,2025-01-22,2026-09-15,2026-09-15,Success
+A-104262,se104-srv01.store.norvik.local,10.102.3.10,Windows Server 2019,network,2025-01-21,2026-09-18,2026-09-18,Success
+A-104280,se104-fw01.store.norvik.local,10.102.3.1,FortiOS,network,2025-01-18,2026-09-20,2026-09-20,Success
+A-104289,se105-srv01.store.norvik.local,10.102.4.10,Windows Server 2019,network,2025-01-13,2026-09-16,2026-09-16,Success
+A-104300,se105-fw01.store.norvik.local,10.102.4.1,FortiOS,network,2025-01-11,2026-09-20,2026-09-20,Success
+A-104322,se106-srv01.store.norvik.local,10.102.5.10,Windows Server 2019,network,2025-01-20,2026-09-15,2026-09-15,Success
+A-104332,se106-bo01,10.102.5.20,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-104345,se106-bo02,10.102.5.21,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-104382,se106-fw01.store.norvik.local,10.102.5.1,FortiOS,network,2025-01-10,2026-09-19,2026-09-19,Success
+A-104388,se107-srv01.store.norvik.local,10.102.6.10,Windows Server 2019,network,2025-01-17,2026-09-17,2026-09-17,Success
+A-104392,se107-fw01.store.norvik.local,10.102.6.1,FortiOS,network,2025-01-11,2026-09-21,2026-09-21,Success
+A-104412,se108-srv01.store.norvik.local,10.102.7.10,Windows Server 2019,network,2025-01-21,2026-09-16,2026-09-16,Success
+A-104443,se108-bo01,10.102.7.20,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-104477,se108-fw01.store.norvik.local,10.102.7.1,FortiOS,network,2025-01-17,2026-09-21,2026-09-21,Success
+A-104501,se109-srv01.store.norvik.local,10.102.8.10,Windows Server 2019,network,2025-01-06,2026-09-19,2026-09-19,Success
+A-104523,se109-bo01,10.102.8.20,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-104548,se109-bo02,10.102.8.21,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-104582,se109-fw01.store.norvik.local,10.102.8.1,FortiOS,network,2025-01-16,2026-09-15,2026-09-15,Success
+A-104610,se110-srv01.store.norvik.local,10.102.9.10,Windows Server 2019,network,2025-01-21,2026-09-20,2026-09-20,Success
+A-104623,se110-bo01,10.102.9.20,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-104658,se110-fw01.store.norvik.local,10.102.9.1,FortiOS,network,2025-01-13,2026-09-17,2026-09-17,Success
+A-104686,se111-srv01.store.norvik.local,10.102.10.10,Windows Server 2019,network,2025-01-24,2026-09-20,2026-09-20,Success
+A-104723,se111-bo01,10.102.10.20,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-104746,se111-fw01.store.norvik.local,10.102.10.1,FortiOS,network,2025-01-23,2026-09-16,2026-09-16,Success
+A-104750,se112-srv01.store.norvik.local,10.102.11.10,Windows Server 2019,network,2025-01-11,2026-09-15,2026-09-15,Success
+A-104752,se112-bo01,10.102.11.20,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-104785,se112-bo02,10.102.11.21,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-104786,se112-fw01.store.norvik.local,10.102.11.1,FortiOS,network,2025-01-20,2026-09-15,2026-09-15,Success
+A-104796,se113-srv01.store.norvik.local,10.102.12.10,Windows Server 2019,network,2025-01-13,2026-09-16,2026-09-16,Success
+A-104817,se113-bo01,10.102.12.20,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-104823,se113-bo02,10.102.12.21,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-104860,se113-fw01.store.norvik.local,10.102.12.1,FortiOS,network,2025-01-14,2026-09-15,2026-09-15,Success
+A-104877,se114-srv01.store.norvik.local,10.102.13.10,Windows Server 2019,network,2025-01-18,2026-09-19,2026-09-19,Success
+A-104892,se114-fw01.store.norvik.local,10.102.13.1,FortiOS,network,2025-01-15,2026-09-20,2026-09-20,Success
+A-104928,se115-srv01.store.norvik.local,10.102.14.10,Windows Server 2019,network,2025-01-08,2026-09-16,2026-09-16,Success
+A-104957,se115-bo01,10.102.14.20,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-104986,se115-bo02,10.102.14.21,Windows 11 24H2,agent,2025-01-24,2026-09-20,,n/a (agent)
+A-105015,se115-fw01.store.norvik.local,10.102.14.1,FortiOS,network,2025-01-25,2026-09-16,2026-09-16,Success
+A-105051,se116-srv01.store.norvik.local,10.102.15.10,Windows Server 2019,network,2025-01-23,2026-09-18,2026-09-18,Success
+A-105068,se116-bo01,10.102.15.20,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-105097,se116-fw01.store.norvik.local,10.102.15.1,FortiOS,network,2025-01-17,2026-09-18,2026-09-18,Success
+A-105121,se117-srv01.store.norvik.local,10.102.16.10,Windows Server 2019,network,2025-01-24,2026-09-21,2026-09-21,Success
+A-105141,se117-bo01,10.102.16.20,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-105147,se117-fw01.store.norvik.local,10.102.16.1,FortiOS,network,2025-01-22,2026-09-15,2026-09-15,Success
+A-105185,se118-srv01.store.norvik.local,10.102.17.10,Windows Server 2019,network,2025-01-18,2026-09-21,2026-09-21,Success
+A-105206,se118-bo02,10.102.17.21,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-105225,se118-fw01.store.norvik.local,10.102.17.1,FortiOS,network,2025-01-08,2026-09-15,2026-09-15,Success
+A-105263,se119-srv01.store.norvik.local,10.102.18.10,Windows Server 2019,network,2025-01-15,2026-09-18,2026-09-18,Success
+A-105269,se119-bo01,10.102.18.20,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-105281,se119-fw01.store.norvik.local,10.102.18.1,FortiOS,network,2025-01-11,2026-09-18,2026-09-18,Success
+A-105305,se120-srv01.store.norvik.local,10.102.19.10,Windows Server 2019,network,2025-01-14,2026-09-16,2026-09-16,Success
+A-105317,se120-bo01,10.102.19.20,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-105342,se120-bo02,10.102.19.21,Windows 11 24H2,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-105364,se120-fw01.store.norvik.local,10.102.19.1,FortiOS,network,2025-01-08,2026-09-19,2026-09-19,Success
+A-105398,se121-srv01.store.norvik.local,10.102.20.10,Windows Server 2019,network,2025-01-23,2026-09-15,2026-09-15,Success
+A-105431,se121-bo01,10.102.20.20,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-105433,se121-fw01.store.norvik.local,10.102.20.1,FortiOS,network,2025-01-19,2026-09-15,2026-09-15,Success
+A-105449,se122-srv01.store.norvik.local,10.102.21.10,Windows Server 2019,network,2025-01-07,2026-09-15,2026-09-15,Success
+A-105483,se122-bo01,10.102.21.20,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-105491,se122-fw01.store.norvik.local,10.102.21.1,FortiOS,network,2025-01-13,2026-09-17,2026-09-17,Success
+A-105519,se123-srv01.store.norvik.local,10.102.22.10,Windows Server 2019,network,2025-01-21,2026-09-15,2026-09-15,Success
+A-105548,se123-bo01,10.102.22.20,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-105560,se123-fw01.store.norvik.local,10.102.22.1,FortiOS,network,2025-01-09,2026-09-18,2026-09-18,Success
+A-105561,se124-srv01.store.norvik.local,10.102.23.10,Windows Server 2019,network,2025-01-14,2026-09-16,2026-09-16,Success
+A-105582,se124-bo01,10.102.23.20,Windows 11 24H2,agent,2025-01-24,2026-09-20,,n/a (agent)
+A-105620,se124-bo02,10.102.23.21,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-105639,se124-fw01.store.norvik.local,10.102.23.1,FortiOS,network,2025-01-20,2026-09-16,2026-09-16,Success
+A-105648,se125-srv01.store.norvik.local,10.102.24.10,Windows Server 2019,network,2025-01-08,2026-09-18,2026-09-18,Success
+A-105661,se125-fw01.store.norvik.local,10.102.24.1,FortiOS,network,2025-01-10,2026-09-20,2026-09-20,Success
+A-105682,se126-srv01.store.norvik.local,10.102.25.10,Windows Server 2019,network,2025-01-10,2026-09-15,2026-09-15,Success
+A-105697,se126-bo01,10.102.25.20,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-105699,se126-fw01.store.norvik.local,10.102.25.1,FortiOS,network,2025-01-23,2026-09-20,2026-09-20,Success
+A-105729,se127-srv01.store.norvik.local,10.102.26.10,Windows Server 2019,network,2025-01-07,2026-09-18,2026-09-18,Success
+A-105740,se127-bo02,10.102.26.21,Windows 11 24H2,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-105743,se127-fw01.store.norvik.local,10.102.26.1,FortiOS,network,2025-01-23,2026-09-17,2026-09-17,Success
+A-105768,se128-srv01.store.norvik.local,10.102.27.10,Windows Server 2019,network,2025-01-20,2026-09-17,2026-09-17,Success
+A-105797,se128-bo01,10.102.27.20,Windows 11 24H2,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-105823,se128-fw01.store.norvik.local,10.102.27.1,FortiOS,network,2025-01-14,2026-09-18,2026-09-18,Success
+A-105844,se129-srv01.store.norvik.local,10.102.28.10,Windows Server 2019,network,2025-01-23,2026-09-18,2026-09-18,Success
+A-105856,se129-fw01.store.norvik.local,10.102.28.1,FortiOS,network,2025-01-08,2026-09-19,2026-09-19,Success
+A-105874,se130-srv01.store.norvik.local,10.102.29.10,Windows Server 2019,network,2025-01-23,2026-09-15,2026-09-15,Success
+A-105889,se130-bo01,10.102.29.20,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-105918,se130-bo02,10.102.29.21,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-105938,se130-fw01.store.norvik.local,10.102.29.1,FortiOS,network,2025-01-17,2026-09-15,2026-09-15,Success
+A-105952,se131-srv01.store.norvik.local,10.102.30.10,Windows Server 2019,network,2025-01-19,2026-09-20,2026-09-20,Success
+A-105965,se131-bo01,10.102.30.20,Windows 11 24H2,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-106000,se131-bo02,10.102.30.21,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-106007,se131-fw01.store.norvik.local,10.102.30.1,FortiOS,network,2025-01-12,2026-09-20,2026-09-20,Success
+A-106043,se132-srv01.store.norvik.local,10.102.31.10,Windows Server 2019,network,2025-01-25,2026-09-15,2026-09-15,Success
+A-106081,se132-bo02,10.102.31.21,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-106111,se132-fw01.store.norvik.local,10.102.31.1,FortiOS,network,2025-01-14,2026-09-20,2026-09-20,Success
+A-106124,se133-srv01.store.norvik.local,10.102.32.10,Windows Server 2019,network,2025-01-14,2026-09-17,2026-09-17,Success
+A-106151,se133-bo01,10.102.32.20,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-106158,se133-fw01.store.norvik.local,10.102.32.1,FortiOS,network,2025-01-25,2026-09-18,2026-09-18,Success
+A-106192,se134-srv01.store.norvik.local,10.102.33.10,Windows Server 2019,network,2025-01-25,2026-09-19,2026-09-19,Success
+A-106202,se134-bo01,10.102.33.20,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-106241,se134-bo02,10.102.33.21,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-106271,se134-fw01.store.norvik.local,10.102.33.1,FortiOS,network,2025-01-17,2026-09-18,2026-09-18,Success
+A-106289,se135-srv01.store.norvik.local,10.102.34.10,Windows Server 2019,network,2025-01-06,2026-09-15,2026-09-15,Success
+A-106308,se135-bo01,10.102.34.20,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-106320,se135-bo02,10.102.34.21,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-106335,se135-fw01.store.norvik.local,10.102.34.1,FortiOS,network,2025-01-10,2026-09-19,2026-09-19,Success
+A-106341,se136-srv01.store.norvik.local,10.102.35.10,Windows Server 2019,network,2025-01-24,2026-09-19,2026-09-19,Success
+A-106343,se136-bo02,10.102.35.21,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-106378,se136-fw01.store.norvik.local,10.102.35.1,FortiOS,network,2025-01-14,2026-09-21,2026-09-21,Success
+A-106415,se137-srv01.store.norvik.local,10.102.36.10,Windows Server 2019,network,2025-01-20,2026-09-20,2026-09-20,Success
+A-106441,se137-bo01,10.102.36.20,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-106446,se137-fw01.store.norvik.local,10.102.36.1,FortiOS,network,2025-01-21,2026-09-21,2026-09-21,Success
+A-106468,se138-srv01.store.norvik.local,10.102.37.10,Windows Server 2019,network,2025-01-25,2026-09-19,2026-09-19,Success
+A-106469,se138-bo01,10.102.37.20,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-106474,se138-fw01.store.norvik.local,10.102.37.1,FortiOS,network,2025-01-15,2026-09-16,2026-09-16,Success
+A-106487,se139-srv01.store.norvik.local,10.102.38.10,Windows Server 2019,network,2025-01-09,2026-09-20,2026-09-20,Success
+A-106514,se139-bo01,10.102.38.20,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-106528,se139-fw01.store.norvik.local,10.102.38.1,FortiOS,network,2025-01-10,2026-09-20,2026-09-20,Success
+A-106545,se140-srv01.store.norvik.local,10.102.39.10,Windows Server 2019,network,2025-01-10,2026-09-15,2026-09-15,Success
+A-106554,se140-bo01,10.102.39.20,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-106577,se140-fw01.store.norvik.local,10.102.39.1,FortiOS,network,2025-01-08,2026-09-19,2026-09-19,Success
+A-106590,se141-srv01.store.norvik.local,10.102.40.10,Windows Server 2019,network,2025-01-19,2026-09-15,2026-09-15,Success
+A-106620,se141-bo02,10.102.40.21,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-106622,se141-fw01.store.norvik.local,10.102.40.1,FortiOS,network,2025-01-16,2026-09-15,2026-09-15,Success
+A-106644,se142-srv01.store.norvik.local,10.102.41.10,Windows Server 2019,network,2025-01-09,2026-09-15,2026-09-15,Success
+A-106673,se142-bo01,10.102.41.20,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-106703,se142-bo02,10.102.41.21,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-106722,se142-fw01.store.norvik.local,10.102.41.1,FortiOS,network,2025-01-21,2026-09-21,2026-09-21,Success
+A-106752,se143-srv01.store.norvik.local,10.102.42.10,Windows Server 2019,network,2025-01-20,2026-09-18,2026-09-18,Success
+A-106758,se143-bo02,10.102.42.21,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-106784,se143-fw01.store.norvik.local,10.102.42.1,FortiOS,network,2025-01-13,2026-09-17,2026-09-17,Success
+A-106823,se144-srv01.store.norvik.local,10.102.43.10,Windows Server 2019,network,2025-01-15,2026-09-16,2026-09-16,Success
+A-106845,se144-bo02,10.102.43.21,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-106878,se144-fw01.store.norvik.local,10.102.43.1,FortiOS,network,2025-01-23,2026-09-17,2026-09-17,Success
+A-106902,se145-srv01.store.norvik.local,10.102.44.10,Windows Server 2019,network,2025-01-12,2026-09-20,2026-09-20,Success
+A-106907,se145-bo01,10.102.44.20,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-106914,se145-fw01.store.norvik.local,10.102.44.1,FortiOS,network,2025-01-20,2026-09-21,2026-09-21,Success
+A-106930,no201-srv01.store.norvik.local,10.103.0.10,Windows Server 2019,network,2025-01-20,2026-09-17,2026-06-02,Failed
+A-106945,no201-bo01,10.103.0.20,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-106946,no201-fw01.store.norvik.local,10.103.0.1,FortiOS,network,2025-01-12,2026-09-18,2026-09-18,Success
+A-106955,no202-srv01.store.norvik.local,10.103.1.10,Windows Server 2019,network,2025-01-18,2026-09-18,2026-06-02,Failed
+A-106988,no202-bo01,10.103.1.20,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-106996,no202-fw01.store.norvik.local,10.103.1.1,FortiOS,network,2025-01-11,2026-09-18,2026-09-18,Success
+A-107031,no203-srv01.store.norvik.local,10.103.2.10,Windows Server 2019,network,2025-01-17,2026-09-17,2026-06-02,Failed
+A-107057,no203-fw01.store.norvik.local,10.103.2.1,FortiOS,network,2025-01-23,2026-09-17,2026-09-17,Success
+A-107091,no204-srv01.store.norvik.local,10.103.3.10,Windows Server 2019,network,2025-01-17,2026-09-15,2026-06-02,Failed
+A-107108,no204-bo01,10.103.3.20,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-107140,no204-fw01.store.norvik.local,10.103.3.1,FortiOS,network,2025-01-21,2026-09-16,2026-09-16,Success
+A-107175,no205-srv01.store.norvik.local,10.103.4.10,Windows Server 2019,network,2025-01-06,2026-09-18,2026-09-18,Success
+A-107196,no205-bo02,10.103.4.21,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-107235,no205-fw01.store.norvik.local,10.103.4.1,FortiOS,network,2025-01-18,2026-09-15,2026-09-15,Success
+A-107238,no206-srv01.store.norvik.local,10.103.5.10,Windows Server 2019,network,2025-01-12,2026-09-18,2026-06-02,Failed
+A-107245,no206-bo01,10.103.5.20,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-107284,no206-fw01.store.norvik.local,10.103.5.1,FortiOS,network,2025-01-15,2026-09-20,2026-09-20,Success
+A-107296,no207-srv01.store.norvik.local,10.103.6.10,Windows Server 2019,network,2025-01-08,2026-09-18,2026-06-02,Failed
+A-107301,no207-bo01,10.103.6.20,Windows 11 24H2,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-107335,no207-bo02,10.103.6.21,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-107358,no207-fw01.store.norvik.local,10.103.6.1,FortiOS,network,2025-01-25,2026-09-21,2026-09-21,Success
+A-107376,no208-srv01.store.norvik.local,10.103.7.10,Windows Server 2019,network,2025-01-15,2026-09-20,2026-06-02,Failed
+A-107392,no208-bo01,10.103.7.20,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-107405,no208-fw01.store.norvik.local,10.103.7.1,FortiOS,network,2025-01-11,2026-09-21,2026-09-21,Success
+A-107420,no209-srv01.store.norvik.local,10.103.8.10,Windows Server 2019,network,2025-01-10,2026-09-16,2026-06-02,Failed
+A-107434,no209-bo01,10.103.8.20,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-107449,no209-fw01.store.norvik.local,10.103.8.1,FortiOS,network,2025-01-21,2026-09-19,2026-09-19,Success
+A-107469,no210-srv01.store.norvik.local,10.103.9.10,Windows Server 2019,network,2025-01-08,2026-09-19,2026-06-02,Failed
+A-107499,no210-bo01,10.103.9.20,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-107523,no210-bo02,10.103.9.21,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-107550,no210-fw01.store.norvik.local,10.103.9.1,FortiOS,network,2025-01-09,2026-09-20,2026-09-20,Success
+A-107584,no211-srv01.store.norvik.local,10.103.10.10,Windows Server 2019,network,2025-01-15,2026-09-15,2026-06-02,Failed
+A-107586,no211-bo01,10.103.10.20,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-107613,no211-fw01.store.norvik.local,10.103.10.1,FortiOS,network,2025-01-20,2026-09-18,2026-09-18,Success
+A-107627,no212-srv01.store.norvik.local,10.103.11.10,Windows Server 2019,network,2025-01-09,2026-09-20,2026-06-02,Failed
+A-107628,no212-bo01,10.103.11.20,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-107643,no212-bo02,10.103.11.21,Windows 11 24H2,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-107666,no212-fw01.store.norvik.local,10.103.11.1,FortiOS,network,2025-01-07,2026-09-15,2026-09-15,Success
+A-107683,no213-srv01.store.norvik.local,10.103.12.10,Windows Server 2019,network,2025-01-08,2026-09-15,2026-06-02,Failed
+A-107721,no213-bo01,10.103.12.20,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-107756,no213-bo02,10.103.12.21,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-107771,no213-fw01.store.norvik.local,10.103.12.1,FortiOS,network,2025-01-15,2026-09-18,2026-09-18,Success
+A-107791,no214-srv01.store.norvik.local,10.103.13.10,Windows Server 2019,network,2025-01-23,2026-09-16,2026-06-02,Failed
+A-107808,no214-bo01,10.103.13.20,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-107823,no214-fw01.store.norvik.local,10.103.13.1,FortiOS,network,2025-01-14,2026-09-17,2026-09-17,Success
+A-107858,no215-srv01.store.norvik.local,10.103.14.10,Windows Server 2019,network,2025-01-09,2026-09-18,2026-06-02,Failed
+A-107893,no215-bo01,10.103.14.20,Windows 11 24H2,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-107916,no215-fw01.store.norvik.local,10.103.14.1,FortiOS,network,2025-01-23,2026-09-21,2026-09-21,Success
+A-107923,no216-srv01.store.norvik.local,10.103.15.10,Windows Server 2019,network,2025-01-10,2026-09-21,2026-09-21,Success
+A-107931,no216-fw01.store.norvik.local,10.103.15.1,FortiOS,network,2025-01-17,2026-09-21,2026-09-21,Success
+A-107935,no217-srv01.store.norvik.local,10.103.16.10,Windows Server 2019,network,2025-01-07,2026-09-20,2026-06-02,Failed
+A-107974,no217-bo01,10.103.16.20,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-108009,no217-fw01.store.norvik.local,10.103.16.1,FortiOS,network,2025-01-16,2026-09-18,2026-09-18,Success
+A-108034,no218-srv01.store.norvik.local,10.103.17.10,Windows Server 2019,network,2025-01-06,2026-09-15,2026-09-15,Success
+A-108060,no218-bo01,10.103.17.20,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-108068,no218-fw01.store.norvik.local,10.103.17.1,FortiOS,network,2025-01-23,2026-09-15,2026-09-15,Success
+A-108096,no219-srv01.store.norvik.local,10.103.18.10,Windows Server 2019,network,2025-01-17,2026-09-15,2026-09-15,Success
+A-108108,no219-bo01,10.103.18.20,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-108109,no219-fw01.store.norvik.local,10.103.18.1,FortiOS,network,2025-01-20,2026-09-21,2026-09-21,Success
+A-108142,no220-srv01.store.norvik.local,10.103.19.10,Windows Server 2019,network,2025-01-08,2026-09-21,2026-06-02,Failed
+A-108181,no220-bo01,10.103.19.20,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-108188,no220-fw01.store.norvik.local,10.103.19.1,FortiOS,network,2025-01-18,2026-09-20,2026-09-20,Success
+A-108226,no221-srv01.store.norvik.local,10.103.20.10,Windows Server 2019,network,2025-01-09,2026-09-15,2026-09-15,Success
+A-108231,no221-bo01,10.103.20.20,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-108246,no221-bo02,10.103.20.21,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-108271,no221-fw01.store.norvik.local,10.103.20.1,FortiOS,network,2025-01-25,2026-09-17,2026-09-17,Success
+A-108276,no222-srv01.store.norvik.local,10.103.21.10,Windows Server 2019,network,2025-01-07,2026-09-16,2026-06-02,Failed
+A-108306,no222-bo01,10.103.21.20,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-108324,no222-fw01.store.norvik.local,10.103.21.1,FortiOS,network,2025-01-20,2026-09-18,2026-09-18,Success
+A-108342,no223-srv01.store.norvik.local,10.103.22.10,Windows Server 2019,network,2025-01-08,2026-09-15,2026-09-15,Success
+A-108360,no223-fw01.store.norvik.local,10.103.22.1,FortiOS,network,2025-01-21,2026-09-15,2026-09-15,Success
+A-108364,no224-srv01.store.norvik.local,10.103.23.10,Windows Server 2019,network,2025-01-20,2026-09-19,2026-06-02,Failed
+A-108379,no224-fw01.store.norvik.local,10.103.23.1,FortiOS,network,2025-01-13,2026-09-21,2026-09-21,Success
+A-108400,no225-srv01.store.norvik.local,10.103.24.10,Windows Server 2019,network,2025-01-14,2026-09-20,2026-06-02,Failed
+A-108408,no225-fw01.store.norvik.local,10.103.24.1,FortiOS,network,2025-01-08,2026-09-17,2026-09-17,Success
+A-108419,no226-srv01.store.norvik.local,10.103.25.10,Windows Server 2019,network,2025-01-14,2026-09-21,2026-06-02,Failed
+A-108444,no226-bo01,10.103.25.20,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-108448,no226-bo02,10.103.25.21,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-108457,no226-fw01.store.norvik.local,10.103.25.1,FortiOS,network,2025-01-19,2026-09-20,2026-09-20,Success
+A-108491,no227-srv01.store.norvik.local,10.103.26.10,Windows Server 2019,network,2025-01-23,2026-09-16,2026-09-16,Success
+A-108504,no227-bo01,10.103.26.20,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-108530,no227-fw01.store.norvik.local,10.103.26.1,FortiOS,network,2025-01-12,2026-09-18,2026-09-18,Success
+A-108562,no228-srv01.store.norvik.local,10.103.27.10,Windows Server 2019,network,2025-01-23,2026-09-19,2026-06-02,Failed
+A-108570,no228-bo01,10.103.27.20,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-108575,no228-fw01.store.norvik.local,10.103.27.1,FortiOS,network,2025-01-20,2026-09-17,2026-09-17,Success
+A-108577,no229-srv01.store.norvik.local,10.103.28.10,Windows Server 2019,network,2025-01-16,2026-09-19,2026-06-02,Failed
+A-108596,no229-bo01,10.103.28.20,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-108605,no229-bo02,10.103.28.21,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-108630,no229-fw01.store.norvik.local,10.103.28.1,FortiOS,network,2025-01-14,2026-09-16,2026-09-16,Success
+A-108631,no230-srv01.store.norvik.local,10.103.29.10,Windows Server 2019,network,2025-01-24,2026-09-19,2026-06-02,Failed
+A-108664,no230-bo01,10.103.29.20,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-108690,no230-fw01.store.norvik.local,10.103.29.1,FortiOS,network,2025-01-06,2026-09-19,2026-09-19,Success
+A-108708,no231-srv01.store.norvik.local,10.103.30.10,Windows Server 2019,network,2025-01-25,2026-09-16,2026-06-02,Failed
+A-108734,no231-bo01,10.103.30.20,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-108751,no231-bo02,10.103.30.21,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-108783,no231-fw01.store.norvik.local,10.103.30.1,FortiOS,network,2025-01-09,2026-09-19,2026-09-19,Success
+A-108803,no232-srv01.store.norvik.local,10.103.31.10,Windows Server 2019,network,2025-01-13,2026-09-20,2026-06-02,Failed
+A-108818,no232-fw01.store.norvik.local,10.103.31.1,FortiOS,network,2025-01-08,2026-09-17,2026-09-17,Success
+A-108843,no233-srv01.store.norvik.local,10.103.32.10,Windows Server 2019,network,2025-01-13,2026-09-18,2026-06-02,Failed
+A-108872,no233-fw01.store.norvik.local,10.103.32.1,FortiOS,network,2025-01-13,2026-09-18,2026-09-18,Success
+A-108902,no234-srv01.store.norvik.local,10.103.33.10,Windows Server 2019,network,2025-01-14,2026-09-17,2026-06-02,Failed
+A-108912,no234-bo01,10.103.33.20,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-108915,no234-fw01.store.norvik.local,10.103.33.1,FortiOS,network,2025-01-19,2026-09-16,2026-09-16,Success
+A-108938,no235-srv01.store.norvik.local,10.103.34.10,Windows Server 2019,network,2025-01-06,2026-09-20,2026-09-20,Success
+A-108948,no235-bo01,10.103.34.20,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-108964,no235-bo02,10.103.34.21,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-108974,no235-fw01.store.norvik.local,10.103.34.1,FortiOS,network,2025-01-25,2026-09-19,2026-09-19,Success
+A-108985,fi301-srv01.store.norvik.local,10.104.0.10,Windows Server 2019,network,2025-01-17,2026-09-16,2026-09-16,Success
+A-109021,fi301-bo01,10.104.0.20,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-109043,fi301-fw01.store.norvik.local,10.104.0.1,FortiOS,network,2025-01-20,2026-09-21,2026-09-21,Success
+A-109068,fi302-srv01.store.norvik.local,10.104.1.10,Windows Server 2019,network,2025-01-08,2026-09-17,2026-09-17,Success
+A-109103,fi302-bo01,10.104.1.20,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-109107,fi302-bo02,10.104.1.21,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-109108,fi302-fw01.store.norvik.local,10.104.1.1,FortiOS,network,2025-01-21,2026-09-16,2026-09-16,Success
+A-109124,fi303-srv01.store.norvik.local,10.104.2.10,Windows Server 2019,network,2025-01-24,2026-09-17,2026-09-17,Success
+A-109152,fi303-bo01,10.104.2.20,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-109160,fi303-fw01.store.norvik.local,10.104.2.1,FortiOS,network,2025-01-20,2026-09-20,2026-09-20,Success
+A-109187,fi304-srv01.store.norvik.local,10.104.3.10,Windows Server 2019,network,2025-01-16,2026-09-15,2026-09-15,Success
+A-109198,fi304-bo01,10.104.3.20,Windows 11 24H2,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-109220,fi304-bo02,10.104.3.21,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-109232,fi304-fw01.store.norvik.local,10.104.3.1,FortiOS,network,2025-01-12,2026-09-15,2026-09-15,Success
+A-109235,fi305-srv01.store.norvik.local,10.104.4.10,Windows Server 2019,network,2025-01-19,2026-09-21,2026-09-21,Success
+A-109262,fi305-bo01,10.104.4.20,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-109298,fi305-fw01.store.norvik.local,10.104.4.1,FortiOS,network,2025-01-21,2026-09-21,2026-09-21,Success
+A-109330,fi306-srv01.store.norvik.local,10.104.5.10,Windows Server 2019,network,2025-01-10,2026-09-20,2026-09-20,Success
+A-109331,fi306-bo01,10.104.5.20,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-109370,fi306-fw01.store.norvik.local,10.104.5.1,FortiOS,network,2025-01-10,2026-09-21,2026-09-21,Success
+A-109394,fi307-srv01.store.norvik.local,10.104.6.10,Windows Server 2019,network,2025-01-13,2026-09-16,2026-09-16,Success
+A-109395,fi307-bo01,10.104.6.20,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-109404,fi307-bo02,10.104.6.21,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-109425,fi307-fw01.store.norvik.local,10.104.6.1,FortiOS,network,2025-01-14,2026-09-16,2026-09-16,Success
+A-109441,fi308-srv01.store.norvik.local,10.104.7.10,Windows Server 2019,network,2025-01-09,2026-09-20,2026-09-20,Success
+A-109464,fi308-bo01,10.104.7.20,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-109481,fi308-fw01.store.norvik.local,10.104.7.1,FortiOS,network,2025-01-09,2026-09-17,2026-09-17,Success
+A-109510,fi309-srv01.store.norvik.local,10.104.8.10,Windows Server 2019,network,2025-01-18,2026-09-19,2026-09-19,Success
+A-109547,fi309-bo01,10.104.8.20,Windows 11 24H2,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-109564,fi309-fw01.store.norvik.local,10.104.8.1,FortiOS,network,2025-01-12,2026-09-21,2026-09-21,Success
+A-109580,fi310-srv01.store.norvik.local,10.104.9.10,Windows Server 2019,network,2025-01-21,2026-09-18,2026-09-18,Success
+A-109612,fi310-bo01,10.104.9.20,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-109623,fi310-fw01.store.norvik.local,10.104.9.1,FortiOS,network,2025-01-11,2026-09-15,2026-09-15,Success
+A-109629,fi311-srv01.store.norvik.local,10.104.10.10,Windows Server 2019,network,2025-01-09,2026-09-20,2026-09-20,Success
+A-109654,fi311-bo01,10.104.10.20,Windows 11 24H2,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-109664,fi311-fw01.store.norvik.local,10.104.10.1,FortiOS,network,2025-01-18,2026-09-21,2026-09-21,Success
+A-109681,fi312-srv01.store.norvik.local,10.104.11.10,Windows Server 2019,network,2025-01-17,2026-09-17,2026-09-17,Success
+A-109693,fi312-fw01.store.norvik.local,10.104.11.1,FortiOS,network,2025-01-15,2026-09-21,2026-09-21,Success
+A-109699,fi313-srv01.store.norvik.local,10.104.12.10,Windows Server 2019,network,2025-01-11,2026-09-18,2026-09-18,Success
+A-109702,fi313-bo01,10.104.12.20,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-109710,fi313-fw01.store.norvik.local,10.104.12.1,FortiOS,network,2025-01-17,2026-09-18,2026-09-18,Success
+A-109717,fi314-srv01.store.norvik.local,10.104.13.10,Windows Server 2019,network,2025-01-16,2026-09-18,2026-09-18,Success
+A-109737,fi314-bo01,10.104.13.20,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-109768,fi314-bo02,10.104.13.21,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-109804,fi314-fw01.store.norvik.local,10.104.13.1,FortiOS,network,2025-01-15,2026-09-21,2026-09-21,Success
+A-109831,fi315-srv01.store.norvik.local,10.104.14.10,Windows Server 2019,network,2025-01-20,2026-09-18,2026-09-18,Success
+A-109860,fi315-fw01.store.norvik.local,10.104.14.1,FortiOS,network,2025-01-18,2026-09-18,2026-09-18,Success
+A-109874,fi316-srv01.store.norvik.local,10.104.15.10,Windows Server 2019,network,2025-01-15,2026-09-20,2026-09-20,Success
+A-109898,fi316-bo01,10.104.15.20,Windows 11 24H2,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-109923,fi316-fw01.store.norvik.local,10.104.15.1,FortiOS,network,2025-01-19,2026-09-19,2026-09-19,Success
+A-109947,fi317-srv01.store.norvik.local,10.104.16.10,Windows Server 2019,network,2025-01-22,2026-09-19,2026-09-19,Success
+A-109978,fi317-bo01,10.104.16.20,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-109992,fi317-fw01.store.norvik.local,10.104.16.1,FortiOS,network,2025-01-19,2026-09-18,2026-09-18,Success
+A-110025,fi318-srv01.store.norvik.local,10.104.17.10,Windows Server 2019,network,2025-01-09,2026-09-15,2026-09-15,Success
+A-110059,fi318-bo02,10.104.17.21,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-110061,fi318-fw01.store.norvik.local,10.104.17.1,FortiOS,network,2025-01-14,2026-09-15,2026-09-15,Success
+A-110063,fi319-srv01.store.norvik.local,10.104.18.10,Windows Server 2019,network,2025-01-15,2026-09-16,2026-09-16,Success
+A-110092,fi319-bo01,10.104.18.20,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-110104,fi319-fw01.store.norvik.local,10.104.18.1,FortiOS,network,2025-01-25,2026-09-16,2026-09-16,Success
+A-110136,fi320-srv01.store.norvik.local,10.104.19.10,Windows Server 2019,network,2025-01-06,2026-09-18,2026-09-18,Success
+A-110141,fi320-fw01.store.norvik.local,10.104.19.1,FortiOS,network,2025-01-07,2026-09-19,2026-09-19,Success
+A-110160,hqw-mgmt001.corp.norvik.local,10.10.1.11,Windows Server 2022,network,2025-01-19,2026-09-20,2026-09-20,Success
+A-110181,hqw-mgmt002.corp.norvik.local,10.10.1.12,Windows Server 2022,network,2025-01-24,2026-09-19,2026-09-19,Success
+A-110206,hqw-wsus003.corp.norvik.local,10.10.1.13,Windows Server 2019,network,2025-01-23,2026-09-15,2026-09-15,Success
+A-110232,hqw-prt004.corp.norvik.local,10.10.1.14,Windows Server 2019,network,2025-01-06,2026-09-21,2026-09-21,Success
+A-110244,hqw-dc005.corp.norvik.local,10.10.1.15,Windows Server 2019,network,2025-01-22,2026-09-19,2026-09-19,Success
+A-110266,hqw-app006.corp.norvik.local,10.10.1.16,Windows Server 2019,network,2025-01-08,2026-09-16,2026-09-16,Success
+A-110286,hqw-prt007.corp.norvik.local,10.10.1.17,Windows Server 2019,network,2025-01-16,2026-09-16,2026-09-16,Success
+A-110325,hqw-iis008.corp.norvik.local,10.10.1.18,Windows Server 2022,network,2025-01-15,2026-09-21,2026-09-21,Success
+A-110350,hqw-file009.corp.norvik.local,10.10.1.19,Windows Server 2022,network,2025-01-18,2026-09-15,2026-09-15,Success
+A-110366,hqw-wsus010.corp.norvik.local,10.10.1.20,Windows Server 2022,network,2025-01-12,2026-09-15,2026-09-15,Success
+A-110399,hqw-dc011.corp.norvik.local,10.10.1.21,Windows Server 2019,network,2025-01-08,2026-09-21,2026-09-21,Success
+A-110404,hqw-file012.corp.norvik.local,10.10.1.22,Windows Server 2019,network,2025-01-07,2026-09-15,2026-09-15,Success
+A-110417,hqw-bi013.corp.norvik.local,10.10.1.23,Windows Server 2019,network,2025-01-11,2026-09-15,2026-09-15,Success
+A-110452,hqw-iis014.corp.norvik.local,10.10.1.24,Windows Server 2016,network,2025-01-19,2026-09-18,2026-09-18,Success
+A-110476,hqw-sql015.corp.norvik.local,10.10.1.25,Windows Server 2022,network,2025-01-12,2026-09-19,2026-09-19,Success
+A-110494,hqw-erp016.corp.norvik.local,10.10.1.26,Windows Server 2016,network,2025-01-19,2026-09-15,2026-09-15,Success
+A-110514,hqw-wsus017.corp.norvik.local,10.10.1.27,Windows Server 2016,network,2025-01-06,2026-09-20,2026-09-20,Success
+A-110550,hqw-app018.corp.norvik.local,10.10.1.28,Windows Server 2022,network,2025-01-15,2026-09-19,2026-09-19,Success
+A-110579,hqw-bi019.corp.norvik.local,10.10.1.29,Windows Server 2022,network,2025-01-14,2026-09-19,2026-09-19,Success
+A-110588,hqw-prt020.corp.norvik.local,10.10.1.30,Windows Server 2022,network,2025-01-23,2026-09-19,2026-09-19,Success
+A-110590,hqw-prt021.corp.norvik.local,10.10.1.31,Windows Server 2016,network,2025-01-11,2026-09-19,2026-09-19,Success
+A-110595,hqw-prt022.corp.norvik.local,10.10.1.32,Windows Server 2022,network,2025-01-18,2026-09-18,2026-09-18,Success
+A-110608,hqw-iis023.corp.norvik.local,10.10.1.33,Windows Server 2019,network,2025-01-08,2026-09-15,2026-09-15,Success
+A-110641,hqw-erp024.corp.norvik.local,10.10.1.34,Windows Server 2022,network,2025-01-16,2026-09-19,2026-09-19,Success
+A-110671,hqw-dc025.corp.norvik.local,10.10.1.35,Windows Server 2016,network,2025-01-14,2026-09-15,2026-09-15,Success
+A-110680,hqw-bi026.corp.norvik.local,10.10.1.36,Windows Server 2016,network,2025-01-17,2026-09-16,2026-09-16,Success
+A-110700,hqw-app027.corp.norvik.local,10.10.1.37,Windows Server 2022,network,2025-01-20,2026-09-21,2026-09-21,Success
+A-110719,hqw-file028.corp.norvik.local,10.10.1.38,Windows Server 2019,network,2025-01-17,2026-09-18,2026-09-18,Success
+A-110733,hqw-file029.corp.norvik.local,10.10.1.39,Windows Server 2022,network,2025-01-24,2026-09-20,2026-09-20,Success
+A-110760,hqw-iis030.corp.norvik.local,10.10.1.40,Windows Server 2016,network,2025-01-25,2026-09-20,2026-09-20,Success
+A-110781,hqw-dc031.corp.norvik.local,10.10.1.41,Windows Server 2019,network,2025-01-15,2026-09-18,2026-09-18,Success
+A-110793,hqw-wsus032.corp.norvik.local,10.10.1.42,Windows Server 2019,network,2025-01-19,2026-09-19,2026-09-19,Success
+A-110813,hqw-bi033.corp.norvik.local,10.10.1.43,Windows Server 2022,network,2025-01-18,2026-09-17,2026-09-17,Success
+A-110827,hqw-app034.corp.norvik.local,10.10.1.44,Windows Server 2019,network,2025-01-19,2026-09-16,2026-09-16,Success
+A-110829,hqw-app035.corp.norvik.local,10.10.1.45,Windows Server 2019,network,2025-01-12,2026-09-21,2026-09-21,Success
+A-110849,hqw-app036.corp.norvik.local,10.10.1.46,Windows Server 2019,network,2025-01-25,2026-09-21,2026-09-21,Success
+A-110870,hqw-dc037.corp.norvik.local,10.10.1.47,Windows Server 2022,network,2025-01-10,2026-09-17,2026-09-17,Success
+A-110894,hqw-erp038.corp.norvik.local,10.10.1.48,Windows Server 2016,network,2025-01-14,2026-09-19,2026-09-19,Success
+A-110930,hqw-file039.corp.norvik.local,10.10.1.49,Windows Server 2019,network,2025-01-16,2026-09-20,2026-09-20,Success
+A-110943,hqw-file040.corp.norvik.local,10.10.1.50,Windows Server 2022,network,2025-01-07,2026-09-16,2026-09-16,Success
+A-110962,hqw-file041.corp.norvik.local,10.10.1.51,Windows Server 2022,network,2025-01-06,2026-09-20,2026-09-20,Success
+A-110972,hqw-sql042.corp.norvik.local,10.10.1.52,Windows Server 2016,network,2025-01-10,2026-09-16,2026-09-16,Success
+A-110974,hqw-sql043.corp.norvik.local,10.10.1.53,Windows Server 2019,network,2025-01-24,2026-09-16,2026-09-16,Success
+A-111003,hqw-file044.corp.norvik.local,10.10.1.54,Windows Server 2022,network,2025-01-17,2026-09-19,2026-09-19,Success
+A-111014,hqw-bi045.corp.norvik.local,10.10.1.55,Windows Server 2022,network,2025-01-25,2026-09-17,2026-09-17,Success
+A-111038,hqw-sql046.corp.norvik.local,10.10.1.56,Windows Server 2022,network,2025-01-25,2026-09-15,2026-09-15,Success
+A-111068,hqw-sql047.corp.norvik.local,10.10.1.57,Windows Server 2019,network,2025-01-12,2026-09-21,2026-09-21,Success
+A-111084,hqw-erp048.corp.norvik.local,10.10.1.58,Windows Server 2019,network,2025-01-21,2026-09-18,2026-09-18,Success
+A-111107,hqw-dc049.corp.norvik.local,10.10.1.59,Windows Server 2019,network,2025-01-18,2026-09-16,2026-09-16,Success
+A-111119,hqw-mgmt050.corp.norvik.local,10.10.1.60,Windows Server 2019,network,2025-01-20,2026-09-19,2026-09-19,Success
+A-111129,hqw-app051.corp.norvik.local,10.10.1.61,Windows Server 2016,network,2025-01-12,2026-09-20,2026-09-20,Success
+A-111163,hqw-app052.corp.norvik.local,10.10.1.62,Windows Server 2019,network,2025-01-15,2026-09-16,2026-09-16,Success
+A-111170,hqw-erp053.corp.norvik.local,10.10.1.63,Windows Server 2016,network,2025-01-19,2026-09-16,2026-09-16,Success
+A-111173,hqw-dc054.corp.norvik.local,10.10.1.64,Windows Server 2016,network,2025-01-09,2026-09-18,2026-09-18,Success
+A-111209,hqw-mgmt055.corp.norvik.local,10.10.1.65,Windows Server 2019,network,2025-01-21,2026-09-15,2026-09-15,Success
+A-111228,hqw-dc056.corp.norvik.local,10.10.1.66,Windows Server 2019,network,2025-01-17,2026-09-20,2026-09-20,Success
+A-111264,hqw-file057.corp.norvik.local,10.10.1.67,Windows Server 2016,network,2025-01-11,2026-09-18,2026-09-18,Success
+A-111290,hqw-mgmt058.corp.norvik.local,10.10.1.68,Windows Server 2022,network,2025-01-23,2026-09-19,2026-09-19,Success
+A-111323,hqw-wsus059.corp.norvik.local,10.10.1.69,Windows Server 2019,network,2025-01-15,2026-09-18,2026-09-18,Success
+A-111327,hqw-iis060.corp.norvik.local,10.10.1.70,Windows Server 2022,network,2025-01-14,2026-09-20,2026-09-20,Success
+A-111348,hqw-erp061.corp.norvik.local,10.10.1.71,Windows Server 2022,network,2025-01-24,2026-09-20,2026-09-20,Success
+A-111385,hqw-sql062.corp.norvik.local,10.10.1.72,Windows Server 2016,network,2025-01-14,2026-09-17,2026-09-17,Success
+A-111394,hqw-wsus063.corp.norvik.local,10.10.1.73,Windows Server 2019,network,2025-01-12,2026-09-21,2026-09-21,Success
+A-111433,hqw-app064.corp.norvik.local,10.10.1.74,Windows Server 2022,network,2025-01-12,2026-09-21,2026-09-21,Success
+A-111448,hqw-sql065.corp.norvik.local,10.10.1.75,Windows Server 2016,network,2025-01-17,2026-09-19,2026-09-19,Success
+A-111454,hqw-iis066.corp.norvik.local,10.10.1.76,Windows Server 2022,network,2025-01-25,2026-09-17,2026-09-17,Success
+A-111461,hqw-iis067.corp.norvik.local,10.10.1.77,Windows Server 2019,network,2025-01-19,2026-09-15,2026-09-15,Success
+A-111465,hqw-sql068.corp.norvik.local,10.10.1.78,Windows Server 2019,network,2025-01-12,2026-09-16,2026-09-16,Success
+A-111495,hqw-dc069.corp.norvik.local,10.10.1.79,Windows Server 2016,network,2025-01-11,2026-09-15,2026-09-15,Success
+A-111527,hqw-bi070.corp.norvik.local,10.10.1.80,Windows Server 2016,network,2025-01-24,2026-09-18,2026-09-18,Success
+A-111543,hqw-sql071.corp.norvik.local,10.10.1.81,Windows Server 2022,network,2025-01-23,2026-09-15,2026-09-15,Success
+A-111579,hqw-bi072.corp.norvik.local,10.10.1.82,Windows Server 2019,network,2025-01-23,2026-09-20,2026-09-20,Success
+A-111588,hqw-dc073.corp.norvik.local,10.10.1.83,Windows Server 2022,network,2025-01-22,2026-09-20,2026-09-20,Success
+A-111599,hqw-iis074.corp.norvik.local,10.10.1.84,Windows Server 2022,network,2025-01-11,2026-09-21,2026-09-21,Success
+A-111631,hqw-sql075.corp.norvik.local,10.10.1.85,Windows Server 2022,network,2025-01-10,2026-09-20,2026-09-20,Success
+A-111647,hqw-iis076.corp.norvik.local,10.10.1.86,Windows Server 2019,network,2025-01-21,2026-09-18,2026-09-18,Success
+A-111663,hqw-prt077.corp.norvik.local,10.10.1.87,Windows Server 2019,network,2025-01-16,2026-09-20,2026-09-20,Success
+A-111683,hqw-app078.corp.norvik.local,10.10.1.88,Windows Server 2016,network,2025-01-14,2026-09-18,2026-09-18,Success
+A-111685,hqw-wsus079.corp.norvik.local,10.10.1.89,Windows Server 2016,network,2025-01-20,2026-09-15,2026-09-15,Success
+A-111692,hqw-erp080.corp.norvik.local,10.10.1.90,Windows Server 2019,network,2025-01-18,2026-09-18,2026-09-18,Success
+A-111728,hqw-prt081.corp.norvik.local,10.10.1.91,Windows Server 2016,network,2025-01-16,2026-09-20,2026-09-20,Success
+A-111742,hqw-app082.corp.norvik.local,10.10.1.92,Windows Server 2019,network,2025-01-20,2026-09-21,2026-09-21,Success
+A-111765,hqw-sql083.corp.norvik.local,10.10.1.93,Windows Server 2016,network,2025-01-21,2026-09-15,2026-09-15,Success
+A-111793,hqw-wsus084.corp.norvik.local,10.10.1.94,Windows Server 2022,network,2025-01-22,2026-09-17,2026-09-17,Success
+A-111797,hqw-app085.corp.norvik.local,10.10.1.95,Windows Server 2022,network,2025-01-08,2026-09-20,2026-09-20,Success
+A-111802,hqw-sql086.corp.norvik.local,10.10.1.96,Windows Server 2016,network,2025-01-07,2026-09-18,2026-09-18,Success
+A-111820,hqw-prt087.corp.norvik.local,10.10.1.97,Windows Server 2016,network,2025-01-18,2026-09-21,2026-09-21,Success
+A-111833,hqw-iis088.corp.norvik.local,10.10.1.98,Windows Server 2016,network,2025-01-11,2026-09-18,2026-09-18,Success
+A-111866,hqw-bi089.corp.norvik.local,10.10.1.99,Windows Server 2019,network,2025-01-12,2026-09-21,2026-09-21,Success
+A-111884,hqw-wsus090.corp.norvik.local,10.10.1.100,Windows Server 2022,network,2025-01-09,2026-09-15,2026-09-15,Success
+A-111897,hqw-iis091.corp.norvik.local,10.10.1.101,Windows Server 2019,network,2025-01-20,2026-09-19,2026-09-19,Success
+A-111934,hqw-wsus092.corp.norvik.local,10.10.1.102,Windows Server 2019,network,2025-01-14,2026-09-17,2026-09-17,Success
+A-111940,hqw-wsus093.corp.norvik.local,10.10.1.103,Windows Server 2016,network,2025-01-23,2026-09-17,2026-09-17,Success
+A-111947,hqw-prt094.corp.norvik.local,10.10.1.104,Windows Server 2019,network,2025-01-22,2026-09-20,2026-09-20,Success
+A-111965,hqw-file095.corp.norvik.local,10.10.1.105,Windows Server 2016,network,2025-01-08,2026-09-18,2026-09-18,Success
+A-111980,hqw-dc096.corp.norvik.local,10.10.1.106,Windows Server 2016,network,2025-01-18,2026-09-21,2026-09-21,Success
+A-111987,hqw-erp097.corp.norvik.local,10.10.1.107,Windows Server 2019,network,2025-01-18,2026-09-18,2026-09-18,Success
+A-112015,hqw-sql098.corp.norvik.local,10.10.1.108,Windows Server 2019,network,2025-01-19,2026-09-15,2026-09-15,Success
+A-112054,hqw-app099.corp.norvik.local,10.10.1.109,Windows Server 2019,network,2025-01-10,2026-09-20,2026-09-20,Success
+A-112060,hqw-dc100.corp.norvik.local,10.10.1.110,Windows Server 2022,network,2025-01-15,2026-09-17,2026-09-17,Success
+A-112084,hqw-bi101.corp.norvik.local,10.10.1.111,Windows Server 2022,network,2025-01-17,2026-09-17,2026-09-17,Success
+A-112092,hqw-sql102.corp.norvik.local,10.10.1.112,Windows Server 2016,network,2025-01-09,2026-09-16,2026-09-16,Success
+A-112114,hqw-app103.corp.norvik.local,10.10.1.113,Windows Server 2019,network,2025-01-23,2026-09-19,2026-09-19,Success
+A-112135,hqw-file104.corp.norvik.local,10.10.1.114,Windows Server 2022,network,2025-01-25,2026-09-20,2026-09-20,Success
+A-112147,hqw-file105.corp.norvik.local,10.10.1.115,Windows Server 2016,network,2025-01-10,2026-09-18,2026-09-18,Success
+A-112176,hqw-erp106.corp.norvik.local,10.10.1.116,Windows Server 2019,network,2025-01-21,2026-09-19,2026-09-19,Success
+A-112186,hqw-erp107.corp.norvik.local,10.10.1.117,Windows Server 2016,network,2025-01-22,2026-09-20,2026-09-20,Success
+A-112210,hqw-prt108.corp.norvik.local,10.10.1.118,Windows Server 2022,network,2025-01-15,2026-09-18,2026-09-18,Success
+A-112216,hqw-mgmt109.corp.norvik.local,10.10.1.119,Windows Server 2019,network,2025-01-21,2026-09-18,2026-09-18,Success
+A-112220,hqw-mgmt110.corp.norvik.local,10.10.1.120,Windows Server 2019,network,2025-01-25,2026-09-20,2026-09-20,Success
+A-112225,hqw-mgmt111.corp.norvik.local,10.10.1.121,Windows Server 2019,network,2025-01-18,2026-09-18,2026-09-18,Success
+A-112253,hqw-file112.corp.norvik.local,10.10.1.122,Windows Server 2022,network,2025-01-23,2026-09-15,2026-09-15,Success
+A-112266,hqw-bi113.corp.norvik.local,10.10.1.123,Windows Server 2019,network,2025-01-10,2026-09-18,2026-09-18,Success
+A-112276,hqw-bi114.corp.norvik.local,10.10.1.124,Windows Server 2016,network,2025-01-10,2026-09-18,2026-09-18,Success
+A-112293,hqw-file115.corp.norvik.local,10.10.1.125,Windows Server 2022,network,2025-01-14,2026-09-19,2026-09-19,Success
+A-112300,hqw-iis116.corp.norvik.local,10.10.1.126,Windows Server 2019,network,2025-01-18,2026-09-16,2026-09-16,Success
+A-112308,hqw-iis117.corp.norvik.local,10.10.1.127,Windows Server 2019,network,2025-01-15,2026-09-20,2026-09-20,Success
+A-112322,hqw-app118.corp.norvik.local,10.10.1.128,Windows Server 2019,network,2025-01-10,2026-09-15,2026-09-15,Success
+A-112323,hqw-app119.corp.norvik.local,10.10.1.129,Windows Server 2022,network,2025-01-12,2026-09-16,2026-09-16,Success
+A-112346,hqw-iis120.corp.norvik.local,10.10.1.130,Windows Server 2016,network,2025-01-14,2026-09-15,2026-09-15,Success
+A-112382,hqw-dc121.corp.norvik.local,10.10.1.131,Windows Server 2022,network,2025-01-24,2026-09-19,2026-09-19,Success
+A-112390,hqw-dc122.corp.norvik.local,10.10.1.132,Windows Server 2022,network,2025-01-19,2026-09-21,2026-09-21,Success
+A-112398,hqw-file123.corp.norvik.local,10.10.1.133,Windows Server 2022,network,2025-01-13,2026-09-19,2026-09-19,Success
+A-112410,hqw-sql124.corp.norvik.local,10.10.1.134,Windows Server 2019,network,2025-01-11,2026-09-19,2026-09-19,Success
+A-112421,hqw-prt125.corp.norvik.local,10.10.1.135,Windows Server 2022,network,2025-01-12,2026-09-17,2026-09-17,Success
+A-112448,hqw-app126.corp.norvik.local,10.10.1.136,Windows Server 2016,network,2025-01-21,2026-09-16,2026-09-16,Success
+A-112467,hqw-bi127.corp.norvik.local,10.10.1.137,Windows Server 2022,network,2025-01-15,2026-09-16,2026-09-16,Success
+A-112501,hqw-file128.corp.norvik.local,10.10.1.138,Windows Server 2019,network,2025-01-16,2026-09-17,2026-09-17,Success
+A-112514,hqw-prt129.corp.norvik.local,10.10.1.139,Windows Server 2016,network,2025-01-17,2026-09-18,2026-09-18,Success
+A-112546,hqw-wsus130.corp.norvik.local,10.10.1.140,Windows Server 2022,network,2025-01-09,2026-09-19,2026-09-19,Success
+A-112580,hqw-bi131.corp.norvik.local,10.10.1.141,Windows Server 2022,network,2025-01-18,2026-09-21,2026-09-21,Success
+A-112601,hqw-erp132.corp.norvik.local,10.10.1.142,Windows Server 2019,network,2025-01-20,2026-09-16,2026-09-16,Success
+A-112624,hqw-file133.corp.norvik.local,10.10.1.143,Windows Server 2022,network,2025-01-10,2026-09-21,2026-09-21,Success
+A-112638,hqw-mgmt134.corp.norvik.local,10.10.1.144,Windows Server 2022,network,2025-01-08,2026-09-20,2026-09-20,Success
+A-112664,hqw-wsus135.corp.norvik.local,10.10.1.145,Windows Server 2016,network,2025-01-21,2026-09-18,2026-09-18,Success
+A-112686,hqw-iis136.corp.norvik.local,10.10.1.146,Windows Server 2019,network,2025-01-24,2026-09-16,2026-09-16,Success
+A-112721,hqw-bi137.corp.norvik.local,10.10.1.147,Windows Server 2016,network,2025-01-13,2026-09-15,2026-09-15,Success
+A-112727,hqw-iis138.corp.norvik.local,10.10.1.148,Windows Server 2016,network,2025-01-17,2026-09-19,2026-09-19,Success
+A-112763,hqw-sql139.corp.norvik.local,10.10.1.149,Windows Server 2019,network,2025-01-17,2026-09-17,2026-09-17,Success
+A-112785,hqw-dc140.corp.norvik.local,10.10.1.150,Windows Server 2019,network,2025-01-08,2026-09-21,2026-09-21,Success
+A-112793,hqw-app141.corp.norvik.local,10.10.1.151,Windows Server 2019,network,2025-01-13,2026-09-18,2026-09-18,Success
+A-112811,hqw-dc142.corp.norvik.local,10.10.1.152,Windows Server 2016,network,2025-01-18,2026-09-17,2026-09-17,Success
+A-112815,hqw-iis143.corp.norvik.local,10.10.1.153,Windows Server 2019,network,2025-01-22,2026-09-20,2026-09-20,Success
+A-112845,hqw-wsus144.corp.norvik.local,10.10.1.154,Windows Server 2019,network,2025-01-14,2026-09-16,2026-09-16,Success
+A-112862,hqw-sql145.corp.norvik.local,10.10.1.155,Windows Server 2022,network,2025-01-11,2026-09-20,2026-09-20,Success
+A-112900,hqw-wsus146.corp.norvik.local,10.10.1.156,Windows Server 2022,network,2025-01-25,2026-09-17,2026-09-17,Success
+A-112902,hqw-mgmt147.corp.norvik.local,10.10.1.157,Windows Server 2019,network,2025-01-14,2026-09-20,2026-09-20,Success
+A-112934,hqw-prt148.corp.norvik.local,10.10.1.158,Windows Server 2016,network,2025-01-15,2026-09-17,2026-09-17,Success
+A-112971,hqw-mgmt149.corp.norvik.local,10.10.1.159,Windows Server 2019,network,2025-01-08,2026-09-16,2026-09-16,Success
+A-112992,hqw-prt150.corp.norvik.local,10.10.1.160,Windows Server 2022,network,2025-01-09,2026-09-15,2026-09-15,Success
+A-113017,hqw-file151.corp.norvik.local,10.10.1.161,Windows Server 2019,network,2025-01-12,2026-09-18,2026-09-18,Success
+A-113053,hqw-bi152.corp.norvik.local,10.10.1.162,Windows Server 2019,network,2025-01-07,2026-09-21,2026-09-21,Success
+A-113073,hqw-prt153.corp.norvik.local,10.10.1.163,Windows Server 2016,network,2025-01-21,2026-09-21,2026-09-21,Success
+A-113082,hqw-file154.corp.norvik.local,10.10.1.164,Windows Server 2019,network,2025-01-17,2026-09-15,2026-09-15,Success
+A-113112,hqw-iis155.corp.norvik.local,10.10.1.165,Windows Server 2022,network,2025-01-18,2026-09-19,2026-09-19,Success
+A-113135,hqw-dc156.corp.norvik.local,10.10.1.166,Windows Server 2019,network,2025-01-20,2026-09-16,2026-09-16,Success
+A-113170,hqw-prt157.corp.norvik.local,10.10.1.167,Windows Server 2016,network,2025-01-08,2026-09-20,2026-09-20,Success
+A-113205,hqw-app158.corp.norvik.local,10.10.1.168,Windows Server 2016,network,2025-01-11,2026-09-21,2026-09-21,Success
+A-113240,hqw-dc159.corp.norvik.local,10.10.1.169,Windows Server 2016,network,2025-01-21,2026-09-19,2026-09-19,Success
+A-113257,hqw-app160.corp.norvik.local,10.10.1.170,Windows Server 2022,network,2025-01-25,2026-09-18,2026-09-18,Success
+A-113278,hqw-bi161.corp.norvik.local,10.10.1.171,Windows Server 2016,network,2025-01-08,2026-09-20,2026-09-20,Success
+A-113305,hqw-app162.corp.norvik.local,10.10.1.172,Windows Server 2016,network,2025-01-10,2026-09-20,2026-09-20,Success
+A-113309,hqw-wsus163.corp.norvik.local,10.10.1.173,Windows Server 2022,network,2025-01-20,2026-09-16,2026-09-16,Success
+A-113332,hqw-bi164.corp.norvik.local,10.10.1.174,Windows Server 2022,network,2025-01-11,2026-09-20,2026-09-20,Success
+A-113357,hqw-wsus165.corp.norvik.local,10.10.1.175,Windows Server 2022,network,2025-01-16,2026-09-15,2026-09-15,Success
+A-113368,hqw-prt166.corp.norvik.local,10.10.1.176,Windows Server 2019,network,2025-01-08,2026-09-17,2026-09-17,Success
+A-113373,hqw-sql167.corp.norvik.local,10.10.1.177,Windows Server 2019,network,2025-01-16,2026-09-16,2026-09-16,Success
+A-113410,hqw-dc168.corp.norvik.local,10.10.1.178,Windows Server 2016,network,2025-01-13,2026-09-20,2026-09-20,Success
+A-113430,hqw-app169.corp.norvik.local,10.10.1.179,Windows Server 2019,network,2025-01-07,2026-09-18,2026-09-18,Success
+A-113456,hqw-file170.corp.norvik.local,10.10.1.180,Windows Server 2016,network,2025-01-13,2026-09-16,2026-09-16,Success
+A-113488,hqw-app171.corp.norvik.local,10.10.1.181,Windows Server 2019,network,2025-01-17,2026-09-16,2026-09-16,Success
+A-113513,hqw-dc172.corp.norvik.local,10.10.1.182,Windows Server 2019,network,2025-01-22,2026-09-15,2026-09-15,Success
+A-113547,hqw-iis173.corp.norvik.local,10.10.1.183,Windows Server 2019,network,2025-01-07,2026-09-17,2026-09-17,Success
+A-113556,hqw-erp174.corp.norvik.local,10.10.1.184,Windows Server 2019,network,2025-01-07,2026-09-16,2026-09-16,Success
+A-113567,hqw-dc175.corp.norvik.local,10.10.1.185,Windows Server 2019,network,2025-01-17,2026-09-21,2026-09-21,Success
+A-113584,hqw-file176.corp.norvik.local,10.10.1.186,Windows Server 2022,network,2025-01-21,2026-09-17,2026-09-17,Success
+A-113605,hqw-sql177.corp.norvik.local,10.10.1.187,Windows Server 2016,network,2025-01-15,2026-09-19,2026-09-19,Success
+A-113627,hqw-sql178.corp.norvik.local,10.10.1.188,Windows Server 2022,network,2025-01-12,2026-09-20,2026-09-20,Success
+A-113640,hqw-erp179.corp.norvik.local,10.10.1.189,Windows Server 2019,network,2025-01-09,2026-09-21,2026-09-21,Success
+A-113646,hqw-iis180.corp.norvik.local,10.10.1.190,Windows Server 2019,network,2025-01-16,2026-09-21,2026-09-21,Success
+A-113662,hqw-wms001.corp.norvik.local,10.10.5.11,Windows Server 2012 R2,network,2025-01-12,2026-09-15,2026-09-15,Success
+A-113682,hqw-wms002.corp.norvik.local,10.10.5.12,Windows Server 2012 R2,network,2025-01-19,2026-09-15,2026-09-15,Success
+A-113714,hqw-wms003.corp.norvik.local,10.10.5.13,Windows Server 2012 R2,network,2025-01-10,2026-09-15,2026-09-15,Success
+A-113718,hqw-wms004.corp.norvik.local,10.10.5.14,Windows Server 2012 R2,network,2025-01-24,2026-09-15,2026-09-15,Success
+A-113733,hqw-wms005.corp.norvik.local,10.10.5.15,Windows Server 2012 R2,network,2025-01-16,2026-09-17,2026-09-17,Success
+A-113736,hqw-wms006.corp.norvik.local,10.10.5.16,Windows Server 2012 R2,network,2025-01-09,2026-09-16,2026-09-16,Success
+A-113773,hqw-wms007.corp.norvik.local,10.10.5.17,Windows Server 2012 R2,network,2025-01-24,2026-09-16,2026-09-16,Success
+A-113781,hqw-wms008.corp.norvik.local,10.10.5.18,Windows Server 2012 R2,network,2025-01-12,2026-09-17,2026-09-17,Success
+A-113813,hqw-wms009.corp.norvik.local,10.10.5.19,Windows Server 2012 R2,network,2025-01-16,2026-09-17,2026-09-17,Success
+A-113821,hqw-wms010.corp.norvik.local,10.10.5.20,Windows Server 2012 R2,network,2025-01-25,2026-09-17,2026-09-17,Success
+A-113834,hqw-wms011.corp.norvik.local,10.10.5.21,Windows Server 2012 R2,network,2025-01-12,2026-09-18,2026-09-18,Success
+A-113858,hqw-wms012.corp.norvik.local,10.10.5.22,Windows Server 2012 R2,network,2025-01-18,2026-09-19,2026-09-19,Success
+A-113863,hql-app001,10.10.8.11,Red Hat Enterprise Linux 8,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-113902,hql-app002,10.10.8.12,Red Hat Enterprise Linux 9,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-113941,hql-app003,10.10.8.13,Red Hat Enterprise Linux 9,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-113947,hql-app004,10.10.8.14,Red Hat Enterprise Linux 8,agent,2025-01-09,2026-09-19,,n/a (agent)
+A-113983,hql-app005,10.10.8.15,Red Hat Enterprise Linux 9,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-114006,hql-app006,10.10.8.16,Red Hat Enterprise Linux 8,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-114025,hql-app007,10.10.8.17,Red Hat Enterprise Linux 8,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-114026,hql-app008,10.10.8.18,Red Hat Enterprise Linux 9,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-114063,hql-app009,10.10.8.19,Red Hat Enterprise Linux 8,agent,2025-01-09,2026-09-19,,n/a (agent)
+A-114070,hql-app010,10.10.8.20,Red Hat Enterprise Linux 8,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-114080,hql-app011,10.10.8.21,Red Hat Enterprise Linux 9,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-114088,hql-app012,10.10.8.22,Red Hat Enterprise Linux 8,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-114112,hql-app013,10.10.8.23,Red Hat Enterprise Linux 8,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-114117,hql-app014,10.10.8.24,Red Hat Enterprise Linux 9,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-114138,hql-app015,10.10.8.25,Red Hat Enterprise Linux 8,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-114149,hql-app016,10.10.8.26,Red Hat Enterprise Linux 8,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-114175,hql-app017,10.10.8.27,Red Hat Enterprise Linux 8,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-114213,hql-app018,10.10.8.28,Red Hat Enterprise Linux 9,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-114242,hql-app019,10.10.8.29,Red Hat Enterprise Linux 9,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-114249,hql-app020,10.10.8.30,Red Hat Enterprise Linux 9,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-114256,hql-app021,10.10.8.31,Red Hat Enterprise Linux 8,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-114278,hql-app022,10.10.8.32,Red Hat Enterprise Linux 8,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-114296,hql-app023,10.10.8.33,Red Hat Enterprise Linux 9,agent,2025-01-24,2026-09-20,,n/a (agent)
+A-114332,hql-app024,10.10.8.34,Red Hat Enterprise Linux 8,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-114370,hql-app025,10.10.8.35,Red Hat Enterprise Linux 8,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-114401,hql-app026,10.10.8.36,Red Hat Enterprise Linux 9,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-114422,hql-app027,10.10.8.37,Red Hat Enterprise Linux 9,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-114428,hql-app028,10.10.8.38,Red Hat Enterprise Linux 9,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-114430,hql-app029,10.10.8.39,Red Hat Enterprise Linux 9,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-114458,hql-app030,10.10.8.40,Red Hat Enterprise Linux 9,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-114475,hql-app031,10.10.8.41,Red Hat Enterprise Linux 9,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-114496,hql-app032,10.10.8.42,Red Hat Enterprise Linux 8,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-114523,hql-app033,10.10.8.43,Red Hat Enterprise Linux 9,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-114548,hql-app034,10.10.8.44,Red Hat Enterprise Linux 8,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-114556,hql-app035,10.10.8.45,Red Hat Enterprise Linux 8,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-114595,hql-app036,10.10.8.46,Red Hat Enterprise Linux 9,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-114615,hql-app037,10.10.8.47,Red Hat Enterprise Linux 9,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-114619,hql-app038,10.10.8.48,Red Hat Enterprise Linux 9,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-114623,hql-app039,10.10.8.49,Red Hat Enterprise Linux 9,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-114647,hql-app040,10.10.8.50,Red Hat Enterprise Linux 8,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-114677,hql-app041,10.10.8.51,Red Hat Enterprise Linux 9,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-114704,hql-app042,10.10.8.52,Red Hat Enterprise Linux 8,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-114724,hql-app043,10.10.8.53,Red Hat Enterprise Linux 8,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-114734,hql-app044,10.10.8.54,Red Hat Enterprise Linux 8,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-114753,hql-app045,10.10.8.55,Red Hat Enterprise Linux 9,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-114772,hql-app046,10.10.8.56,Red Hat Enterprise Linux 9,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-114796,hql-app047,10.10.8.57,Red Hat Enterprise Linux 9,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-114799,hql-app048,10.10.8.58,Red Hat Enterprise Linux 8,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-114816,hql-app049,10.10.8.59,Red Hat Enterprise Linux 8,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-114847,hql-app050,10.10.8.60,Red Hat Enterprise Linux 9,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-114882,hql-app051,10.10.8.61,Red Hat Enterprise Linux 9,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-114896,hql-app052,10.10.8.62,Red Hat Enterprise Linux 9,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-114919,hql-app053,10.10.8.63,Red Hat Enterprise Linux 9,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-114951,hql-app054,10.10.8.64,Red Hat Enterprise Linux 9,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-114961,hql-app055,10.10.8.65,Red Hat Enterprise Linux 9,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-114975,hql-app056,10.10.8.66,Red Hat Enterprise Linux 9,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-114986,hql-app057,10.10.8.67,Red Hat Enterprise Linux 9,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-115019,hql-app058,10.10.8.68,Red Hat Enterprise Linux 9,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-115020,hql-app059,10.10.8.69,Red Hat Enterprise Linux 9,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-115039,hql-app060,10.10.8.70,Red Hat Enterprise Linux 9,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-115041,dmz-web01,185.51.212.21,Red Hat Enterprise Linux 9,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-115074,dmz-web01.norvik.dk,185.51.212.21,Red Hat Enterprise Linux 9,network,2025-01-06,2026-09-16,,Not configured
+A-115101,dmz-web02,185.51.212.22,Red Hat Enterprise Linux 9,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-115104,dmz-web02.norvik.dk,185.51.212.22,Red Hat Enterprise Linux 9,network,2025-01-22,2026-09-19,,Not configured
+A-115115,dmz-web03,185.51.212.23,Red Hat Enterprise Linux 9,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-115116,dmz-web03.norvik.dk,185.51.212.23,Red Hat Enterprise Linux 9,network,2025-01-06,2026-09-18,,Not configured
+A-115154,dmz-web04,185.51.212.24,Red Hat Enterprise Linux 9,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-115155,dmz-web04.norvik.dk,185.51.212.24,Red Hat Enterprise Linux 9,network,2025-01-17,2026-09-21,,Not configured
+A-115187,dmz-web05,185.51.212.25,Red Hat Enterprise Linux 9,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-115207,dmz-web05.norvik.dk,185.51.212.25,Red Hat Enterprise Linux 9,network,2025-01-24,2026-09-19,,Not configured
+A-115230,dmz-web06,185.51.212.26,Red Hat Enterprise Linux 9,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-115262,dmz-web06.norvik.dk,185.51.212.26,Red Hat Enterprise Linux 9,network,2025-01-17,2026-09-16,,Not configured
+A-115267,az-ubu001,10.40.0.11,Ubuntu 24.04 LTS,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-115290,az-ubu002,10.40.0.12,Ubuntu 24.04 LTS,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-115319,az-ubu003,10.40.0.13,Ubuntu 24.04 LTS,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-115349,az-ubu004,10.40.0.14,Ubuntu 24.04 LTS,agent,2025-01-24,2026-09-20,,n/a (agent)
+A-115370,az-ubu005,10.40.0.15,Ubuntu 24.04 LTS,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-115378,az-ubu006,10.40.0.16,Ubuntu 24.04 LTS,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-115404,az-ubu007,10.40.0.17,Ubuntu 24.04 LTS,agent,2025-01-09,2026-09-19,,n/a (agent)
+A-115439,az-ubu008,10.40.0.18,Ubuntu 22.04 LTS,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-115477,az-ubu009,10.40.0.19,Ubuntu 24.04 LTS,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-115496,az-ubu010,10.40.0.20,Ubuntu 24.04 LTS,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-115533,az-ubu011,10.40.0.21,Ubuntu 24.04 LTS,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-115563,az-ubu012,10.40.0.22,Ubuntu 24.04 LTS,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-115594,az-ubu013,10.40.0.23,Ubuntu 24.04 LTS,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-115611,az-ubu014,10.40.0.24,Ubuntu 24.04 LTS,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-115627,az-ubu015,10.40.0.25,Ubuntu 22.04 LTS,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-115651,az-ubu016,10.40.0.26,Ubuntu 24.04 LTS,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-115680,az-ubu017,10.40.0.27,Ubuntu 22.04 LTS,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-115682,az-ubu018,10.40.0.28,Ubuntu 22.04 LTS,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-115694,az-ubu019,10.40.0.29,Ubuntu 24.04 LTS,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-115727,az-ubu020,10.40.0.30,Ubuntu 22.04 LTS,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-115748,az-ubu021,10.40.0.31,Ubuntu 24.04 LTS,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-115771,az-ubu022,10.40.0.32,Ubuntu 22.04 LTS,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-115782,az-ubu023,10.40.0.33,Ubuntu 24.04 LTS,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-115797,az-ubu024,10.40.0.34,Ubuntu 24.04 LTS,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-115815,az-ubu025,10.40.0.35,Ubuntu 24.04 LTS,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-115846,az-ubu026,10.40.0.36,Ubuntu 24.04 LTS,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-115866,az-ubu027,10.40.0.37,Ubuntu 24.04 LTS,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-115885,az-ubu028,10.40.0.38,Ubuntu 22.04 LTS,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-115904,az-ubu029,10.40.0.39,Ubuntu 24.04 LTS,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-115911,az-ubu030,10.40.0.40,Ubuntu 22.04 LTS,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-115939,az-ubu031,10.40.0.41,Ubuntu 22.04 LTS,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-115950,az-ubu032,10.40.0.42,Ubuntu 24.04 LTS,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-115987,az-ubu033,10.40.0.43,Ubuntu 24.04 LTS,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-116007,az-ubu034,10.40.0.44,Ubuntu 22.04 LTS,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-116028,az-ubu035,10.40.0.45,Ubuntu 22.04 LTS,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-116052,az-ubu036,10.40.0.46,Ubuntu 24.04 LTS,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-116075,az-ubu037,10.40.0.47,Ubuntu 22.04 LTS,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-116077,az-ubu038,10.40.0.48,Ubuntu 22.04 LTS,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-116109,az-ubu039,10.40.0.49,Ubuntu 24.04 LTS,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-116132,az-ubu040,10.40.0.50,Ubuntu 24.04 LTS,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-116147,az-ubu041,10.40.0.51,Ubuntu 22.04 LTS,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-116159,az-ubu042,10.40.0.52,Ubuntu 22.04 LTS,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-116165,az-ubu043,10.40.0.53,Ubuntu 22.04 LTS,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-116170,az-ubu044,10.40.0.54,Ubuntu 24.04 LTS,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-116190,az-ubu045,10.40.0.55,Ubuntu 24.04 LTS,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-116191,az-ubu046,10.40.0.56,Ubuntu 22.04 LTS,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-116215,az-ubu047,10.40.0.57,Ubuntu 22.04 LTS,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-116236,az-ubu048,10.40.0.58,Ubuntu 24.04 LTS,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-116263,az-ubu049,10.40.0.59,Ubuntu 22.04 LTS,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-116296,az-ubu050,10.40.0.60,Ubuntu 24.04 LTS,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-116310,az-ubu051,10.40.0.61,Ubuntu 24.04 LTS,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-116317,az-ubu052,10.40.0.62,Ubuntu 22.04 LTS,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-116332,az-ubu053,10.40.0.63,Ubuntu 24.04 LTS,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-116342,az-ubu054,10.40.0.64,Ubuntu 24.04 LTS,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-116343,az-ubu055,10.40.0.65,Ubuntu 22.04 LTS,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-116363,az-ubu056,10.40.0.66,Ubuntu 24.04 LTS,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-116399,az-ubu057,10.40.0.67,Ubuntu 22.04 LTS,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-116437,az-ubu058,10.40.0.68,Ubuntu 22.04 LTS,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-116471,az-ubu059,10.40.0.69,Ubuntu 22.04 LTS,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-116505,az-ubu060,10.40.0.70,Ubuntu 24.04 LTS,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-116512,az-ubu061,10.40.0.71,Ubuntu 24.04 LTS,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-116533,az-ubu062,10.40.0.72,Ubuntu 22.04 LTS,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-116542,az-ubu063,10.40.0.73,Ubuntu 24.04 LTS,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-116553,az-ubu064,10.40.0.74,Ubuntu 24.04 LTS,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-116554,az-ubu065,10.40.0.75,Ubuntu 22.04 LTS,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-116585,az-ubu066,10.40.0.76,Ubuntu 22.04 LTS,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-116616,az-ubu067,10.40.0.77,Ubuntu 22.04 LTS,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-116622,az-ubu068,10.40.0.78,Ubuntu 24.04 LTS,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-116656,az-ubu069,10.40.0.79,Ubuntu 22.04 LTS,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-116669,az-ubu070,10.40.0.80,Ubuntu 22.04 LTS,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-116703,az-ubu071,10.40.0.81,Ubuntu 24.04 LTS,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-116708,az-ubu072,10.40.0.82,Ubuntu 24.04 LTS,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-116742,az-ubu073,10.40.0.83,Ubuntu 22.04 LTS,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-116752,az-ubu074,10.40.0.84,Ubuntu 22.04 LTS,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-116790,az-ubu075,10.40.0.85,Ubuntu 24.04 LTS,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-116819,az-ubu076,10.40.0.86,Ubuntu 24.04 LTS,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-116857,az-ubu077,10.40.0.87,Ubuntu 22.04 LTS,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-116879,az-ubu078,10.40.0.88,Ubuntu 24.04 LTS,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-116903,az-ubu079,10.40.0.89,Ubuntu 24.04 LTS,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-116923,az-ubu080,10.40.0.90,Ubuntu 24.04 LTS,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-116940,az-ubu081,10.40.0.91,Ubuntu 22.04 LTS,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-116955,az-ubu082,10.40.0.92,Ubuntu 24.04 LTS,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-116972,az-ubu083,10.40.0.93,Ubuntu 24.04 LTS,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-116986,az-ubu084,10.40.0.94,Ubuntu 24.04 LTS,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-116995,az-ubu085,10.40.0.95,Ubuntu 24.04 LTS,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-117007,az-ubu086,10.40.0.96,Ubuntu 22.04 LTS,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-117017,az-ubu087,10.40.0.97,Ubuntu 22.04 LTS,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-117027,az-ubu088,10.40.0.98,Ubuntu 22.04 LTS,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-117048,az-ubu089,10.40.0.99,Ubuntu 22.04 LTS,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-117076,az-ubu090,10.40.0.100,Ubuntu 24.04 LTS,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-117077,az-ubu091,10.40.0.101,Ubuntu 24.04 LTS,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-117084,az-ubu092,10.40.0.102,Ubuntu 22.04 LTS,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-117093,az-ubu093,10.40.0.103,Ubuntu 24.04 LTS,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-117116,az-ubu094,10.40.0.104,Ubuntu 22.04 LTS,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-117149,az-ubu095,10.40.0.105,Ubuntu 24.04 LTS,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-117183,az-ubu096,10.40.0.106,Ubuntu 22.04 LTS,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-117219,az-ubu097,10.40.0.107,Ubuntu 24.04 LTS,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-117222,az-ubu098,10.40.0.108,Ubuntu 22.04 LTS,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-117259,az-ubu099,10.40.0.109,Ubuntu 24.04 LTS,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-117286,az-ubu100,10.40.0.110,Ubuntu 24.04 LTS,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-117303,az-ubu101,10.40.0.111,Ubuntu 24.04 LTS,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-117338,az-ubu102,10.40.0.112,Ubuntu 24.04 LTS,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-117376,az-ubu103,10.40.0.113,Ubuntu 24.04 LTS,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-117385,az-ubu104,10.40.0.114,Ubuntu 24.04 LTS,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-117394,az-ubu105,10.40.0.115,Ubuntu 22.04 LTS,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-117410,az-ubu106,10.40.0.116,Ubuntu 22.04 LTS,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-117436,az-ubu107,10.40.0.117,Ubuntu 22.04 LTS,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-117464,az-ubu108,10.40.0.118,Ubuntu 24.04 LTS,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-117499,az-ubu109,10.40.0.119,Ubuntu 24.04 LTS,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-117537,az-ubu110,10.40.0.120,Ubuntu 22.04 LTS,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-117564,az-win001,10.41.0.11,Windows Server 2022,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-117576,az-win002,10.41.0.12,Windows Server 2022,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-117594,az-win003,10.41.0.13,Windows Server 2022,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-117631,az-win004,10.41.0.14,Windows Server 2022,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-117636,az-win005,10.41.0.15,Windows Server 2022,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-117649,az-win006,10.41.0.16,Windows Server 2022,agent,2025-01-16,2026-09-19,,n/a (agent)
+A-117660,az-win007,10.41.0.17,Windows Server 2022,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-117671,az-win008,10.41.0.18,Windows Server 2022,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-117685,az-win009,10.41.0.19,Windows Server 2022,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-117694,az-win010,10.41.0.20,Windows Server 2022,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-117713,az-win011,10.41.0.21,Windows Server 2022,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-117752,az-win012,10.41.0.22,Windows Server 2022,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-117765,az-win013,10.41.0.23,Windows Server 2022,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-117797,az-win014,10.41.0.24,Windows Server 2022,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-117814,az-win015,10.41.0.25,Windows Server 2022,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-117819,az-win016,10.41.0.26,Windows Server 2022,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-117846,az-win017,10.41.0.27,Windows Server 2022,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-117850,az-win018,10.41.0.28,Windows Server 2022,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-117882,az-win019,10.41.0.29,Windows Server 2022,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-117893,az-win020,10.41.0.30,Windows Server 2022,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-117895,az-win021,10.41.0.31,Windows Server 2022,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-117901,az-win022,10.41.0.32,Windows Server 2022,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-117905,az-win023,10.41.0.33,Windows Server 2022,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-117907,az-win024,10.41.0.34,Windows Server 2022,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-117946,az-win025,10.41.0.35,Windows Server 2022,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-117964,az-win026,10.41.0.36,Windows Server 2022,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-117983,az-win027,10.41.0.37,Windows Server 2022,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-118017,az-win028,10.41.0.38,Windows Server 2022,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-118033,az-win029,10.41.0.39,Windows Server 2022,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-118064,az-win030,10.41.0.40,Windows Server 2022,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-118078,az-win031,10.41.0.41,Windows Server 2022,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-118090,az-win032,10.41.0.42,Windows Server 2022,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-118097,az-win033,10.41.0.43,Windows Server 2022,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-118107,az-win034,10.41.0.44,Windows Server 2022,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-118130,az-win035,10.41.0.45,Windows Server 2022,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-118154,az-win036,10.41.0.46,Windows Server 2022,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-118172,az-win037,10.41.0.47,Windows Server 2022,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-118196,az-win038,10.41.0.48,Windows Server 2022,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-118228,az-win039,10.41.0.49,Windows Server 2022,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-118244,az-win040,10.41.0.50,Windows Server 2022,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-118251,hqesx01.corp.norvik.local,10.10.20.11,VMware ESXi 7.0,network,2025-01-13,2026-09-18,2026-09-18,Success
+A-118264,hqesx02.corp.norvik.local,10.10.20.12,VMware ESXi 7.0,network,2025-01-23,2026-09-16,2026-09-16,Success
+A-118280,hqesx03.corp.norvik.local,10.10.20.13,VMware ESXi 7.0,network,2025-01-17,2026-09-17,2026-09-17,Success
+A-118316,hqesx04.corp.norvik.local,10.10.20.14,VMware ESXi 7.0,network,2025-01-08,2026-09-21,2026-09-21,Success
+A-118321,hqesx05.corp.norvik.local,10.10.20.15,VMware ESXi 7.0,network,2025-01-16,2026-09-15,2026-09-15,Success
+A-118335,hqesx06.corp.norvik.local,10.10.20.16,VMware ESXi 7.0,network,2025-01-21,2026-09-20,2026-09-20,Success
+A-118360,hqesx07.corp.norvik.local,10.10.20.17,VMware ESXi 7.0,network,2025-01-11,2026-09-20,2026-09-20,Success
+A-118370,hqesx08.corp.norvik.local,10.10.20.18,VMware ESXi 7.0,network,2025-01-12,2026-09-16,2026-09-16,Success
+A-118405,hqesx09.corp.norvik.local,10.10.20.19,VMware ESXi 7.0,network,2025-01-16,2026-09-17,2026-09-17,Success
+A-118441,hqesx10.corp.norvik.local,10.10.20.20,VMware ESXi 7.0,network,2025-01-23,2026-09-19,2026-09-19,Success
+A-118456,hqesx11.corp.norvik.local,10.10.20.21,VMware ESXi 7.0,network,2025-01-13,2026-09-21,2026-09-21,Success
+A-118486,hqesx12.corp.norvik.local,10.10.20.22,VMware ESXi 7.0,network,2025-01-07,2026-09-17,2026-09-17,Success
+A-118516,hqesx13.corp.norvik.local,10.10.20.23,VMware ESXi 7.0,network,2025-01-10,2026-09-16,2026-09-16,Success
+A-118543,hqesx14.corp.norvik.local,10.10.20.24,VMware ESXi 7.0,network,2025-01-23,2026-09-16,2026-09-16,Success
+A-118551,hqesx15.corp.norvik.local,10.10.20.25,VMware ESXi 7.0,network,2025-01-24,2026-09-15,2026-09-15,Success
+A-118553,hqesx16.corp.norvik.local,10.10.20.26,VMware ESXi 7.0,network,2025-01-16,2026-09-15,2026-09-15,Success
+A-118567,hqesx17.corp.norvik.local,10.10.20.27,VMware ESXi 8.0,network,2025-01-18,2026-09-16,2026-09-16,Success
+A-118573,hqesx18.corp.norvik.local,10.10.20.28,VMware ESXi 8.0,network,2025-01-08,2026-09-21,2026-09-21,Success
+A-118585,hqesx19.corp.norvik.local,10.10.20.29,VMware ESXi 8.0,network,2025-01-17,2026-09-16,2026-09-16,Success
+A-118610,hqesx20.corp.norvik.local,10.10.20.30,VMware ESXi 8.0,network,2025-01-14,2026-09-20,2026-09-20,Success
+A-118633,hqesx21.corp.norvik.local,10.10.20.31,VMware ESXi 8.0,network,2025-01-06,2026-09-21,2026-09-21,Success
+A-118642,hqesx22.corp.norvik.local,10.10.20.32,VMware ESXi 8.0,network,2025-01-13,2026-09-17,2026-09-17,Success
+A-118643,hqesx23.corp.norvik.local,10.10.20.33,VMware ESXi 8.0,network,2025-01-25,2026-09-20,2026-09-20,Success
+A-118652,hqesx24.corp.norvik.local,10.10.20.34,VMware ESXi 8.0,network,2025-01-15,2026-09-20,2026-09-20,Success
+A-118670,hq-vcsa01.corp.norvik.local,10.10.20.3,VMware vCenter Server Appliance 8.0,network,2025-01-21,2026-09-15,2026-09-15,Success
+A-118701,hq-vcsa02.corp.norvik.local,10.10.20.4,VMware vCenter Server Appliance 8.0,network,2025-01-22,2026-09-18,2026-09-18,Success
+A-118716,hq-sw01.corp.norvik.local,10.10.250.11,Cisco IOS XE,network,2025-01-13,2026-09-15,2026-09-15,Success
+A-118728,hq-sw02.corp.norvik.local,10.10.250.12,Cisco IOS XE,network,2025-01-06,2026-09-20,2026-09-20,Success
+A-118750,hq-sw03.corp.norvik.local,10.10.250.13,Cisco IOS XE,network,2025-01-09,2026-09-17,2026-09-17,Success
+A-118753,hq-sw04.corp.norvik.local,10.10.250.14,Cisco IOS XE,network,2025-01-09,2026-09-19,2026-09-19,Success
+A-118762,hq-sw05.corp.norvik.local,10.10.250.15,Cisco IOS XE,network,2025-01-16,2026-09-21,2026-09-21,Success
+A-118764,hq-sw06.corp.norvik.local,10.10.250.16,Cisco IOS XE,network,2025-01-22,2026-09-15,2026-09-15,Success
+A-118785,hq-sw07.corp.norvik.local,10.10.250.17,Cisco IOS XE,network,2025-01-23,2026-09-17,2026-09-17,Success
+A-118803,hq-sw08.corp.norvik.local,10.10.250.18,Cisco IOS XE,network,2025-01-10,2026-09-17,2026-09-17,Success
+A-118826,hq-sw09.corp.norvik.local,10.10.250.19,Cisco IOS XE,network,2025-01-11,2026-09-16,2026-09-16,Success
+A-118851,hq-sw10.corp.norvik.local,10.10.250.20,Cisco IOS XE,network,2025-01-13,2026-09-16,2026-09-16,Success
+A-118867,hq-sw11.corp.norvik.local,10.10.250.21,Cisco IOS XE,network,2025-01-06,2026-09-20,2026-09-20,Success
+A-118901,hq-sw12.corp.norvik.local,10.10.250.22,Cisco IOS XE,network,2025-01-06,2026-09-21,2026-09-21,Success
+A-118937,hq-sw13.corp.norvik.local,10.10.250.23,Cisco IOS XE,network,2025-01-14,2026-09-16,2026-09-16,Success
+A-118942,hq-sw14.corp.norvik.local,10.10.250.24,Cisco IOS XE,network,2025-01-14,2026-09-19,2026-09-19,Success
+A-118978,hq-sw15.corp.norvik.local,10.10.250.25,Cisco IOS XE,network,2025-01-08,2026-09-20,2026-09-20,Success
+A-118986,hq-sw16.corp.norvik.local,10.10.250.26,Cisco IOS XE,network,2025-01-14,2026-09-17,2026-09-17,Success
+A-118996,hq-sw17.corp.norvik.local,10.10.250.27,Cisco IOS XE,network,2025-01-06,2026-09-21,2026-09-21,Success
+A-119017,hq-sw18.corp.norvik.local,10.10.250.28,Cisco IOS XE,network,2025-01-13,2026-09-20,2026-09-20,Success
+A-119019,hq-sw19.corp.norvik.local,10.10.250.29,Cisco IOS XE,network,2025-01-09,2026-09-17,2026-09-17,Success
+A-119034,hq-sw20.corp.norvik.local,10.10.250.30,Cisco IOS XE,network,2025-01-21,2026-09-16,2026-09-16,Success
+A-119042,hq-sw21.corp.norvik.local,10.10.250.31,Cisco IOS XE,network,2025-01-11,2026-09-20,2026-09-20,Success
+A-119061,hq-sw22.corp.norvik.local,10.10.250.32,Cisco IOS XE,network,2025-01-16,2026-09-16,2026-09-16,Success
+A-119093,hq-sw23.corp.norvik.local,10.10.250.33,Cisco IOS XE,network,2025-01-24,2026-09-16,2026-09-16,Success
+A-119130,hq-sw24.corp.norvik.local,10.10.250.34,Cisco IOS XE,network,2025-01-13,2026-09-16,2026-09-16,Success
+A-119139,hq-sw25.corp.norvik.local,10.10.250.35,Cisco IOS XE,network,2025-01-19,2026-09-18,2026-09-18,Success
+A-119161,hq-sw26.corp.norvik.local,10.10.250.36,Cisco IOS XE,network,2025-01-14,2026-09-16,2026-09-16,Success
+A-119180,hq-sw27.corp.norvik.local,10.10.250.37,Cisco IOS XE,network,2025-01-20,2026-09-15,2026-09-15,Success
+A-119197,hq-sw28.corp.norvik.local,10.10.250.38,Cisco IOS XE,network,2025-01-17,2026-09-17,2026-09-17,Success
+A-119222,hq-sw29.corp.norvik.local,10.10.250.39,Cisco IOS XE,network,2025-01-20,2026-09-16,2026-09-16,Success
+A-119261,hq-sw30.corp.norvik.local,10.10.250.40,Cisco IOS XE,network,2025-01-08,2026-09-19,2026-09-19,Success
+A-119277,hq-sw31.corp.norvik.local,10.10.250.41,Cisco IOS XE,network,2025-01-18,2026-09-21,2026-09-21,Success
+A-119280,hq-sw32.corp.norvik.local,10.10.250.42,Cisco IOS XE,network,2025-01-09,2026-09-15,2026-09-15,Success
+A-119316,hq-sw33.corp.norvik.local,10.10.250.43,Cisco IOS XE,network,2025-01-20,2026-09-17,2026-09-17,Success
+A-119353,hq-sw34.corp.norvik.local,10.10.250.44,Cisco IOS XE,network,2025-01-17,2026-09-15,2026-09-15,Success
+A-119366,hq-sw35.corp.norvik.local,10.10.250.45,Cisco IOS XE,network,2025-01-08,2026-09-18,2026-09-18,Success
+A-119386,hq-sw36.corp.norvik.local,10.10.250.46,Cisco IOS XE,network,2025-01-15,2026-09-19,2026-09-19,Success
+A-119420,hq-sw37.corp.norvik.local,10.10.250.47,Cisco IOS XE,network,2025-01-15,2026-09-18,2026-09-18,Success
+A-119440,hq-sw38.corp.norvik.local,10.10.250.48,Cisco IOS XE,network,2025-01-12,2026-09-16,2026-09-16,Success
+A-119459,hq-sw39.corp.norvik.local,10.10.250.49,Cisco IOS XE,network,2025-01-16,2026-09-19,2026-09-19,Success
+A-119495,hq-sw40.corp.norvik.local,10.10.250.50,Cisco IOS XE,network,2025-01-15,2026-09-16,2026-09-16,Success
+A-119528,hq-vpn01.corp.norvik.local,185.51.212.2,FortiOS,network,2025-01-23,2026-09-16,2026-09-16,Success
+A-119548,hq-vpn02.corp.norvik.local,185.51.212.3,FortiOS,network,2025-01-16,2026-09-19,2026-09-19,Success
+A-119577,nvk-lt-63560,10.60.0.0,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-119598,nvk-lt-63437,10.60.0.1,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-119621,nvk-lt-30268,10.60.0.2,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-119654,nvk-lt-53071,10.60.0.3,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-119667,nvk-lt-61788,10.60.0.4,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-119701,nvk-lt-94833,10.60.0.5,Windows 11 24H2,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-119732,nvk-lt-12081,10.60.0.6,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-119750,nvk-lt-33469,10.60.0.7,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-119777,nvk-lt-62545,10.60.0.8,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-119796,nvk-lt-53879,10.60.0.9,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-119811,nvk-lt-92514,10.60.0.10,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-119836,nvk-lt-93729,10.60.0.11,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-119843,nvk-lt-66662,10.60.0.12,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-119872,nvk-lt-48266,10.60.0.13,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-119880,nvk-lt-19133,10.60.0.14,Windows 11 24H2,agent,2025-01-09,2026-09-19,,n/a (agent)
+A-119918,nvk-lt-34689,10.60.0.15,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-119946,nvk-lt-98095,10.60.0.16,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-119954,nvk-lt-30065,10.60.0.17,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-119977,nvk-lt-73617,10.60.0.18,Windows 11 24H2,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-120014,nvk-lt-38275,10.60.0.19,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-120040,nvk-lt-55354,10.60.0.20,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-120044,nvk-lt-55387,10.60.0.21,Windows 11 24H2,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-120047,nvk-lt-42369,10.60.0.22,Windows 11 24H2,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-120050,nvk-lt-53624,10.60.0.23,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-120065,nvk-lt-25146,10.60.0.24,Windows 11 24H2,agent,2025-01-16,2026-09-19,,n/a (agent)
+A-120072,nvk-lt-67368,10.60.0.25,Windows 11 24H2,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-120078,nvk-lt-98753,10.60.0.26,Windows 11 24H2,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-120103,nvk-lt-73168,10.60.0.27,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-120125,nvk-lt-72916,10.60.0.28,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-120163,nvk-lt-44919,10.60.0.29,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-120194,nvk-lt-28351,10.60.0.30,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-120232,nvk-lt-38549,10.60.0.31,Windows 11 24H2,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-120258,nvk-lt-38549,10.60.0.31,Windows 11 24H2,agent,2025-01-12,2026-05-10,,n/a (agent)
+A-120271,nvk-lt-74508,10.60.0.32,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-120310,nvk-lt-20678,10.60.0.33,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-120340,nvk-lt-20678,10.60.0.33,Windows 11 24H2,agent,2025-01-09,2026-05-07,,n/a (agent)
+A-120343,nvk-lt-49467,10.60.0.34,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-120379,nvk-lt-34594,10.60.0.35,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-120403,nvk-lt-44692,10.60.0.36,Windows 11 24H2,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-120415,nvk-lt-11785,10.60.0.37,Windows 11 24H2,agent,2025-01-24,2026-03-28,,n/a (agent)
+A-120419,nvk-lt-49014,10.60.0.38,Windows 11 24H2,agent,2025-01-06,2026-03-25,,n/a (agent)
+A-120445,nvk-lt-29865,10.60.0.39,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-120473,nvk-lt-93921,10.60.0.40,Windows 11 24H2,agent,2025-01-18,2026-01-03,,n/a (agent)
+A-120494,nvk-lt-55229,10.60.0.41,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-120504,nvk-lt-99124,10.60.0.42,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-120527,nvk-lt-74096,10.60.0.43,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-120543,nvk-lt-20606,10.60.0.44,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-120563,nvk-lt-50710,10.60.0.45,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-120584,nvk-lt-24960,10.60.0.46,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-120605,nvk-lt-74234,10.60.0.47,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-120636,nvk-lt-60873,10.60.0.48,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-120642,nvk-lt-94729,10.60.0.49,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-120661,nvk-lt-39866,10.60.0.50,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-120698,nvk-lt-29801,10.60.0.51,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-120708,nvk-lt-85471,10.60.0.52,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-120711,nvk-lt-49063,10.60.0.53,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-120718,nvk-lt-68821,10.60.0.54,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-120756,nvk-lt-21076,10.60.0.55,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-120760,nvk-lt-64170,10.60.0.56,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-120793,nvk-lt-64170,10.60.0.56,Windows 11 24H2,agent,2025-01-08,2026-02-19,,n/a (agent)
+A-120814,nvk-lt-98421,10.60.0.57,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-120836,nvk-lt-26531,10.60.0.58,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-120847,nvk-lt-80455,10.60.0.59,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-120873,nvk-lt-15367,10.60.0.60,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-120908,nvk-lt-79331,10.60.0.61,Windows 11 24H2,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-120923,nvk-lt-83541,10.60.0.62,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-120955,nvk-lt-71165,10.60.0.63,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-120972,nvk-lt-74497,10.60.0.64,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-120985,nvk-lt-74497,10.60.0.64,Windows 11 24H2,agent,2025-01-08,2026-04-28,,n/a (agent)
+A-120991,nvk-lt-80594,10.60.0.65,Windows 11 24H2,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-121003,nvk-lt-21578,10.60.0.66,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-121013,nvk-lt-23572,10.60.0.67,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-121046,nvk-lt-59389,10.60.0.68,Windows 11 24H2,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-121083,nvk-lt-86951,10.60.0.69,Windows 11 24H2,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-121115,nvk-lt-36137,10.60.0.70,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-121135,nvk-lt-36137,10.60.0.70,Windows 11 24H2,agent,2025-01-07,2026-02-19,,n/a (agent)
+A-121161,nvk-lt-71975,10.60.0.71,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-121182,nvk-lt-55241,10.60.0.72,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-121217,nvk-lt-10541,10.60.0.73,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-121235,nvk-lt-67037,10.60.0.74,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-121271,nvk-lt-81013,10.60.0.75,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-121277,nvk-lt-91290,10.60.0.76,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-121299,nvk-lt-98656,10.60.0.77,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-121312,nvk-lt-27079,10.60.0.78,Windows 11 24H2,agent,2025-01-24,2026-09-20,,n/a (agent)
+A-121331,nvk-lt-55684,10.60.0.79,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-121338,nvk-lt-39713,10.60.0.80,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-121340,nvk-lt-32331,10.60.0.81,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-121357,nvk-lt-73413,10.60.0.82,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-121360,nvk-lt-92219,10.60.0.83,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-121381,nvk-lt-64963,10.60.0.84,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-121400,nvk-lt-64963,10.60.0.84,Windows 11 24H2,agent,2025-01-14,2026-03-22,,n/a (agent)
+A-121420,nvk-lt-38583,10.60.0.85,Windows 11 24H2,agent,2025-01-11,2025-12-15,,n/a (agent)
+A-121435,nvk-lt-79495,10.60.0.86,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-121446,nvk-lt-97072,10.60.0.87,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-121484,nvk-lt-36969,10.60.0.88,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-121496,nvk-lt-19253,10.60.0.89,Windows 11 24H2,agent,2025-01-16,2026-09-19,,n/a (agent)
+A-121533,nvk-lt-45322,10.60.0.90,Windows 11 24H2,agent,2025-01-14,2026-03-22,,n/a (agent)
+A-121562,nvk-lt-70813,10.60.0.91,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-121580,nvk-lt-63506,10.60.0.92,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-121596,nvk-lt-34065,10.60.0.93,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-121628,nvk-lt-40405,10.60.0.94,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-121652,nvk-lt-65090,10.60.0.95,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-121658,nvk-lt-38491,10.60.0.96,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-121672,nvk-lt-11374,10.60.0.97,Windows 11 24H2,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-121687,nvk-lt-96130,10.60.0.98,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-121694,nvk-lt-12794,10.60.0.99,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-121707,nvk-lt-15763,10.60.0.100,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-121724,nvk-lt-26113,10.60.0.101,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-121726,nvk-lt-73021,10.60.0.102,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-121759,nvk-lt-41829,10.60.0.103,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-121764,nvk-lt-40595,10.60.0.104,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-121789,nvk-lt-59718,10.60.0.105,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-121813,nvk-lt-99737,10.60.0.106,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-121844,nvk-lt-99737,10.60.0.106,Windows 11 24H2,agent,2025-01-13,2026-03-23,,n/a (agent)
+A-121855,nvk-lt-52323,10.60.0.107,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-121868,nvk-lt-46777,10.60.0.108,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-121900,nvk-lt-11503,10.60.0.109,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-121913,nvk-lt-83416,10.60.0.110,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-121946,nvk-lt-32557,10.60.0.111,Windows 11 24H2,agent,2025-01-16,2026-09-19,,n/a (agent)
+A-121980,nvk-lt-90476,10.60.0.112,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-122014,nvk-lt-28211,10.60.0.113,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-122053,nvk-lt-45661,10.60.0.114,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-122089,nvk-lt-14170,10.60.0.115,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-122103,nvk-lt-32086,10.60.0.116,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-122116,nvk-lt-56576,10.60.0.117,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-122127,nvk-lt-38907,10.60.0.118,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-122130,nvk-lt-33198,10.60.0.119,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-122151,nvk-lt-77800,10.60.0.120,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-122162,nvk-lt-20811,10.60.0.121,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-122175,nvk-lt-25754,10.60.0.122,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-122184,nvk-lt-14117,10.60.0.123,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-122188,nvk-lt-29583,10.60.0.124,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-122206,nvk-lt-59247,10.60.0.125,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-122230,nvk-lt-61448,10.60.0.126,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-122248,nvk-lt-65283,10.60.0.127,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-122258,nvk-lt-87010,10.60.0.128,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-122285,nvk-lt-10617,10.60.0.129,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-122292,nvk-lt-60765,10.60.0.130,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-122321,nvk-lt-94271,10.60.0.131,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-122332,nvk-lt-85704,10.60.0.132,Windows 11 24H2,agent,2025-01-24,2026-04-22,,n/a (agent)
+A-122349,nvk-lt-43015,10.60.0.133,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-122362,nvk-lt-31859,10.60.0.134,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-122396,nvk-lt-94882,10.60.0.135,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-122406,nvk-lt-47814,10.60.0.136,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-122408,nvk-lt-46522,10.60.0.137,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-122422,nvk-lt-80975,10.60.0.138,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-122424,nvk-lt-27804,10.60.0.139,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-122435,nvk-lt-27804,10.60.0.139,Windows 11 24H2,agent,2025-01-11,2026-03-10,,n/a (agent)
+A-122474,nvk-lt-30081,10.60.0.140,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-122512,nvk-lt-24422,10.60.0.141,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-122514,nvk-lt-12051,10.60.0.142,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-122521,nvk-lt-12051,10.60.0.142,Windows 11 24H2,agent,2025-01-18,2026-05-16,,n/a (agent)
+A-122536,nvk-lt-16927,10.60.0.143,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-122573,nvk-lt-16927,10.60.0.143,Windows 11 24H2,agent,2025-01-09,2026-04-10,,n/a (agent)
+A-122591,nvk-lt-77421,10.60.0.144,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-122592,nvk-lt-56392,10.60.0.145,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-122630,nvk-lt-96491,10.60.0.146,Windows 11 24H2,agent,2025-01-19,2026-05-10,,n/a (agent)
+A-122661,nvk-lt-23445,10.60.0.147,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-122675,nvk-lt-66146,10.60.0.148,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-122692,nvk-lt-83017,10.60.0.149,Windows 11 24H2,agent,2025-01-22,2026-02-01,,n/a (agent)
+A-122703,nvk-lt-70697,10.60.0.150,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-122742,nvk-lt-38223,10.60.0.151,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-122768,nvk-lt-42541,10.60.0.152,Windows 11 24H2,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-122792,nvk-lt-72238,10.60.0.153,Windows 11 24H2,agent,2025-01-07,2026-03-14,,n/a (agent)
+A-122801,nvk-lt-67525,10.60.0.154,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-122832,nvk-lt-40915,10.60.0.155,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-122870,nvk-lt-27020,10.60.0.156,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-122895,nvk-lt-45759,10.60.0.157,Windows 11 24H2,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-122915,nvk-lt-27032,10.60.0.158,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-122947,nvk-lt-41705,10.60.0.159,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-122982,nvk-lt-85293,10.60.0.160,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-123001,nvk-lt-88940,10.60.0.161,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-123040,nvk-lt-47021,10.60.0.162,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-123056,nvk-lt-37568,10.60.0.163,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-123089,nvk-lt-34712,10.60.0.164,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-123119,nvk-lt-86507,10.60.0.165,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-123153,nvk-lt-11576,10.60.0.166,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-123157,nvk-lt-37569,10.60.0.167,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-123178,nvk-lt-72786,10.60.0.168,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-123202,nvk-lt-94089,10.60.0.169,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-123238,nvk-lt-54022,10.60.0.170,Windows 11 24H2,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-123241,nvk-lt-23781,10.60.0.171,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-123263,nvk-lt-84960,10.60.0.172,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-123266,nvk-lt-57427,10.60.0.173,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-123294,nvk-lt-37100,10.60.0.174,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-123298,nvk-lt-88844,10.60.0.175,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-123336,nvk-lt-57751,10.60.0.176,Windows 11 24H2,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-123349,nvk-lt-73221,10.60.0.177,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-123369,nvk-lt-69850,10.60.0.178,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-123383,nvk-lt-29642,10.60.0.179,Windows 11 24H2,agent,2025-01-12,2025-12-11,,n/a (agent)
+A-123422,nvk-lt-59404,10.60.0.180,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-123431,nvk-lt-59404,10.60.0.180,Windows 11 24H2,agent,2025-01-18,2026-04-20,,n/a (agent)
+A-123448,nvk-lt-32491,10.60.0.181,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-123463,nvk-lt-68835,10.60.0.182,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-123467,nvk-lt-46554,10.60.0.183,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-123496,nvk-lt-37153,10.60.0.184,Windows 11 24H2,agent,2025-01-21,2026-04-26,,n/a (agent)
+A-123523,nvk-lt-53881,10.60.0.185,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-123553,nvk-lt-50565,10.60.0.186,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-123562,nvk-lt-50565,10.60.0.186,Windows 11 24H2,agent,2025-01-22,2026-02-28,,n/a (agent)
+A-123590,nvk-lt-42025,10.60.0.187,Windows 11 24H2,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-123618,nvk-lt-16351,10.60.0.188,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-123620,nvk-lt-57981,10.60.0.189,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-123646,nvk-lt-71797,10.60.0.190,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-123684,nvk-lt-25115,10.60.0.191,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-123707,nvk-lt-63452,10.60.0.192,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-123743,nvk-lt-35504,10.60.0.193,Windows 11 24H2,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-123771,nvk-lt-19685,10.60.0.194,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-123802,nvk-lt-31226,10.60.0.195,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-123825,nvk-lt-47446,10.60.0.196,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-123859,nvk-lt-35122,10.60.0.197,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-123867,nvk-lt-41896,10.60.0.198,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-123897,nvk-lt-92297,10.60.0.199,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-123933,nvk-lt-40489,10.60.0.200,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-123938,nvk-lt-34392,10.60.0.201,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-123941,nvk-lt-70751,10.60.0.202,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-123973,nvk-lt-28045,10.60.0.203,Windows 11 24H2,agent,2025-01-24,2026-09-20,,n/a (agent)
+A-123987,nvk-lt-45487,10.60.0.204,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-124019,nvk-lt-17592,10.60.0.205,Windows 11 24H2,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-124030,nvk-lt-17592,10.60.0.205,Windows 11 24H2,agent,2025-01-23,2026-05-08,,n/a (agent)
+A-124037,nvk-lt-63088,10.60.0.206,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-124052,nvk-lt-15059,10.60.0.207,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-124086,nvk-lt-42612,10.60.0.208,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-124087,nvk-lt-54870,10.60.0.209,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-124119,nvk-lt-85697,10.60.0.210,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-124128,nvk-lt-64353,10.60.0.211,Windows 11 24H2,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-124156,nvk-lt-52018,10.60.0.212,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-124179,nvk-lt-59868,10.60.0.213,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-124218,nvk-lt-85263,10.60.0.214,Windows 11 24H2,agent,2025-01-17,2026-05-04,,n/a (agent)
+A-124241,nvk-lt-60213,10.60.0.215,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-124264,nvk-lt-96884,10.60.0.216,Windows 11 24H2,agent,2025-01-14,2025-12-20,,n/a (agent)
+A-124298,nvk-lt-27962,10.60.0.217,Windows 11 24H2,agent,2025-01-09,2026-09-19,,n/a (agent)
+A-124309,nvk-lt-93794,10.60.0.218,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-124337,nvk-lt-61256,10.60.0.219,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-124370,nvk-lt-83065,10.60.0.220,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-124393,nvk-lt-76197,10.60.0.221,Windows 11 24H2,agent,2025-01-09,2026-09-19,,n/a (agent)
+A-124413,nvk-lt-46004,10.60.0.222,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-124418,nvk-lt-73929,10.60.0.223,Windows 11 24H2,agent,2025-01-20,2026-02-11,,n/a (agent)
+A-124427,nvk-lt-22221,10.60.0.224,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-124430,nvk-lt-56261,10.60.0.225,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-124461,nvk-lt-31290,10.60.0.226,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-124489,nvk-lt-99404,10.60.0.227,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-124511,nvk-lt-73549,10.60.0.228,Windows 11 24H2,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-124543,nvk-lt-23406,10.60.0.229,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-124574,nvk-lt-64535,10.60.0.230,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-124613,nvk-lt-34624,10.60.0.231,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-124615,nvk-lt-52695,10.60.0.232,Windows 11 24H2,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-124634,nvk-lt-65425,10.60.0.233,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-124648,nvk-lt-52514,10.60.0.234,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-124650,nvk-lt-62913,10.60.0.235,Windows 11 24H2,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-124683,nvk-lt-62232,10.60.0.236,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-124711,nvk-lt-13743,10.60.0.237,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-124718,nvk-lt-13743,10.60.0.237,Windows 11 24H2,agent,2025-01-19,2026-05-06,,n/a (agent)
+A-124724,nvk-lt-70279,10.60.0.238,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-124749,nvk-lt-20317,10.60.0.239,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-124765,nvk-lt-20317,10.60.0.239,Windows 11 24H2,agent,2025-01-16,2026-05-30,,n/a (agent)
+A-124797,nvk-lt-25761,10.60.0.240,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-124828,nvk-lt-25761,10.60.0.240,Windows 11 24H2,agent,2025-01-18,2026-05-14,,n/a (agent)
+A-124861,nvk-lt-38444,10.60.0.241,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-124895,nvk-lt-42358,10.60.0.242,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-124899,nvk-lt-20999,10.60.0.243,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-124934,nvk-lt-29415,10.60.0.244,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-124935,nvk-lt-92580,10.60.0.245,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-124949,nvk-lt-40754,10.60.0.246,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-124978,nvk-lt-35514,10.60.0.247,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-125009,nvk-lt-29783,10.60.0.248,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-125012,nvk-lt-59300,10.60.0.249,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-125016,nvk-lt-94328,10.60.1.0,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-125021,nvk-lt-94328,10.60.1.0,Windows 11 24H2,agent,2025-01-11,2026-04-10,,n/a (agent)
+A-125052,nvk-lt-52825,10.60.1.1,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-125089,nvk-lt-65229,10.60.1.2,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-125110,nvk-lt-21594,10.60.1.3,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-125125,nvk-lt-84276,10.60.1.4,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-125158,nvk-lt-17109,10.60.1.5,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-125195,nvk-lt-86115,10.60.1.6,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-125228,nvk-lt-50540,10.60.1.7,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-125258,nvk-lt-81587,10.60.1.8,Windows 11 24H2,agent,2025-01-24,2026-03-22,,n/a (agent)
+A-125284,nvk-lt-56116,10.60.1.9,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-125291,nvk-lt-96388,10.60.1.10,Windows 11 24H2,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-125314,nvk-lt-92476,10.60.1.11,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-125316,nvk-lt-57147,10.60.1.12,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-125335,nvk-lt-24098,10.60.1.13,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-125353,nvk-lt-24821,10.60.1.14,Windows 11 24H2,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-125392,nvk-lt-54681,10.60.1.15,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-125407,nvk-lt-56015,10.60.1.16,Windows 11 24H2,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-125445,nvk-lt-63961,10.60.1.17,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-125467,nvk-lt-30637,10.60.1.18,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-125469,nvk-lt-30637,10.60.1.18,Windows 11 24H2,agent,2025-01-08,2026-03-18,,n/a (agent)
+A-125497,nvk-lt-44709,10.60.1.19,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-125502,nvk-lt-50796,10.60.1.20,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-125538,nvk-lt-68786,10.60.1.21,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-125550,nvk-lt-99525,10.60.1.22,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-125585,nvk-lt-38415,10.60.1.23,Windows 11 24H2,agent,2025-01-09,2026-09-19,,n/a (agent)
+A-125621,nvk-lt-46963,10.60.1.24,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-125642,nvk-lt-98803,10.60.1.25,Windows 11 24H2,agent,2025-01-06,2026-04-26,,n/a (agent)
+A-125678,nvk-lt-44250,10.60.1.26,Windows 11 24H2,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-125703,nvk-lt-84685,10.60.1.27,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-125739,nvk-lt-31977,10.60.1.28,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-125766,nvk-lt-87305,10.60.1.29,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-125797,nvk-lt-66062,10.60.1.30,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-125810,nvk-lt-44648,10.60.1.31,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-125843,nvk-lt-36463,10.60.1.32,Windows 11 24H2,agent,2025-01-14,2026-03-25,,n/a (agent)
+A-125874,nvk-lt-68431,10.60.1.33,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-125912,nvk-lt-69514,10.60.1.34,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-125929,nvk-lt-65731,10.60.1.35,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-125950,nvk-lt-77536,10.60.1.36,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-125969,nvk-lt-47899,10.60.1.37,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-125984,nvk-lt-66451,10.60.1.38,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-126006,nvk-lt-55490,10.60.1.39,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-126024,nvk-lt-43581,10.60.1.40,Windows 11 24H2,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-126051,nvk-lt-58056,10.60.1.41,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-126084,nvk-lt-16102,10.60.1.42,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-126113,nvk-lt-99680,10.60.1.43,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-126130,nvk-lt-20527,10.60.1.44,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-126145,nvk-lt-75214,10.60.1.45,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-126182,nvk-lt-75214,10.60.1.45,Windows 11 24H2,agent,2025-01-20,2026-03-07,,n/a (agent)
+A-126204,nvk-lt-69453,10.60.1.46,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-126233,nvk-lt-84010,10.60.1.47,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-126265,nvk-lt-11422,10.60.1.48,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-126276,nvk-lt-28352,10.60.1.49,Windows 11 24H2,agent,2025-01-24,2026-09-20,,n/a (agent)
+A-126281,nvk-lt-66542,10.60.1.50,Windows 11 24H2,agent,2025-01-16,2026-04-10,,n/a (agent)
+A-126296,nvk-lt-42458,10.60.1.51,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-126313,nvk-lt-86735,10.60.1.52,Windows 11 24H2,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-126333,nvk-lt-67908,10.60.1.53,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-126368,nvk-lt-48647,10.60.1.54,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-126403,nvk-lt-43450,10.60.1.55,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-126430,nvk-lt-64078,10.60.1.56,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-126458,nvk-lt-11343,10.60.1.57,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-126476,nvk-lt-19610,10.60.1.58,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-126482,nvk-lt-83671,10.60.1.59,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-126510,nvk-lt-34504,10.60.1.60,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-126513,nvk-lt-82849,10.60.1.61,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-126525,nvk-lt-25981,10.60.1.62,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-126535,nvk-lt-31792,10.60.1.63,Windows 11 24H2,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-126568,nvk-lt-48052,10.60.1.64,Windows 11 24H2,agent,2025-01-09,2026-05-16,,n/a (agent)
+A-126572,nvk-lt-73358,10.60.1.65,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-126583,nvk-lt-86926,10.60.1.66,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-126611,nvk-lt-50185,10.60.1.67,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-126627,nvk-lt-34334,10.60.1.68,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-126653,nvk-lt-50580,10.60.1.69,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-126666,nvk-lt-57289,10.60.1.70,Windows 11 24H2,agent,2025-01-16,2026-04-04,,n/a (agent)
+A-126683,nvk-lt-76908,10.60.1.71,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-126694,nvk-lt-92906,10.60.1.72,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-126719,nvk-lt-84321,10.60.1.73,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-126737,nvk-lt-47132,10.60.1.74,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-126773,nvk-lt-16699,10.60.1.75,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-126793,nvk-lt-17762,10.60.1.76,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-126800,nvk-lt-21429,10.60.1.77,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-126816,nvk-lt-36128,10.60.1.78,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-126834,nvk-lt-35841,10.60.1.79,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-126855,nvk-lt-75243,10.60.1.80,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-126858,nvk-lt-31132,10.60.1.81,Windows 11 24H2,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-126864,nvk-lt-52244,10.60.1.82,Windows 11 24H2,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-126887,nvk-lt-86952,10.60.1.83,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-126905,nvk-lt-88959,10.60.1.84,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-126915,nvk-lt-28403,10.60.1.85,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-126924,nvk-lt-35442,10.60.1.86,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-126947,nvk-lt-35442,10.60.1.86,Windows 11 24H2,agent,2025-01-12,2026-05-20,,n/a (agent)
+A-126959,nvk-lt-87456,10.60.1.87,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-126981,nvk-lt-97651,10.60.1.88,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-127006,nvk-lt-69243,10.60.1.89,Windows 11 24H2,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-127036,nvk-lt-70916,10.60.1.90,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-127057,nvk-lt-43231,10.60.1.91,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-127096,nvk-lt-65177,10.60.1.92,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-127131,nvk-lt-88307,10.60.1.93,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-127170,nvk-lt-49253,10.60.1.94,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-127178,nvk-lt-99495,10.60.1.95,Windows 11 24H2,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-127202,nvk-lt-31978,10.60.1.96,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-127237,nvk-lt-49593,10.60.1.97,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-127245,nvk-lt-41271,10.60.1.98,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-127258,nvk-lt-25157,10.60.1.99,Windows 11 24H2,agent,2025-01-08,2026-01-20,,n/a (agent)
+A-127271,nvk-lt-54757,10.60.1.100,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-127280,nvk-lt-39028,10.60.1.101,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-127305,nvk-lt-98032,10.60.1.102,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-127312,nvk-lt-31889,10.60.1.103,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-127328,nvk-lt-31684,10.60.1.104,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-127333,nvk-lt-72020,10.60.1.105,Windows 11 24H2,agent,2025-01-16,2026-02-11,,n/a (agent)
+A-127370,nvk-lt-45539,10.60.1.106,Windows 11 24H2,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-127407,nvk-lt-45539,10.60.1.106,Windows 11 24H2,agent,2025-01-15,2026-04-23,,n/a (agent)
+A-127443,nvk-lt-23027,10.60.1.107,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-127455,nvk-lt-36156,10.60.1.108,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-127493,nvk-lt-29996,10.60.1.109,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-127501,nvk-lt-13630,10.60.1.110,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-127512,nvk-lt-56697,10.60.1.111,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-127542,nvk-lt-63365,10.60.1.112,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-127557,nvk-lt-78906,10.60.1.113,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-127560,nvk-lt-99475,10.60.1.114,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-127587,nvk-lt-72953,10.60.1.115,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-127620,nvk-lt-72953,10.60.1.115,Windows 11 24H2,agent,2025-01-09,2026-05-09,,n/a (agent)
+A-127657,nvk-lt-24238,10.60.1.116,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-127688,nvk-lt-55893,10.60.1.117,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-127725,nvk-lt-89607,10.60.1.118,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-127755,nvk-lt-13937,10.60.1.119,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-127756,nvk-lt-80202,10.60.1.120,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-127781,nvk-lt-89759,10.60.1.121,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-127796,nvk-lt-65776,10.60.1.122,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-127827,nvk-lt-74936,10.60.1.123,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-127846,nvk-lt-74936,10.60.1.123,Windows 11 24H2,agent,2025-01-20,2026-06-03,,n/a (agent)
+A-127884,nvk-lt-56656,10.60.1.124,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-127888,nvk-lt-78263,10.60.1.125,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-127917,nvk-lt-68343,10.60.1.126,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-127923,nvk-lt-62021,10.60.1.127,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-127943,nvk-lt-89218,10.60.1.128,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-127962,nvk-lt-67854,10.60.1.129,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-127979,nvk-lt-67854,10.60.1.129,Windows 11 24H2,agent,2025-01-11,2026-03-16,,n/a (agent)
+A-128001,nvk-lt-53964,10.60.1.130,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-128007,nvk-lt-29369,10.60.1.131,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-128045,nvk-lt-75276,10.60.1.132,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-128070,nvk-lt-80464,10.60.1.133,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-128077,nvk-lt-69337,10.60.1.134,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-128103,nvk-lt-28168,10.60.1.135,Windows 11 24H2,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-128140,nvk-lt-68938,10.60.1.136,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-128158,nvk-lt-19890,10.60.1.137,Windows 11 24H2,agent,2025-01-22,2025-12-11,,n/a (agent)
+A-128193,nvk-lt-59374,10.60.1.138,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-128218,nvk-lt-45832,10.60.1.139,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-128245,nvk-lt-66404,10.60.1.140,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-128267,nvk-lt-22232,10.60.1.141,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-128293,nvk-lt-66565,10.60.1.142,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-128311,nvk-lt-31138,10.60.1.143,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-128329,nvk-lt-80364,10.60.1.144,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-128365,nvk-lt-71143,10.60.1.145,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-128366,nvk-lt-36502,10.60.1.146,Windows 11 24H2,agent,2025-01-25,2026-01-11,,n/a (agent)
+A-128376,nvk-lt-12573,10.60.1.147,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-128413,nvk-lt-14987,10.60.1.148,Windows 11 24H2,agent,2025-01-16,2026-09-19,,n/a (agent)
+A-128433,nvk-lt-77916,10.60.1.149,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-128450,nvk-lt-14783,10.60.1.150,Windows 11 24H2,agent,2025-01-16,2026-09-19,,n/a (agent)
+A-128479,nvk-lt-26841,10.60.1.151,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-128484,nvk-lt-59713,10.60.1.152,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-128507,nvk-lt-10549,10.60.1.153,Windows 11 24H2,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-128535,nvk-lt-78079,10.60.1.154,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-128568,nvk-lt-63732,10.60.1.155,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-128596,nvk-lt-15137,10.60.1.156,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-128608,nvk-lt-24299,10.60.1.157,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-128609,nvk-lt-49287,10.60.1.158,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-128635,nvk-lt-48796,10.60.1.159,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-128652,nvk-lt-75439,10.60.1.160,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-128686,nvk-lt-84487,10.60.1.161,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-128689,nvk-lt-19517,10.60.1.162,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-128699,nvk-lt-12034,10.60.1.163,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-128716,nvk-lt-78555,10.60.1.164,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-128724,nvk-lt-82599,10.60.1.165,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-128733,nvk-lt-82599,10.60.1.165,Windows 11 24H2,agent,2025-01-16,2026-03-14,,n/a (agent)
+A-128767,nvk-lt-37753,10.60.1.166,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-128806,nvk-lt-19765,10.60.1.167,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-128826,nvk-lt-60469,10.60.1.168,Windows 11 24H2,agent,2025-01-15,2026-09-20,,n/a (agent)
+A-128853,nvk-lt-69382,10.60.1.169,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-128878,nvk-lt-34134,10.60.1.170,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-128909,nvk-lt-67876,10.60.1.171,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-128928,nvk-lt-58331,10.60.1.172,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-128942,nvk-lt-59371,10.60.1.173,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-128958,nvk-lt-43438,10.60.1.174,Windows 11 24H2,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-128990,nvk-lt-88684,10.60.1.175,Windows 11 24H2,agent,2025-01-17,2026-04-02,,n/a (agent)
+A-128995,nvk-lt-63700,10.60.1.176,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-129000,nvk-lt-62291,10.60.1.177,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-129029,nvk-lt-45741,10.60.1.178,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-129058,nvk-lt-95502,10.60.1.179,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-129065,nvk-lt-24539,10.60.1.180,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-129081,nvk-lt-86381,10.60.1.181,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-129101,nvk-lt-63158,10.60.1.182,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-129131,nvk-lt-87254,10.60.1.183,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-129148,nvk-lt-94314,10.60.1.184,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-129161,nvk-lt-49888,10.60.1.185,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-129199,nvk-lt-88784,10.60.1.186,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-129208,nvk-lt-76865,10.60.1.187,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-129217,nvk-lt-91490,10.60.1.188,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-129248,nvk-lt-78923,10.60.1.189,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-129271,nvk-lt-34557,10.60.1.190,Windows 11 24H2,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-129305,nvk-lt-34557,10.60.1.190,Windows 11 24H2,agent,2025-01-14,2026-04-15,,n/a (agent)
+A-129319,nvk-lt-49060,10.60.1.191,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-129325,nvk-lt-48556,10.60.1.192,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-129326,nvk-lt-50746,10.60.1.193,Windows 11 24H2,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-129364,nvk-lt-80075,10.60.1.194,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-129383,nvk-lt-80075,10.60.1.194,Windows 11 24H2,agent,2025-01-11,2026-04-07,,n/a (agent)
+A-129387,nvk-lt-91716,10.60.1.195,Windows 11 24H2,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-129398,nvk-lt-30837,10.60.1.196,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-129435,nvk-lt-36400,10.60.1.197,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-129458,nvk-lt-84646,10.60.1.198,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-129480,nvk-lt-84646,10.60.1.198,Windows 11 24H2,agent,2025-01-17,2026-03-04,,n/a (agent)
+A-129508,nvk-lt-52293,10.60.1.199,Windows 11 24H2,agent,2025-01-09,2026-09-21,,n/a (agent)
+A-129518,nvk-lt-34293,10.60.1.200,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-129537,nvk-lt-61281,10.60.1.201,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-129554,nvk-lt-41297,10.60.1.202,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-129573,nvk-lt-21214,10.60.1.203,Windows 11 24H2,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-129611,nvk-lt-60677,10.60.1.204,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-129641,nvk-lt-60677,10.60.1.204,Windows 11 24H2,agent,2025-01-12,2026-03-07,,n/a (agent)
+A-129672,nvk-lt-99763,10.60.1.205,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-129689,nvk-lt-55917,10.60.1.206,Windows 11 24H2,agent,2025-01-22,2026-03-02,,n/a (agent)
+A-129699,nvk-lt-15767,10.60.1.207,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-129729,nvk-lt-53465,10.60.1.208,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-129733,nvk-lt-66628,10.60.1.209,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-129740,nvk-lt-71508,10.60.1.210,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-129775,nvk-lt-23955,10.60.1.211,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-129807,nvk-lt-66397,10.60.1.212,Windows 11 24H2,agent,2025-01-06,2026-04-01,,n/a (agent)
+A-129812,nvk-lt-70875,10.60.1.213,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-129823,nvk-lt-51731,10.60.1.214,Windows 11 24H2,agent,2025-01-16,2026-09-19,,n/a (agent)
+A-129827,nvk-lt-75869,10.60.1.215,Windows 11 24H2,agent,2025-01-08,2026-05-12,,n/a (agent)
+A-129840,nvk-lt-82790,10.60.1.216,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-129862,nvk-lt-77797,10.60.1.217,Windows 11 24H2,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-129863,nvk-lt-63179,10.60.1.218,Windows 11 24H2,agent,2025-01-25,2026-09-20,,n/a (agent)
+A-129899,nvk-lt-87551,10.60.1.219,Windows 11 24H2,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-129912,nvk-lt-38933,10.60.1.220,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-129936,nvk-lt-48313,10.60.1.221,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-129970,nvk-lt-82497,10.60.1.222,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-129975,nvk-lt-48464,10.60.1.223,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-129980,nvk-lt-26758,10.60.1.224,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-129996,nvk-lt-66818,10.60.1.225,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-130025,nvk-lt-87264,10.60.1.226,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-130045,nvk-lt-27687,10.60.1.227,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-130059,nvk-lt-89579,10.60.1.228,Windows 11 24H2,agent,2025-01-11,2026-09-20,,n/a (agent)
+A-130087,nvk-lt-47476,10.60.1.229,Windows 11 24H2,agent,2025-01-06,2026-02-27,,n/a (agent)
+A-130090,nvk-lt-71700,10.60.1.230,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-130117,nvk-lt-49610,10.60.1.231,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-130129,nvk-lt-34837,10.60.1.232,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-130138,nvk-lt-34837,10.60.1.232,Windows 11 24H2,agent,2025-01-23,2026-03-02,,n/a (agent)
+A-130155,nvk-lt-46796,10.60.1.233,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-130160,nvk-lt-73779,10.60.1.234,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-130184,nvk-lt-68682,10.60.1.235,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-130213,nvk-lt-68682,10.60.1.235,Windows 11 24H2,agent,2025-01-25,2026-03-25,,n/a (agent)
+A-130218,nvk-lt-62283,10.60.1.236,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-130230,nvk-lt-86991,10.60.1.237,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-130268,nvk-lt-95371,10.60.1.238,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-130293,nvk-lt-68269,10.60.1.239,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-130294,nvk-lt-68269,10.60.1.239,Windows 11 24H2,agent,2025-01-10,2026-02-15,,n/a (agent)
+A-130324,nvk-lt-10669,10.60.1.240,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-130361,nvk-lt-14639,10.60.1.241,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-130364,nvk-lt-11499,10.60.1.242,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-130372,nvk-lt-98231,10.60.1.243,Windows 11 24H2,agent,2025-01-16,2026-09-19,,n/a (agent)
+A-130396,nvk-lt-51435,10.60.1.244,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-130412,nvk-lt-67890,10.60.1.245,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-130451,nvk-lt-59633,10.60.1.246,Windows 11 24H2,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-130452,nvk-lt-75616,10.60.1.247,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-130454,nvk-lt-69268,10.60.1.248,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-130491,nvk-lt-48384,10.60.1.249,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-130496,nvk-lt-48384,10.60.1.249,Windows 11 24H2,agent,2025-01-19,2026-03-25,,n/a (agent)
+A-130516,nvk-lt-60202,10.60.2.0,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-130520,nvk-lt-94146,10.60.2.1,Windows 11 24H2,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-130551,nvk-lt-41475,10.60.2.2,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-130558,nvk-lt-77743,10.60.2.3,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-130560,nvk-lt-45963,10.60.2.4,Windows 11 24H2,agent,2025-01-10,2026-04-19,,n/a (agent)
+A-130585,nvk-lt-24414,10.60.2.5,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-130586,nvk-lt-38782,10.60.2.6,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-130609,nvk-lt-33999,10.60.2.7,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-130638,nvk-lt-96121,10.60.2.8,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-130645,nvk-lt-96121,10.60.2.8,Windows 11 24H2,agent,2025-01-10,2026-03-09,,n/a (agent)
+A-130647,nvk-lt-97942,10.60.2.9,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-130678,nvk-lt-71777,10.60.2.10,Windows 11 24H2,agent,2025-01-18,2026-09-20,,n/a (agent)
+A-130680,nvk-lt-51349,10.60.2.11,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-130699,nvk-lt-78846,10.60.2.12,Windows 11 24H2,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-130737,nvk-lt-79378,10.60.2.13,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-130764,nvk-lt-83534,10.60.2.14,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-130784,nvk-lt-53709,10.60.2.15,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-130807,nvk-lt-58979,10.60.2.16,Windows 11 24H2,agent,2025-01-10,2026-04-18,,n/a (agent)
+A-130818,nvk-lt-77364,10.60.2.17,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-130838,nvk-lt-50920,10.60.2.18,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-130854,nvk-lt-82279,10.60.2.19,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-130866,nvk-lt-40470,10.60.2.20,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-130882,nvk-lt-48016,10.60.2.21,Windows 11 24H2,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-130917,nvk-lt-65251,10.60.2.22,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-130929,nvk-lt-91508,10.60.2.23,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-130968,nvk-lt-46288,10.60.2.24,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-130992,nvk-lt-14361,10.60.2.25,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-131008,nvk-lt-36774,10.60.2.26,Windows 11 24H2,agent,2025-01-13,2026-09-19,,n/a (agent)
+A-131047,nvk-lt-36774,10.60.2.26,Windows 11 24H2,agent,2025-01-22,2026-05-11,,n/a (agent)
+A-131056,nvk-lt-87539,10.60.2.27,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-131075,nvk-lt-67514,10.60.2.28,Windows 11 24H2,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-131082,nvk-lt-90260,10.60.2.29,Windows 11 24H2,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-131087,nvk-lt-28946,10.60.2.30,Windows 11 24H2,agent,2025-01-13,2026-09-20,,n/a (agent)
+A-131098,nvk-lt-61209,10.60.2.31,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-131100,nvk-lt-23545,10.60.2.32,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-131124,nvk-lt-30821,10.60.2.33,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-131149,nvk-lt-30821,10.60.2.33,Windows 11 24H2,agent,2025-01-09,2026-02-22,,n/a (agent)
+A-131154,nvk-lt-42777,10.60.2.34,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-131167,nvk-lt-98208,10.60.2.35,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-131170,nvk-lt-64720,10.60.2.36,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-131191,nvk-lt-94243,10.60.2.37,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-131224,nvk-lt-56712,10.60.2.38,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-131251,nvk-lt-99293,10.60.2.39,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-131280,nvk-lt-63366,10.60.2.40,Windows 11 24H2,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-131297,nvk-lt-48995,10.60.2.41,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-131307,nvk-lt-49907,10.60.2.42,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-131318,nvk-lt-98510,10.60.2.43,Windows 11 24H2,agent,2025-01-10,2026-09-21,,n/a (agent)
+A-131341,nvk-lt-71974,10.60.2.44,Windows 11 24H2,agent,2025-01-21,2026-04-30,,n/a (agent)
+A-131376,nvk-lt-73890,10.60.2.45,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-131406,nvk-lt-73890,10.60.2.45,Windows 11 24H2,agent,2025-01-24,2026-05-24,,n/a (agent)
+A-131426,nvk-lt-57438,10.60.2.46,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-131453,nvk-lt-62112,10.60.2.47,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-131468,nvk-lt-68969,10.60.2.48,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-131505,nvk-lt-13110,10.60.2.49,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-131529,nvk-lt-13110,10.60.2.49,Windows 11 24H2,agent,2025-01-07,2026-02-22,,n/a (agent)
+A-131557,nvk-lt-31096,10.60.2.50,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-131574,nvk-lt-28941,10.60.2.51,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-131603,nvk-lt-20802,10.60.2.52,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-131626,nvk-lt-10828,10.60.2.53,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-131646,nvk-lt-13955,10.60.2.54,Windows 11 24H2,agent,2025-01-24,2026-04-28,,n/a (agent)
+A-131648,nvk-lt-44781,10.60.2.55,Windows 11 24H2,agent,2025-01-16,2026-09-19,,n/a (agent)
+A-131663,nvk-lt-68693,10.60.2.56,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-131677,nvk-lt-85306,10.60.2.57,Windows 11 24H2,agent,2025-01-15,2026-09-19,,n/a (agent)
+A-131702,nvk-lt-78878,10.60.2.58,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-131734,nvk-lt-34942,10.60.2.59,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-131735,nvk-lt-88724,10.60.2.60,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-131751,nvk-lt-71021,10.60.2.61,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-131779,nvk-lt-49150,10.60.2.62,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-131784,nvk-lt-49150,10.60.2.62,Windows 11 24H2,agent,2025-01-07,2026-03-26,,n/a (agent)
+A-131810,nvk-lt-35696,10.60.2.63,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-131822,nvk-lt-42140,10.60.2.64,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-131824,nvk-lt-98710,10.60.2.65,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-131832,nvk-lt-30428,10.60.2.66,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-131835,nvk-lt-30151,10.60.2.67,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-131863,nvk-lt-88127,10.60.2.68,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-131884,nvk-lt-31631,10.60.2.69,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-131901,nvk-lt-20901,10.60.2.70,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-131920,nvk-lt-29142,10.60.2.71,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-131944,nvk-lt-30567,10.60.2.72,Windows 11 24H2,agent,2025-01-06,2026-09-20,,n/a (agent)
+A-131959,nvk-lt-88645,10.60.2.73,Windows 11 24H2,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-131972,nvk-lt-90747,10.60.2.74,Windows 11 24H2,agent,2025-01-10,2025-12-25,,n/a (agent)
+A-131979,nvk-lt-70493,10.60.2.75,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-131996,nvk-lt-58468,10.60.2.76,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-132010,nvk-lt-85438,10.60.2.77,Windows 11 24H2,agent,2025-01-24,2026-09-20,,n/a (agent)
+A-132027,nvk-lt-68976,10.60.2.78,Windows 11 24H2,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-132055,nvk-lt-92014,10.60.2.79,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-132064,nvk-lt-17317,10.60.2.80,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-132074,nvk-lt-89472,10.60.2.81,Windows 11 24H2,agent,2025-01-09,2026-09-19,,n/a (agent)
+A-132093,nvk-lt-85501,10.60.2.82,Windows 11 24H2,agent,2025-01-22,2025-12-05,,n/a (agent)
+A-132113,nvk-lt-66219,10.60.2.83,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-132129,nvk-lt-52501,10.60.2.84,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-132142,nvk-lt-25689,10.60.2.85,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-132147,nvk-lt-92422,10.60.2.86,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-132161,nvk-lt-65452,10.60.2.87,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-132187,nvk-lt-89312,10.60.2.88,Windows 11 24H2,agent,2025-01-19,2026-09-19,,n/a (agent)
+A-132226,nvk-lt-39037,10.60.2.89,Windows 11 24H2,agent,2025-01-15,2026-03-05,,n/a (agent)
+A-132242,nvk-lt-49042,10.60.2.90,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-132254,nvk-lt-10961,10.60.2.91,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-132269,nvk-lt-27919,10.60.2.92,Windows 11 24H2,agent,2025-01-08,2026-09-19,,n/a (agent)
+A-132276,nvk-lt-16623,10.60.2.93,Windows 11 24H2,agent,2025-01-07,2025-12-01,,n/a (agent)
+A-132313,nvk-lt-72292,10.60.2.94,Windows 11 24H2,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-132325,nvk-lt-91529,10.60.2.95,Windows 11 24H2,agent,2025-01-23,2026-09-19,,n/a (agent)
+A-132339,nvk-lt-59984,10.60.2.96,Windows 11 24H2,agent,2025-01-24,2026-09-21,,n/a (agent)
+A-132374,nvk-lt-56492,10.60.2.97,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-132387,nvk-lt-17184,10.60.2.98,Windows 11 24H2,agent,2025-01-14,2026-03-06,,n/a (agent)
+A-132414,nvk-lt-80217,10.60.2.99,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-132425,nvk-lt-45267,10.60.2.100,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-132463,nvk-lt-39304,10.60.2.101,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-132489,nvk-lt-28654,10.60.2.102,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-132495,nvk-lt-15812,10.60.2.103,Windows 11 24H2,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-132533,nvk-lt-47257,10.60.2.104,Windows 11 24H2,agent,2025-01-06,2026-04-13,,n/a (agent)
+A-132539,nvk-lt-29686,10.60.2.105,Windows 11 24H2,agent,2025-01-09,2026-09-20,,n/a (agent)
+A-132557,nvk-lt-92881,10.60.2.106,Windows 11 24H2,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-132591,nvk-lt-75149,10.60.2.107,Windows 11 24H2,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-132600,nvk-lt-75149,10.60.2.107,Windows 11 24H2,agent,2025-01-19,2026-04-09,,n/a (agent)
+A-132604,nvk-lt-94970,10.60.2.108,Windows 11 24H2,agent,2025-01-19,2026-09-20,,n/a (agent)
+A-132622,nvk-lt-76974,10.60.2.109,Windows 11 24H2,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-132649,nvk-lt-89195,10.60.2.110,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-132661,nvk-lt-64906,10.60.2.111,Windows 11 24H2,agent,2025-01-09,2026-09-19,,n/a (agent)
+A-132663,nvk-lt-47200,10.60.2.112,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-132682,nvk-lt-40593,10.60.2.113,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-132715,nvk-lt-91045,10.60.2.114,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-132749,nvk-lt-56859,10.60.2.115,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-132758,nvk-lt-70408,10.60.2.116,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-132775,nvk-lt-31767,10.60.2.117,Windows 11 24H2,agent,2025-01-20,2026-09-19,,n/a (agent)
+A-132814,nvk-lt-31767,10.60.2.117,Windows 11 24H2,agent,2025-01-25,2026-04-30,,n/a (agent)
+A-132816,nvk-lt-29628,10.60.2.118,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-132836,nvk-lt-26215,10.60.2.119,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-132847,nvk-lt-18854,10.60.2.120,Windows 11 24H2,agent,2025-01-20,2026-09-21,,n/a (agent)
+A-132875,nvk-lt-11054,10.60.2.121,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-132890,nvk-lt-11054,10.60.2.121,Windows 11 24H2,agent,2025-01-13,2026-02-14,,n/a (agent)
+A-132911,nvk-lt-51716,10.60.2.122,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-132933,nvk-lt-43900,10.60.2.123,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-132964,nvk-lt-82856,10.60.2.124,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-132987,nvk-lt-61758,10.60.2.125,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-133020,nvk-lt-61434,10.60.2.126,Windows 11 24H2,agent,2025-01-17,2026-09-21,,n/a (agent)
+A-133032,nvk-lt-68555,10.60.2.127,Windows 11 24H2,agent,2025-01-13,2026-09-21,,n/a (agent)
+A-133038,nvk-lt-43136,10.60.2.128,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-133046,nvk-lt-68701,10.60.2.129,Windows 11 24H2,agent,2025-01-11,2026-09-19,,n/a (agent)
+A-133058,nvk-lt-25456,10.60.2.130,Windows 11 24H2,agent,2025-01-20,2026-09-20,,n/a (agent)
+A-133076,nvk-lt-81766,10.60.2.131,Windows 11 24H2,agent,2025-01-23,2026-09-21,,n/a (agent)
+A-133100,nvk-lt-77098,10.60.2.132,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-133136,nvk-lt-46171,10.60.2.133,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-133168,nvk-lt-96882,10.60.2.134,Windows 11 24H2,agent,2025-01-22,2026-09-20,,n/a (agent)
+A-133194,nvk-lt-22225,10.60.2.135,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-133232,nvk-lt-41405,10.60.2.136,Windows 11 24H2,agent,2025-01-24,2026-04-27,,n/a (agent)
+A-133247,nvk-lt-17271,10.60.2.137,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-133267,nvk-lt-66869,10.60.2.138,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-133302,nvk-lt-22337,10.60.2.139,Windows 11 24H2,agent,2025-01-07,2026-09-20,,n/a (agent)
+A-133333,nvk-lt-24490,10.60.2.140,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-133353,nvk-lt-35923,10.60.2.141,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-133377,nvk-lt-36258,10.60.2.142,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-133385,nvk-lt-57655,10.60.2.143,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-133388,nvk-lt-81790,10.60.2.144,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-133418,nvk-lt-53673,10.60.2.145,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-133447,nvk-lt-40752,10.60.2.146,Windows 11 24H2,agent,2025-01-07,2025-11-01,,n/a (agent)
+A-133471,nvk-lt-38565,10.60.2.147,Windows 11 24H2,agent,2025-01-14,2026-09-21,,n/a (agent)
+A-133488,nvk-lt-38565,10.60.2.147,Windows 11 24H2,agent,2025-01-07,2026-05-14,,n/a (agent)
+A-133497,nvk-lt-78925,10.60.2.148,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-133507,nvk-lt-56489,10.60.2.149,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-133534,nvk-lt-83214,10.60.2.150,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-133569,nvk-lt-59917,10.60.2.151,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-133573,nvk-lt-51812,10.60.2.152,Windows 11 24H2,agent,2025-01-24,2026-09-20,,n/a (agent)
+A-133588,nvk-lt-88622,10.60.2.153,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-133599,nvk-lt-92468,10.60.2.154,Windows 11 24H2,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-133602,nvk-lt-79977,10.60.2.155,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-133615,nvk-lt-38759,10.60.2.156,Windows 11 24H2,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-133629,nvk-lt-87098,10.60.2.157,Windows 11 24H2,agent,2025-01-18,2026-09-19,,n/a (agent)
+A-133646,nvk-lt-53942,10.60.2.158,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-133677,nvk-lt-63960,10.60.2.159,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-133706,nvk-lt-24423,10.60.2.160,Windows 11 24H2,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-133744,nvk-lt-62321,10.60.2.161,Windows 11 24H2,agent,2025-01-21,2026-09-20,,n/a (agent)
+A-133754,nvk-lt-16591,10.60.2.162,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-133773,nvk-lt-37884,10.60.2.163,Windows 11 24H2,agent,2025-01-22,2026-09-19,,n/a (agent)
+A-133781,nvk-lt-52313,10.60.2.164,Windows 11 24H2,agent,2025-01-14,2026-09-20,,n/a (agent)
+A-133797,nvk-lt-55475,10.60.2.165,Windows 11 24H2,agent,2025-01-09,2026-09-19,,n/a (agent)
+A-133818,nvk-lt-99498,10.60.2.166,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-133839,nvk-lt-97695,10.60.2.167,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-133845,nvk-lt-47081,10.60.2.168,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-133869,nvk-lt-53384,10.60.2.169,Windows 11 24H2,agent,2025-01-07,2026-09-19,,n/a (agent)
+A-133886,nvk-lt-40898,10.60.2.170,Windows 11 24H2,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-133916,nvk-lt-80850,10.60.2.171,Windows 11 24H2,agent,2025-01-06,2026-09-21,,n/a (agent)
+A-133925,nvk-lt-83928,10.60.2.172,Windows 11 24H2,agent,2025-01-18,2026-09-21,,n/a (agent)
+A-133937,nvk-lt-75221,10.60.2.173,Windows 11 24H2,agent,2025-01-17,2026-09-20,,n/a (agent)
+A-133975,nvk-lt-13541,10.60.2.174,Windows 11 24H2,agent,2025-01-14,2026-09-19,,n/a (agent)
+A-133987,nvk-lt-30094,10.60.2.175,Windows 11 24H2,agent,2025-01-12,2026-09-21,,n/a (agent)
+A-134023,nvk-lt-77311,10.60.2.176,Windows 11 24H2,agent,2025-01-11,2026-09-21,,n/a (agent)
+A-134043,nvk-lt-24267,10.60.2.177,Windows 11 24H2,agent,2025-01-15,2026-09-21,,n/a (agent)
+A-134057,nvk-lt-76522,10.60.2.178,Windows 11 24H2,agent,2025-01-12,2026-09-19,,n/a (agent)
+A-134085,nvk-lt-31244,10.60.2.179,Windows 11 24H2,agent,2025-01-22,2026-09-21,,n/a (agent)
+A-134090,nvk-lt-31335,10.60.2.180,Windows 11 24H2,agent,2025-01-21,2026-09-19,,n/a (agent)
+A-134109,nvk-lt-82081,10.60.2.181,Windows 11 24H2,agent,2025-01-08,2026-09-21,,n/a (agent)
+A-134132,nvk-lt-29627,10.60.2.182,Windows 11 24H2,agent,2025-01-25,2026-09-21,,n/a (agent)
+A-134152,nvk-lt-60645,10.60.2.183,Windows 11 24H2,agent,2025-01-06,2026-09-19,,n/a (agent)
+A-134175,nvk-lt-92196,10.60.2.184,Windows 11 24H2,agent,2025-01-24,2026-09-19,,n/a (agent)
+A-134214,nvk-lt-48785,10.60.2.185,Windows 11 24H2,agent,2025-01-23,2026-09-20,,n/a (agent)
+A-134231,nvk-lt-28688,10.60.2.186,Windows 11 24H2,agent,2025-01-25,2026-09-19,,n/a (agent)
+A-134242,nvk-lt-67357,10.60.2.187,Windows 11 24H2,agent,2025-01-17,2026-09-19,,n/a (agent)
+A-134258,nvk-lt-98118,10.60.2.188,Windows 11 24H2,agent,2025-01-16,2026-09-20,,n/a (agent)
+A-134273,nvk-lt-22745,10.60.2.189,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-134283,nvk-lt-91859,10.60.2.190,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-134294,nvk-lt-85149,10.60.2.191,Windows 11 24H2,agent,2025-01-21,2026-09-21,,n/a (agent)
+A-134317,nvk-lt-12293,10.60.2.192,Windows 11 24H2,agent,2025-01-19,2026-09-21,,n/a (agent)
+A-134327,nvk-lt-63828,10.60.2.193,Windows 11 24H2,agent,2025-01-10,2026-09-19,,n/a (agent)
+A-134358,nvk-lt-71736,10.60.2.194,Windows 11 24H2,agent,2025-01-08,2026-09-20,,n/a (agent)
+A-134365,nvk-lt-26000,10.60.2.195,Windows 11 24H2,agent,2025-01-17,2026-02-25,,n/a (agent)
+A-134373,nvk-lt-80510,10.60.2.196,Windows 11 24H2,agent,2025-01-16,2026-09-21,,n/a (agent)
+A-134385,nvk-lt-10393,10.60.2.197,Windows 11 24H2,agent,2025-01-10,2026-09-20,,n/a (agent)
+A-134414,nvk-lt-82825,10.60.2.198,Windows 11 24H2,agent,2025-01-12,2026-09-20,,n/a (agent)
+A-134426,nvk-lt-93211,10.60.2.199,Windows 11 24H2,agent,2025-01-07,2026-09-21,,n/a (agent)
+A-134464,hqw-app301.corp.norvik.local,10.10.9.11,Windows Server 2016,network,2025-01-14,2026-04-23,2026-04-23,Success
+A-134469,hqw-app302.corp.norvik.local,10.10.9.12,Windows Server 2016,network,2025-01-10,2026-04-25,2026-04-25,Success
+A-134477,hqw-app303.corp.norvik.local,10.10.9.13,Windows Server 2016,network,2025-01-22,2025-12-24,2025-12-24,Success
+A-134494,hqw-app304.corp.norvik.local,10.10.9.14,Windows Server 2016,network,2025-01-20,2026-02-23,2026-02-23,Success
+A-134506,hqw-app305.corp.norvik.local,10.10.9.15,Windows Server 2016,network,2025-01-24,2026-03-19,2026-03-19,Success
+A-134532,hqw-app306.corp.norvik.local,10.10.9.16,Windows Server 2016,network,2025-01-24,2025-12-27,2025-12-27,Success
+A-134559,hqw-app307.corp.norvik.local,10.10.9.17,Windows Server 2016,network,2025-01-10,2026-02-28,2026-02-28,Success
+A-134580,hqw-app308.corp.norvik.local,10.10.9.18,Windows Server 2016,network,2025-01-24,2026-01-13,2026-01-13,Success
+A-134604,hqw-app309.corp.norvik.local,10.10.9.19,Windows Server 2016,network,2025-01-16,2026-04-16,2026-04-16,Success
+A-134621,hqw-app310.corp.norvik.local,10.10.9.20,Windows Server 2016,network,2025-01-13,2026-04-16,2026-04-16,Success
+A-134627,lab-tmp01.corp.norvik.local,10.10.34.12,Windows Server 2019,network,2025-09-17,2026-09-17,2026-09-17,Success
+A-134640,lab-tst02.corp.norvik.local,10.10.36.153,Windows Server 2019,network,2025-07-04,2026-09-18,2026-09-18,Success
+A-134645,lab-tst03.corp.norvik.local,10.10.39.87,Windows Server 2019,network,2025-11-08,2026-09-16,2026-09-16,Success
+A-134674,lab-tmp04.corp.norvik.local,10.10.31.236,Ubuntu 22.04 LTS,network,2026-03-14,2026-09-15,2026-09-15,Success
+A-134679,lab-tmp05.corp.norvik.local,10.10.34.159,Windows Server 2019,network,2025-07-21,2026-09-20,2026-09-20,Success
+A-134688,lab-tmp06.corp.norvik.local,10.10.38.4,Windows Server 2019,network,2025-08-14,2026-09-21,2026-09-21,Success
+A-134704,lab-tmp07.corp.norvik.local,10.10.36.177,Ubuntu 22.04 LTS,network,2025-07-28,2026-09-16,2026-09-16,Success
+A-134724,lab-tmp08.corp.norvik.local,10.10.37.111,Windows Server 2019,network,2025-06-29,2026-09-18,2026-09-18,Success
+A-134730,lab-poc09.corp.norvik.local,10.10.32.106,Windows Server 2019,network,2025-10-09,2026-09-15,2026-09-15,Success
+A-134765,lab-tst10.corp.norvik.local,10.10.37.130,Ubuntu 22.04 LTS,network,2025-06-02,2026-09-20,2026-09-20,Success
+A-134770,lab-tst11.corp.norvik.local,10.10.32.158,Windows Server 2019,network,2025-10-17,2026-09-15,2026-09-15,Success
+A-134790,lab-tmp12.corp.norvik.local,10.10.36.35,Ubuntu 22.04 LTS,network,2025-06-14,2026-09-21,2026-09-21,Success
+A-134823,lab-poc13.corp.norvik.local,10.10.34.191,Ubuntu 22.04 LTS,network,2025-12-22,2026-09-20,2026-09-20,Success
+A-134845,lab-tst14.corp.norvik.local,10.10.32.101,Windows Server 2019,network,2026-02-25,2026-09-15,2026-09-15,Success
+A-134849,lab-tst15.corp.norvik.local,10.10.32.10,Ubuntu 22.04 LTS,network,2025-08-05,2026-09-20,2026-09-20,Success
+A-134887,lab-tst16.corp.norvik.local,10.10.36.194,Windows Server 2019,network,2025-09-27,2026-09-19,2026-09-19,Success
+A-134912,lab-poc17.corp.norvik.local,10.10.38.38,Ubuntu 22.04 LTS,network,2025-08-10,2026-09-15,2026-09-15,Success
+A-134951,lab-poc18.corp.norvik.local,10.10.32.155,Ubuntu 22.04 LTS,network,2026-03-25,2026-09-19,2026-09-19,Success

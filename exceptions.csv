@@ -1,0 +1,11 @@
+exception_id,scope,requested_by,approved_by,approved_date,expiry_date,justification,status
+EXC-0001,All findings on HQW-WMS001..HQW-WMS012 (Windows Server 2012 R2),Warehouse Systems,Head of Warehouse IT,2024-11-18,2025-03-31,Legacy WMS application does not support newer Windows. Migration to new WMS planned for Q1 2025.,Active
+EXC-0002,Windows security updates on production ERP servers (HQW-ERP*),ERP Team,ERP Programme Manager,2026-01-05,2026-12-31,Change freeze during S/4HANA migration. Patching resumes after go-live.,Active
+EXC-0003,All POS terminals (store POS VLAN) excluded from vulnerability scanning,Store IT,CISO (then: M. Holm),2023-03-02,,POS terminals are scanned by the payment terminal vendor as part of PCI DSS compliance. Scanning from our scanner risks disrupting card payments.,Active
+EXC-0004,SMB Signing not required on store servers (*-SRV01),Store IT,Store IT Lead,2025-04-10,2026-04-10,Legacy scale integration in the bakery department requires SMB without signing.,Active
+EXC-0005,"CVE-2025-68686 on HQ-VPN01, HQ-VPN02",Network Team,Network Team Lead,2026-03-02,2027-02-28,Medium severity only. Firmware upgrade to be scheduled with vendor during next major maintenance window.,Active
+EXC-0006,"TLS 1.0 on HQW-PRT022, HQW-PRT129",Windows Server Team,Security Team (R. Nielsen),2026-05-04,2026-10-31,Label printer fleet in the warehouse only supports TLS 1.0. Printers are replaced in October. Hosts are firewalled to the printer VLAN only.,Active
+EXC-0007,CVE-2024-37085 on HQESX01..HQESX16,Virtualization Team,Security Team (R. Nielsen),2025-02-14,2026-12-31,"Workaround applied: Config.HostAgent.plugins.hostsvc.esxAdminsGroup cleared and AD group ""ESX Admins"" deleted. Evidence: change CHG0041127. vSphere 7 hosts replaced in hardware refresh.",Active
+EXC-0008,"Oracle Java SE on NVK-LT-10393, NVK-LT-10961, NVK-LT-11785",Finance,Head of Finance,2026-02-01,2026-12-31,Legacy bank integration client requires Java 8u. Replacement by bank-provided web portal in progress.,Active
+EXC-0009,All Medium and Low findings on Test environment assets,IT Infrastructure,IT Infrastructure Manager,2024-09-01,,Test systems contain no production data.,Active
+EXC-0010,All findings on HQW-APP305,Windows Server Team,Windows Server Team Lead,2025-10-01,2026-01-31,Server to be decommissioned in December.,Expired
