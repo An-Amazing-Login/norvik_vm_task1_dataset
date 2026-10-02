@@ -1,0 +1,19 @@
+personal mood diary
+
+Its nice to be in the "honey moon" phase of problem solving. Just reading and learning the terms is interesting, if nothing else. I started approximately 12:15, set up my vscode and github folders. Claude Opus 5.5 suggests 10-15 hours of work is appropriate, I think I will take however much time I need, until I despise it. 12:57 29/09.
+
+what even is a LAND attack.. it's not relevant, but the 2026-09-21 EPSS scores listed CVE-1999-0016 as their 99.8th percentile highest likelyhood of being exploited within the next 30 days. But its a network vulnerability causing DoS from freaking 1999. Whatever, diversion. Fun to learn about history I suppose. 13:32 29/09.
+
+The quantity of data on the CVE list is somewhat overwhelming, but its also lunch time. I have looked at the plugin_CVE file and determined that there are no CVEs listed older than 2020. approx 14:15 29/09
+
+Some progress, it feels quite good. The "14079" open issues are just taking the raw scanner outputs and looking for every one termed "open". Just removing the listed exceptions (though maybe one should not remove all exceptions) leaves 13283 issues, removing about 800. There are two findings of HQW-app305 active from march 2026 despite the server being slated for decomission in december 2025. I can't make more headway now. I have spent maybe 3 hours on staring at the data. I have an idea for pairing cmdb asset names to finding asset names, since it seems on cursory glance that the ip's of the hosts are unique in both datasets.  16:40 29/09
+
+ip's seems to behave well as a link between datasets. There seem to be unscanned assets that are in use, which would worry me. I am doing this coding purely by hand and with no LLM help by habit and also a need to have time to absorb the information. Joining data seems fun, figuring out the implementation details does not excite me. 11:35 01/10
+
+there are unscanned assets and untracked assets seen by the scanner. I think I'm sick today but its not too bad. I'm a bit lost of how to enrich the data with the epss scores but I haven't seriously tried yet. I think I'm leaving off here for today 12:42 01/10
+
+starting again 15:00 02/10
+
+its slow and frustrating work to join the data together, but its also not too bad. I bet if I did a similar thing after this experience I'd be much faster. If there was some already extant infrastructure for the security team that would also help. Right now I'm trying to figure out how many findings are from retired systems. There's also a question about (16:00 02/10?)
+
+detective work is getting fun now. Especially sending questions to the manager and other team leads. That's a much more appealing part of the work than cleaning data, but I will try to do as much as I can in advance of talking more to claude. Still, email wrangling is in fact.. fun? 02/10 2026

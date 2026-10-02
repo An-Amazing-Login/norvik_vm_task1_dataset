@@ -9998,3 +9998,5 @@
 2020/25xxx/CVE-2020-25005.json
 2020/25xxx/CVE-2020-25006.json
 2020/25xxx/CVE-2020-25010.json
+epss_scores-2026-09-21.csv.gz
+known_exploited_vulnerabilities_schema.json
