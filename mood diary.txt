@@ -17,3 +17,15 @@ starting again 15:00 02/10
 its slow and frustrating work to join the data together, but its also not too bad. I bet if I did a similar thing after this experience I'd be much faster. If there was some already extant infrastructure for the security team that would also help. Right now I'm trying to figure out how many findings are from retired systems. There's also a question about (16:00 02/10?)
 
 detective work is getting fun now. Especially sending questions to the manager and other team leads. That's a much more appealing part of the work than cleaning data, but I will try to do as much as I can in advance of talking more to claude. Still, email wrangling is in fact.. fun? 02/10 2026
+
+I can do this sort of work while sad. But its not fun and is only ok and I have no desire to do it unpaid. 11:35 05/10
+
+I didn't find anything better to do, I guess. The scanner_assets has duplicates of machines in it. That's weird and unfortunate. Quitting now though. Not very productive, but whatever. It's harder for me than Claude predicted which is forcing me to grow 13:20 05/10.
+
+spent literally all day engaging with the problem set. It's harder on me than I can really deal with, but I'm doing my best. It's apparently very engaging sometimes? It helps that I'm feeling like I'm learning lots of stuff 16:00 07/10
+
+There's a lot more to learn but I think this is a good direction for me to go. This all will be a lot easier once I allow myself to use LLM's for coding tasks I am not particularly good at. 13:22 12/10 
+
+More or less done now. I looked at the spoilers key to check my own ideas for what to do, I think I did ok. The only thing I haven't done is the writing, and the only really embarrassing mistake is that I missed that a lot of the norwegian servers failed their scans entirely. I'm skipping the part of revising deadlines: I know the math of what I want to do (it would involve adjusting the weight of long open problems to account for the fact that they show up on multiple reports) and it would be a very frustrating coding problem that wouldn't teach me very much. Something I'd implement with an LLM's coding help. The prioritization problem felt pretty natural to design, the data cleaning was nice when it was detective work and bad when I did it by hand instead of having an LLM help me code the python scripts. I've probably spent more like 25 hours than 15, but it's alright. 16:30 24/10 (I did take a vacation last week)
+
+Writing the texts went fine. No anxiety over that, it isn't hugely fun. 18:30 24/10
